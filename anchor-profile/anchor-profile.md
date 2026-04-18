@@ -1,17 +1,10 @@
 ---
 kind: collective
-name: My Organization
-description: Tell the world what your organization is about
-website: https://example.com
-email: hello@example.com
+name: Rizom Work
+description: Workshops and tools for teams that need to coordinate better.
+website: https://rizom.work
 socialLinks:
-  - platform: github
-    url: https://github.com/example
-    label: View our code on GitHub
   - platform: linkedin
-    url: https://www.linkedin.com/company/example
-    label: Follow us on LinkedIn
-  - platform: email
-    url: mailto:hello@example.com
-    label: Email us
+    url: https://www.linkedin.com/company/rizom-collective
+    label: LinkedIn
 ---
