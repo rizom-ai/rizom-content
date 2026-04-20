@@ -7,14 +7,8 @@ sectionId: problem
 ## Kicker
 The Problem
 
-## Headline start
-Talent isn't the bottleneck.
-
-## Headline emphasis
-Coordination
-
-## Headline end
- is.
+## Headline
+Talent isn't the bottleneck. *Coordination* is.
 
 ## Subhead
 Teams don't fail because people are untalented. They fail because nobody has mapped who knows what, who decides what, and how information moves. When you add AI into that — it doesn't help, it just automates the confusion.

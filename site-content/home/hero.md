@@ -7,14 +7,8 @@ sectionId: hero
 ## Kicker
 A workshop practice · since 2023
 
-## Headline start
-Your team has a knowledge problem. AI is making it
-
-## Headline emphasis
-visible
-
-## Headline end
-.
+## Headline
+Your team has a knowledge problem. AI is making it *visible*.
 
 ## Subtitle
 TMS workshops that help teams coordinate better — so your people, and your AI tools, can actually do their best work.

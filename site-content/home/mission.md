@@ -7,14 +7,8 @@ sectionId: mission
 ## Preamble
 The fastest way to find out what kind of coordination problem you have.
 
-## Headline start
-Ready to find out what 
-
-## Headline emphasis
-type of team
-
-## Headline end
- you are?
+## Headline
+Ready to find out what *type of team* you are?
 
 ## Primary CTA label
 Take the Team Type quiz →
