@@ -4,17 +4,17 @@ sectionId: ownership
 ---
 # Ownership Section
 
-## Badge
+## Kicker
 Who We Are
 
 ## Headline
 A commercial practice with a non-profit research arm.
 
-## Features
+## Cards
 
-### Feature 1
+### Card 1
 
-#### Icon
+#### Badge
 JH
 
 #### Title
@@ -23,9 +23,9 @@ Jan Hein Hoogstad — founder
 #### Body
 Philosopher and ecosystem architect. Founded rizom.work as the commercial face so the research at rizom.foundation could stay independent and openly funded. The two sides feed each other.
 
-### Feature 2
+### Card 2
 
-#### Icon
+#### Badge
 N
 
 #### Title
@@ -34,9 +34,9 @@ Natalie — workshop lead
 #### Body
 Runs the TMS sessions, owns delivery, and makes sure every workshop produces something a team can act on the same week.
 
-### Feature 3
+### Card 3
 
-#### Icon
+#### Badge
 +
 
 #### Title
