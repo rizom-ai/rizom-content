@@ -15,19 +15,19 @@ One ecosystem. The platform, the vision, the network.
 ### Card 1
 
 #### Suffix
-ai
+work
 
 #### Title
-The platform
+The workshops
 
 #### Body
-Open-source AI agents built from your own knowledge. The tools that make everything else possible.
+TMS workshops and team coordination practice. The commercial face that funds the research.
 
 #### Link Label
-See the platform →
+You are here
 
 #### Link Href
-https://rizom.ai
+/
 
 ### Card 2
 
@@ -35,29 +35,30 @@ https://rizom.ai
 foundation
 
 #### Title
-The vision
+The research
 
 #### Body
-Essays, principles, and community. Why we believe the future of knowledge work is distributed, owned, and play.
+Essays, events, and public infrastructure. The non-profit research arm where the ideas come from.
 
 #### Link Label
-Coming soon
+Read the manifesto →
 
 #### Link Href
+https://rizom.foundation
 
 ### Card 3
 
 #### Suffix
-work
+ai
 
 #### Title
-The network
+The platform
 
 #### Body
-Distributed consultancy powered by brains. Specialized expertise that mobilizes in hours, not months. Teams that assemble themselves.
+Open-source AI agents built from your own knowledge — the technical layer behind the coordination methodology.
 
 #### Link Label
-You are here
+See the platform →
 
 #### Link Href
-/
+https://rizom.ai
