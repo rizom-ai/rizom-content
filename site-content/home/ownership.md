@@ -37,7 +37,7 @@ Runs the TMS sessions, owns delivery, and makes sure every workshop produces som
 ### Card 3
 
 #### Badge
-+
+\+
 
 #### Title
 A network of practitioners
