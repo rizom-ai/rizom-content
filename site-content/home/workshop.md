@@ -8,7 +8,8 @@ sectionId: workshop
 TMS Workshop
 
 ## Headline
-One session. Clear diagnosis. Immediate team-level insight.
+One session. Clear diagnosis.
+Immediate team-level insight.
 
 ## Intro
 Outcomes-first. We map your team's transactive memory system — who knows what, how decisions flow, where information drops on the floor — and hand you a working diagnosis you can act on the next day.
