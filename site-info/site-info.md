@@ -5,6 +5,6 @@ copyright: © 2026 · Rizom Collective
 themeMode: dark
 cta:
   heading: Talk with us
-  buttonText: Book a discovery call
+  buttonText: Take the quiz
   buttonLink: '#cta'
 ---
