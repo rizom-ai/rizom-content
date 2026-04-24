@@ -5,7 +5,7 @@ sectionId: hero
 # Work Hero Section
 
 ## Kicker
-A workshop practice · since 2023
+Organizational consultancy for the AI era
 
 ## Headline
 Your team has a knowledge problem. AI is making it *visible*.
