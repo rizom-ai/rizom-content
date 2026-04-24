@@ -5,7 +5,7 @@ sectionId: workshop
 # Workshop Section
 
 ## Kicker
-THE PROCESS
+THE WORKSHOP
 
 ## Headline
 One session. A map your whole team can act on.
