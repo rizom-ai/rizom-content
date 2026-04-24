@@ -11,7 +11,7 @@ A workshop practice · since 2023
 Your team has a knowledge problem. AI is making it *visible*.
 
 ## Subtitle
-TMS workshops that help teams coordinate better — so your people, and your AI tools, can actually do their best work.
+TMS workshops that help teams coordinate better - so your people, and your AI tools, can actually do their best work.
 
 ## Primary CTA label
 Take the Team Type quiz →
