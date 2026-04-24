@@ -1,6 +1,6 @@
 ---
 title: Rizom Work
-description: Organizational consultancy for teams that need to coordinate better.
+description: TMS workshops for teams that need to coordinate better.
 copyright: © 2026 · Rizom Collective
 themeMode: dark
 cta:
