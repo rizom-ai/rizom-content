@@ -18,10 +18,10 @@ One ecosystem. The platform, the vision, the network.
 work
 
 #### Title
-The workshops
+The consultancy
 
 #### Body
-TMS workshops and team coordination practice. The commercial face that funds the research.
+Organizational consultancy and team coordination practice. The commercial face that funds the research.
 
 #### Link Label
 You are here
