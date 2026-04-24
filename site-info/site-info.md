@@ -4,7 +4,7 @@ description: TMS workshops for teams that need to coordinate better.
 copyright: © 2026 · Rizom Collective
 themeMode: dark
 cta:
-  heading: Talk with us
+  heading: Take the quiz
   buttonText: Take the quiz
-  buttonLink: '#cta'
+  buttonLink: https://typeform.com
 ---
