@@ -76,3 +76,4 @@ AI Engineering Specialist
 A network of practitioners
 
 #### Body
+Specialists we bring in when a team needs deeper facilitation, domain expertise, or implementation support after the workshop.
