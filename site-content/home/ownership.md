@@ -5,7 +5,7 @@ sectionId: ownership
 # Ownership Section
 
 ## Kicker
-Who We Are
+WHO WE ARE
 
 ## Headline
 A commercial practice with a non-profit research arm.
@@ -18,29 +18,62 @@ A commercial practice with a non-profit research arm.
 JH
 
 #### Title
-Jan Hein Hoogstad — founder
+Jan Hein Hoogstad
 
 #### Body
-Philosopher and ecosystem architect. Founded rizom.work as the commercial face so the research at rizom.foundation could stay independent and openly funded. The two sides feed each other.
+Founder & CEO
 
 ### Card 2
 
 #### Badge
-N
+NW
 
 #### Title
-Natalie — workshop lead
+Natalie Wong
 
 #### Body
-Runs the TMS sessions, owns delivery, and makes sure every workshop produces something a team can act on the same week.
+Operations Specialist
 
 ### Card 3
 
 #### Badge
-\+
+SS
+
+#### Title
+Samantha Shao
+
+#### Body
+Communications Specialist
+
+### Card 4
+
+#### Badge
+JL
+
+#### Title
+Joanna Lisiak
+
+#### Body
+TMS Specialist
+
+### Card 5
+
+#### Badge
+MS
+
+#### Title
+Max Singer
+
+#### Body
+AI Engineering Specialist
+
+### Card 6
+
+#### Badge
++
 
 #### Title
 A network of practitioners
 
 #### Body
-Co-facilitators, researchers, and operators across Amsterdam, Rotterdam, and Berlin.
+
