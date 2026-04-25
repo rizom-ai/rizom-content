@@ -5,13 +5,13 @@ sectionId: hero
 # Work Hero Section
 
 ## Kicker
-Organizational consultancy for the AI era
+Coordination for the AI era
 
 ## Headline
 Your team has a knowledge problem. AI is making it *visible*.
 
 ## Subtitle
-TMS-based consulting that helps teams coordinate better - so your people, and your AI tools, can actually do their best work.
+TMS-based consulting that helps teams coordinate better, so your people and your AI tools can actually do their best work.
 
 ## Primary CTA label
 Take the Team Type quiz →
