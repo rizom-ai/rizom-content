@@ -6,5 +6,6 @@ themeMode: dark
 cta:
   heading: Take the quiz
   buttonText: Take the quiz
-  buttonLink: https://typeform.com
+  buttonLink: 'https://typeform.com'
 ---
+
