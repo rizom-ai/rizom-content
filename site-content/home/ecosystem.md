@@ -8,7 +8,7 @@ sectionId: ecosystem
 The Ecosystem
 
 ## Headline
-One ecosystem. The platform, the vision, the network.
+One practice. *Three faces.*
 
 ## Cards
 
@@ -18,10 +18,10 @@ One ecosystem. The platform, the vision, the network.
 work
 
 #### Title
-The consultancy
+The service
 
 #### Body
-Organizational consultancy and team coordination practice. The commercial face that funds the research.
+Workshops and consulting that apply the methodology in live engagements.
 
 #### Link Label
 You are here
@@ -35,10 +35,10 @@ You are here
 foundation
 
 #### Title
-The research
+The source
 
 #### Body
-Essays, events, and public infrastructure. The non-profit research arm where the ideas come from.
+The non-profit that holds the IP and stewards the methodology independently.
 
 #### Link Label
 Read the manifesto →
@@ -52,10 +52,10 @@ https://rizom.foundation
 ai
 
 #### Title
-The platform
+The tools
 
 #### Body
-Open-source AI agents built from your own knowledge — the technical layer behind the coordination methodology.
+Open-source AI agents built on the methodology, the technical layer underneath.
 
 #### Link Label
 See the platform →
