@@ -35,3 +35,4 @@ I'd watched the same thing happen at three companies in our portfolio — same g
 
 #### Attribution
 Future-of-work venture fund · San Francisco
+
