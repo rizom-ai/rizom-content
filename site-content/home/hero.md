@@ -25,12 +25,6 @@ Book a discovery call
 ## Secondary CTA href
 #cta
 
-## Diagnostic title
-Team Diagnostic
-
-## Diagnostic tag
-sample report
-
 ## Verdict label
 Your team type
 
