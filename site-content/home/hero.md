@@ -17,13 +17,13 @@ TMS-based consulting that helps teams coordinate better, so your people and your
 Take the Team Type quiz →
 
 ## Primary CTA href
-https://typeform.com
+https://form.typeform.com/to/NGqo9Fnf
 
 ## Secondary CTA label
 Book a discovery call
 
 ## Secondary CTA href
-#cta
+mailto:contact@rizom.ai
 
 ## Verdict label
 Your team type
@@ -43,4 +43,4 @@ Priority actions
 Run the diagnostic →
 
 ## Diagnostic CTA href
-https://typeform.com
+https://form.typeform.com/to/NGqo9Fnf

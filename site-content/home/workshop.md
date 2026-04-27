@@ -61,4 +61,4 @@ Concrete changes to roles, rituals, and tooling, including how AI fits in withou
 Take the Team Type quiz →
 
 ## CTA href
-https://typeform.com
+https://form.typeform.com/to/NGqo9Fnf

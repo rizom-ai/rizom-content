@@ -13,10 +13,10 @@ Ready to find out what *type of team* you are?
 Take the Team Type quiz →
 
 ## Primary CTA href
-https://typeform.com
+https://form.typeform.com/to/NGqo9Fnf
 
 ## Secondary CTA label
 Book a 30-minute call
 
 ## Secondary CTA href
-#cta
+mailto:contact@rizom.ai
