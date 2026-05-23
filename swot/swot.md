@@ -1,32 +1,36 @@
 ---
 strengths:
-  - title: Knowledge system design
+  - title: Structure and retrieval
     detail: >-
-      Use this as your core skill when the work needs a searchable, reusable
-      knowledge base that connects content and makes retrieval easier.
+      Use this to organize information into clear relationships, searchable
+      structure, and reusable knowledge.
+  - title: Turn plans into steps
+    detail: >-
+      Lean on this to convert notes and recommendations into sequenced next
+      actions with owners and milestones.
 weaknesses:
-  - title: Landing page copy
+  - title: Page strategy depth
     detail: >-
-      Treat page-level conversion copy as a thinner area and keep it tightly
-      scoped unless you can test it directly against clear conversion goals.
-  - title: Action planning
+      Use it for page structure and copy support, but avoid assuming you can
+      fully optimize conversion without deeper testing.
+  - title: Positioning refinement
     detail: >-
-      Use this for straightforward next steps, but do not rely on it to cover
-      deeper execution planning or ownership structure.
+      Use this for drafting and light sharpening, and test the message with
+      others when clarity or differentiation really matters.
 opportunities:
-  - title: Workshop facilitation
+  - title: Facilitate decisions
     detail: >-
-      Lean into workshops for team alignment and use more structured formats
-      that end with usable artifacts and decisions.
-  - title: Content frameworks
+      Use this to run workshops that move people from discussion to shared
+      decisions and next steps.
+  - title: Start new systems
     detail: >-
-      Use this to standardize intake and capture patterns early so your
-      knowledge system stays consistent as content grows.
+      Apply this when launching a new knowledge base or team setup so templates
+      and starter content are ready early.
 threats:
-  - title: Copy validation risk
+  - title: Solo structure risk
     detail: >-
-      Do not treat messaging refinement as a solo judgment call when you need
-      sharper audience fit or stronger conversion testing.
-derivedAt: '2026-05-23T05:53:27.556Z'
+      Do not rely on your own structure alone; verify that the system still
+      helps people find and reuse content in practice.
+derivedAt: '2026-05-23T05:53:50.800Z'
 ---
 
