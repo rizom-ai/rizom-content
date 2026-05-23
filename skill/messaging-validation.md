@@ -1,16 +1,16 @@
 ---
 name: Messaging Validation
 description: >-
-  Analyze and test messaging to ensure it is clear, aligned, and resonant with
-  the intended audience.
+  Evaluate and refine messaging by testing clarity, relevance, and alignment
+  with audience needs.
 tags:
   - messaging
-  - alignment
+  - branding
   - copywriting
   - conversion
 examples:
-  - Evaluate whether this headline matches our target audience's pain point.
-  - Compare two value propositions and tell me which is clearer.
-  - Check this workshop pitch for alignment with the brand message.
+  - Review this headline and tell me if the message is clear enough.
+  - Validate our workshop value proposition for a target audience.
+  - Identify where this page copy is losing clarity or trust.
 ---
 

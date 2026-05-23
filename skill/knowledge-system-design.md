@@ -1,22 +1,18 @@
 ---
 name: Knowledge System Design
 description: >-
-  Create structured knowledge environments that organize, retrieve, and reuse
-  information across teams.
+  Create structured knowledge environments that organize, connect, and reuse
+  information across teams and workflows.
 tags:
   - knowledge-management
   - ecosystem
-  - methodology
+  - content
   - alignment
 examples:
+  - Design a knowledge system for our team’s workshop notes and decisions.
+  - Help me structure a reusable knowledge base for onboarding and project work.
   - >-
-    Design a knowledge system for a team that needs to share AI strategy notes
-    and decisions.
-  - >-
-    Create a structure for organizing workshop outputs so they are easy to
-    retrieve later.
-  - >-
-    Help me map a reusable knowledge architecture for our internal docs and
-    prompts.
+    Map the key information types and retrieval paths for a shared team
+    workspace.
 ---
 
