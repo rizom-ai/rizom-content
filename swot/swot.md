@@ -1,32 +1,36 @@
 ---
 strengths:
-  - title: Knowledge structure
+  - title: Workshop planning
     detail: >-
-      Use this when you need information organized so it is easy to find, reuse,
-      and expand over time.
-  - title: Workshop alignment
+      Use this to align people, drive decisions, and leave every workshop with
+      clear next steps.
+  - title: Knowledge system design
     detail: >-
-      Lean on this for sessions that need clear decisions, team alignment, and
-      concrete next steps.
+      Lean on this to organize information in a way that stays maintainable as
+      it grows.
 weaknesses:
-  - title: Copy transfer risk
+  - title: Landing page strategy
     detail: >-
-      Treat this as a narrower copy skill and test it before using it for
-      broader marketing copy or conversion work.
+      Treat this as a thinner solo capability and sanity-check it with other
+      perspectives before you rely on it for conversion-critical pages.
+  - title: Messaging validation
+    detail: >-
+      Use it, but do not assume the message is settled until you have tested it
+      against real audience reactions.
 opportunities:
-  - title: Message testing
+  - title: Action plan development
     detail: >-
-      Use this to test claims and wording with feedback before you rely on the
-      message externally.
-  - title: Scalable system design
+      Use this right after a workshop to turn discussion into owned priorities
+      and executable next steps.
+  - title: Knowledge system design
     detail: >-
-      Pair this with your architecture skills to improve initialization,
-      navigation, and maintenance workflows.
+      Extend this into reusable templates or a broader structure so the
+      knowledge base stays easy to expand.
 threats:
-  - title: Execution handoff
+  - title: Knowledge system design
     detail: >-
-      Do not stop at a strong plan; make sure there is a clear handoff into
-      implementation so good ideas do not stall.
-derivedAt: '2026-05-23T05:57:27.696Z'
+      Revisit the structure as the knowledge base grows so the initial design
+      does not become a scaling bottleneck.
+derivedAt: '2026-05-23T05:57:51.657Z'
 ---
 
