@@ -1,37 +1,40 @@
 ---
 strengths:
-  - title: Structure and retrieval
+  - title: Knowledge architecture
     detail: >-
-      Use this when you need a clear information structure that people can
-      actually navigate and grow over time.
-  - title: Copy that converts
+      Use this as your core skill when the job is organizing, connecting, and
+      reusing information in a knowledge base.
+  - title: Clear copy
     detail: >-
-      Lean on this for headlines, landing pages, and positioning text that need
-      to read clearly and persuade.
+      Lean on this when you need outward-facing wording that explains value and
+      supports conversion.
 weaknesses:
-  - title: Initial setup
+  - title: Workshop design
     detail: >-
-      Check the first setup carefully, because this is narrower than your
-      stronger structuring and writing skills and can slip at the start of a new
-      space.
-  - title: Follow-through planning
+      Do not assume your copy or structure work covers live facilitation; add a
+      separate workshop-planning step when the task needs group alignment.
+  - title: Execution planning
     detail: >-
-      Use this for turning notes into next steps, but pair it with a stronger
-      planning routine when the work needs sustained execution.
+      Treat this as a capability you should use deliberately for milestones and
+      owners, and check it carefully when the plan affects delivery.
 opportunities:
-  - title: Facilitation lever
+  - title: Platform setup
     detail: >-
-      Use this to turn group input into aligned decisions and usable outputs,
-      then test it on sessions that need clear next steps.
-  - title: Reusable knowledge systems
+      Use this on new or growing workspaces so you can set the initial
+      structure, publish content cleanly, and make the system easier to scale.
+  - title: Message testing
     detail: >-
-      Extend this into a system for workshop notes, decisions, and team
-      knowledge so information can be reused instead of rebuilt.
+      Use this to compare drafts, check resonance, and tighten positioning
+      before you publish or hand work off.
 threats:
-  - title: Unvalidated messaging
+  - title: Design-to-build gap
     detail: >-
-      Do not rely on internal confidence alone; verify clarity and audience fit
-      before you treat copy as ready.
-derivedAt: '2026-05-23T05:56:39.154Z'
+      Move quickly from architecture into a concrete setup workflow so the
+      system does not stay at the planning stage.
+  - title: Single-perspective risk
+    detail: >-
+      Do not rely only on your own review when message clarity matters; test
+      important copy with another perspective before finalizing it.
+derivedAt: '2026-05-23T05:57:04.345Z'
 ---
 
