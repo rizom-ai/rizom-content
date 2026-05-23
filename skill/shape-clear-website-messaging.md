@@ -1,16 +1,16 @@
 ---
 name: Shape clear website messaging
 description: >-
-  Write and refine landing page copy that sharpens positioning, communicates
-  value, and improves conversion.
+  Write and refine landing-page messaging that clarifies positioning,
+  communicates value, and improves conversion.
 tags:
+  - branding
   - messaging
   - copywriting
-  - branding
   - conversion
 examples:
-  - Rewrite this homepage hero to make the value proposition clearer.
-  - Draft stronger CTA copy for a service landing page.
-  - Help me position our offer so it converts better.
+  - Rewrite our homepage hero so the value proposition is sharper.
+  - Draft a landing page section that increases signups for a workshop offer.
+  - Turn this product description into stronger website messaging.
 ---
 
