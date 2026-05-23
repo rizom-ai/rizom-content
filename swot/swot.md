@@ -2,39 +2,35 @@
 strengths:
   - title: Website messaging
     detail: >-
-      Use this when a page needs sharper positioning, clearer value, and
-      stronger calls to action.
+      Use this when you need clearer positioning, stronger value statements, or
+      better calls to action on a page.
   - title: Knowledge systems
     detail: >-
-      Lean on this for repeatable organization and retrieval work so information
-      can be reused across projects.
+      Lean on this when the work needs durable structure that lets you retrieve
+      and reuse information across projects.
+  - title: Team workshops
+    detail: >-
+      Use this to turn scattered discussion into alignment and a concrete
+      next-step plan.
 weaknesses:
   - title: Video production gap
     detail: >-
-      Do not assume you can cover video-heavy work; pair with someone who can
-      handle recording or editing before promising it.
-  - title: Visualization gap
-    detail: >-
-      Keep diagram, chart, and visual-explanation work separate unless you can
-      test or pair into that skill early.
+      Do not take on video-heavy work as if it is covered; pair it with outside
+      help if video becomes part of the task.
 opportunities:
-  - title: Site content expansion
+  - title: Page setup
     detail: >-
-      Use this beyond isolated copy edits by testing broader page structure,
-      hierarchy, and content flow.
-  - title: Workshop design
+      Test this on new page drafts where you need to create the structure and
+      the first pass of content together.
+  - title: Facilitation
     detail: >-
-      Apply this to team sessions that need decisions and next steps, then
-      refine the format from facilitation feedback.
+      Try a small live session yourself first, and treat it as an adjacent move
+      to your workshop design rather than a proven strength.
 threats:
   - title: Video dependency
     detail: >-
-      If a plan starts relying on video, either keep the scope text-led or add a
-      video partner before committing.
-  - title: Visual bottleneck
-    detail: >-
-      If the work depends on diagrams, slides, or visual systems, test that gap
-      early so it does not slow delivery later.
-derivedAt: '2026-05-23T05:49:52.298Z'
+      If a project starts depending on video assets, plan an external complement
+      early because there is no dependable video capability shown here.
+derivedAt: '2026-05-23T05:50:14.314Z'
 ---
 
