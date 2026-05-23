@@ -1,32 +1,28 @@
 ---
 strengths:
-  - title: Knowledge systems
+  - title: Reusable knowledge assets
     detail: >-
-      Use this as your main strength when you need to organize, connect, and
-      maintain information so it can be reused across projects.
-  - title: Guided workshops
+      Use this to structure notes, reference pages, and tagging so you can
+      retrieve and reuse material across projects.
+  - title: Outcome-first workshops
     detail: >-
-      Use this when the goal is shared decisions or clear next steps, not just
-      documentation.
+      Use this when a session needs clear facilitation, shared understanding,
+      and concrete next actions.
 weaknesses:
-  - title: Landing pages
+  - title: Web messaging is narrow
     detail: >-
-      Treat this as a thinner skill; do not assume your knowledge-organization
-      strengths will carry the page-writing work.
+      Treat this as a landing-page skill and do not rely on it as your default
+      answer for broader campaign or product messaging.
 opportunities:
-  - title: Starter content setup
+  - title: Page systems setup
     detail: >-
-      Use this to lead the first setup of a new knowledge hub or content system
-      before refining the structure.
-  - title: Landing pages
-    detail: >-
-      Test this on one high-stakes page and learn which structure best supports
-      action.
+      Use this to prototype launch-ready page structures and content templates
+      before scaling the site or knowledge product.
 threats:
-  - title: Starting from scratch
+  - title: No backup for facilitation or messaging
     detail: >-
-      Do not let new content bases stall; begin with a simple starter framework
-      before you improve it.
-derivedAt: '2026-05-23T05:49:10.006Z'
+      Do not assume a supporting person is available for workshops, content
+      setup, or page messaging until a real complement shows up.
+derivedAt: '2026-05-23T05:49:30.172Z'
 ---
 
