@@ -1,38 +1,37 @@
 ---
 strengths:
-  - title: Knowledge System Design
+  - title: Structure and retrieval
     detail: >-
-      Use this as your core capability for organizing and reusing information,
-      and make it the default way you help people capture decisions and
-      retrieval-ready notes.
-  - title: Workshop and Session Design
+      Use this when you need a clear information structure that people can
+      actually navigate and grow over time.
+  - title: Copy that converts
     detail: >-
-      Lean on this when a problem needs a structured session that ends with
-      clear decisions, owners, and next steps.
+      Lean on this for headlines, landing pages, and positioning text that need
+      to read clearly and persuade.
 weaknesses:
-  - title: Video Production
+  - title: Initial setup
     detail: >-
-      Do not promise video delivery; if a project needs filmed explanation or
-      editing, pair with someone or something that already does that well.
-  - title: Visualization
+      Check the first setup carefully, because this is narrower than your
+      stronger structuring and writing skills and can slip at the start of a new
+      space.
+  - title: Follow-through planning
     detail: >-
-      Avoid depending on charts or diagrams to carry the message unless another
-      capability can supply that layer for you.
+      Use this for turning notes into next steps, but pair it with a stronger
+      planning routine when the work needs sustained execution.
 opportunities:
-  - title: Landing Page Messaging
+  - title: Facilitation lever
     detail: >-
-      Use this to turn your existing copy and positioning work into clearer
-      trust-building page copy, then test which wording improves conversion.
-  - title: Action Planning
+      Use this to turn group input into aligned decisions and usable outputs,
+      then test it on sessions that need clear next steps.
+  - title: Reusable knowledge systems
     detail: >-
-      Apply this right after workshops so your insights become concrete
-      priorities, owners, and next actions.
+      Extend this into a system for workshop notes, decisions, and team
+      knowledge so information can be reused instead of rebuilt.
 threats:
-  - title: Knowledge System Design
+  - title: Unvalidated messaging
     detail: >-
-      This is a core strength with no clear backfill shown, so if the work
-      shifts into more complex knowledge architecture, make sure you keep that
-      capability close and do not assume specialist support is available.
-derivedAt: '2026-05-23T05:56:14.372Z'
+      Do not rely on internal confidence alone; verify clarity and audience fit
+      before you treat copy as ready.
+derivedAt: '2026-05-23T05:56:39.154Z'
 ---
 
