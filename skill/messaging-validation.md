@@ -1,15 +1,16 @@
 ---
 name: Messaging Validation
 description: >-
-  Test and refine positioning, claims, and message clarity using structured
-  feedback and evidence.
+  Test and refine messaging so it is clearer, more aligned, and better suited to
+  the audience and goal.
 tags:
   - messaging
   - alignment
-  - conversion
+  - branding
+  - content
 examples:
-  - Validate this homepage message against our target audience’s pain points.
-  - Help me test three positioning statements for clarity and credibility.
-  - What questions should we ask in a message testing workshop?
+  - Validate this message for clarity and audience fit.
+  - Compare two value propositions and recommend the stronger one.
+  - Refine our positioning statement to improve alignment.
 ---
 

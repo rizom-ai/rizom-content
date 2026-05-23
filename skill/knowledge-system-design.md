@@ -1,17 +1,16 @@
 ---
 name: Knowledge System Design
 description: >-
-  Design initialization, navigation, and operating workflows that make a
-  knowledge system scalable and easy to maintain.
+  Design scalable knowledge structures, initialization flows, and navigation
+  patterns that make information easy to maintain and expand.
 tags:
   - knowledge-management
-  - methodology
   - ecosystem
+  - methodology
+  - content
 examples:
-  - Design the workflow for initializing a new knowledge management platform.
-  - Create a scalable onboarding flow for new content contributors.
-  - >-
-    How should we structure navigation and governance for a shared knowledge
-    system?
+  - Design a structure for a team knowledge base that will grow over time.
+  - Create an initialization flow for a new knowledge system.
+  - Recommend navigation patterns for a reusable content ecosystem.
 ---
 
