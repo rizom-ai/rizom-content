@@ -1,36 +1,32 @@
 ---
 strengths:
-  - title: Structure knowledge systems
+  - title: Knowledge system design
     detail: >-
-      Use this as your core strength for organizing information so you can find,
-      connect, and reuse it reliably.
-  - title: Design collaborative workshops
-    detail: >-
-      Lean on this when you need your group aligned on shared understanding,
-      decisions, or next steps.
+      Use this as your core skill when the work needs a searchable, reusable
+      knowledge base that connects content and makes retrieval easier.
 weaknesses:
-  - title: Web page conversion
+  - title: Landing page copy
     detail: >-
-      Treat conversion-focused page work as something you should test carefully
-      and not assume will be strong without extra support.
+      Treat page-level conversion copy as a thinner area and keep it tightly
+      scoped unless you can test it directly against clear conversion goals.
   - title: Action planning
     detail: >-
-      Keep your plans narrow and concrete so insight does not stall before it
-      becomes an executable next step.
+      Use this for straightforward next steps, but do not rely on it to cover
+      deeper execution planning or ownership structure.
 opportunities:
-  - title: Content foundations
+  - title: Workshop facilitation
     detail: >-
-      Use this for first-pass structures on new knowledge bases, workshop
-      offers, or starter content before investing in deeper build-out.
-  - title: Messaging and copy
+      Lean into workshops for team alignment and use more structured formats
+      that end with usable artifacts and decisions.
+  - title: Content frameworks
     detail: >-
-      Apply this to headlines, offers, and homepage language where tighter
-      wording can improve clarity and persuasion.
+      Use this to standardize intake and capture patterns early so your
+      knowledge system stays consistent as content grows.
 threats:
-  - title: Knowledge drift
+  - title: Copy validation risk
     detail: >-
-      If you let the structure go stale, your retrieval work gets harder to
-      trust and reuse, so keep it maintained and current.
-derivedAt: '2026-05-23T05:53:01.308Z'
+      Do not treat messaging refinement as a solo judgment call when you need
+      sharper audience fit or stronger conversion testing.
+derivedAt: '2026-05-23T05:53:27.556Z'
 ---
 
