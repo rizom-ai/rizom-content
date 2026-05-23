@@ -1,37 +1,36 @@
 ---
 strengths:
-  - title: Alignment workshops
+  - title: Aligned workshops
     detail: >-
-      Use this when a group needs to move from scattered knowledge to shared
-      decisions and a concrete action plan.
-  - title: Structured content systems
-    detail: >-
-      Use this as the backbone for organizing your knowledge base so it stays
-      extensible and easy to maintain.
-weaknesses:
-  - title: Landing page conversion
-    detail: >-
-      Do not assume your general writing will make a page convert; keep this as
-      a separate skill to test and improve directly.
+      Use this when you need to turn scattered input into shared decisions and a
+      concrete plan.
   - title: Action plans
     detail: >-
-      Use this for recommendations, but add a clear handoff and follow-through
-      step when the work needs execution.
+      Lean on this to convert notes and cross-domain ideas into practical next
+      steps.
+weaknesses:
+  - title: Knowledge systems gap
+    detail: >-
+      Treat this as a gap to close before you depend on yourself for durable
+      structure, navigation, or maintenance in a growing knowledge base.
 opportunities:
-  - title: Knowledge messaging
+  - title: Landing pages
     detail: >-
-      Use your messaging and copywriting strengths to sharpen positioning and
-      homepage language before expanding into broader content work.
-  - title: Workshop follow-through
+      Test this on one offer page first so you can learn how your messaging and
+      copy perform in a conversion context.
+  - title: Positioning checks
     detail: >-
-      Pair workshops with your structured content strengths so team buy-in turns
-      into shared decisions, not just organized information.
+      Use this to tighten offers and compare whether your workshop and website
+      messaging stay consistent.
 threats:
-  - title: Conversion risk
+  - title: Scale risk
     detail: >-
-      If this stays isolated, clear ideas may not become persuasive page copy,
-      so protect it as a dedicated capability rather than assuming it comes from
-      other writing skills.
-derivedAt: '2026-05-23T05:51:51.703Z'
+      If this remains thin, growing knowledge-base work may stall, so pair it
+      with someone or something that can provide structure before scaling.
+  - title: Facilitation redundancy
+    detail: >-
+      Because this skill sits mainly with you here, workshop delivery has
+      limited backup, so avoid making it depend on one person alone.
+derivedAt: '2026-05-23T05:52:14.741Z'
 ---
 
