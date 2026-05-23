@@ -6,13 +6,17 @@ description: >-
 tags:
   - knowledge-management
   - ecosystem
-  - alignment
   - methodology
+  - alignment
 examples:
-  - Design a knowledge architecture for our team wiki and shared docs.
-  - Help me structure onboarding content so it is easy to find and reuse.
   - >-
-    Create a system for organizing workshop outputs into a searchable knowledge
-    base.
+    Design a knowledge system for a team that needs to share AI strategy notes
+    and decisions.
+  - >-
+    Create a structure for organizing workshop outputs so they are easy to
+    retrieve later.
+  - >-
+    Help me map a reusable knowledge architecture for our internal docs and
+    prompts.
 ---
 
