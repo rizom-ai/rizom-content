@@ -1,32 +1,38 @@
 ---
 strengths:
-  - title: Knowledge system strength
+  - title: Knowledge System Design
     detail: >-
-      Use this as your anchor when you need structure, retrieval, and reuse to
-      work together across shared knowledge.
+      Use this as your core capability for organizing and reusing information,
+      and make it the default way you help people capture decisions and
+      retrieval-ready notes.
+  - title: Workshop and Session Design
+    detail: >-
+      Lean on this when a problem needs a structured session that ends with
+      clear decisions, owners, and next steps.
 weaknesses:
-  - title: Facilitation depth gap
+  - title: Video Production
     detail: >-
-      You can design workshop outcomes, but do not rely on it alone for deeper
-      facilitation or outcome framing in complex sessions.
+      Do not promise video delivery; if a project needs filmed explanation or
+      editing, pair with someone or something that already does that well.
+  - title: Visualization
+    detail: >-
+      Avoid depending on charts or diagrams to carry the message unless another
+      capability can supply that layer for you.
 opportunities:
-  - title: Site structure
+  - title: Landing Page Messaging
     detail: >-
-      Use this to turn raw content into a clean, publishable page structure when
-      you need a launch-ready layout.
-  - title: Follow-up plans
+      Use this to turn your existing copy and positioning work into clearer
+      trust-building page copy, then test which wording improves conversion.
+  - title: Action Planning
     detail: >-
-      Use this to convert workshop or strategy notes into owners, milestones,
-      and next steps.
-  - title: Landing page copy
-    detail: >-
-      Apply this to a real landing page draft when you want sharper value
-      framing and conversion-oriented copy.
+      Apply this right after workshops so your insights become concrete
+      priorities, owners, and next actions.
 threats:
-  - title: Copy validation risk
+  - title: Knowledge System Design
     detail: >-
-      Do not treat your copy review as final; test messaging against real use
-      cases before you rely on it.
-derivedAt: '2026-05-23T05:55:48.872Z'
+      This is a core strength with no clear backfill shown, so if the work
+      shifts into more complex knowledge architecture, make sure you keep that
+      capability close and do not assume specialist support is available.
+derivedAt: '2026-05-23T05:56:14.372Z'
 ---
 
