@@ -1,40 +1,32 @@
 ---
 strengths:
-  - title: Workshop facilitation
+  - title: Structured content setup
     detail: >-
-      Use this when you need group alignment, shared problem framing, or a
-      workshop that ends with clear next steps.
-  - title: Conversion messaging
+      Use this to build the first clean structure for a new knowledge base or
+      content system, then let others extend it.
+  - title: Turn insight into action
     detail: >-
-      Lean on this for offers, pages, and summaries that need clearer
-      positioning and a stronger call to action.
-  - title: Practical synthesis
-    detail: >-
-      Use this to turn notes, research, or meeting content into decisions,
-      frameworks, and usable next steps.
+      Lean on this when you need to convert notes or research into a practical
+      framework, recommendation, or next-step plan.
 weaknesses:
-  - title: Knowledge structure gap
+  - title: Messaging needs validation
     detail: >-
-      Keep the system simple and test it in practice, because this capability
-      needs to be proven rather than assumed.
-  - title: Page strategy gap
+      Use this for first-draft positioning, but check whether the message lands
+      before you rely on it as final.
+  - title: Page conversion test
     detail: >-
-      Do not assume page work is fully covered end to end; test whether you need
-      extra design or implementation help.
+      Do the initial page draft yourself, then test the page with outside
+      feedback before treating it as conversion-ready.
 opportunities:
-  - title: Workshop as prototyping
+  - title: Workshop alignment work
     detail: >-
-      Use workshops to prototype how knowledge should be organized before you
-      lock the structure in.
-  - title: Decision-rich knowledge
-    detail: >-
-      Apply this to more captured knowledge so the system stores decisions and
-      next steps, not just notes.
+      Use this as the next skill to test in live sessions, especially when the
+      goal is to leave the group with concrete next steps.
 threats:
-  - title: Messy knowledge fallback
+  - title: Facilitation strain
     detail: >-
-      Do not rely on this being consistently handled; keep a simple fallback
-      structure so work does not stall when organization breaks down.
-derivedAt: '2026-05-23T05:51:01.316Z'
+      Do not assume harder alignment sessions will hold together without extra
+      preparation or facilitation help.
+derivedAt: '2026-05-23T05:51:29.483Z'
 ---
 
