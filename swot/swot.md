@@ -1,36 +1,40 @@
 ---
 strengths:
-  - title: Clear website messaging
+  - title: Workshop facilitation
     detail: >-
-      Use this when a page needs sharper positioning, stronger value language,
-      or a copy pass aimed at conversion.
-  - title: Actionable workshops
+      Use this when you need group alignment, shared problem framing, or a
+      workshop that ends with clear next steps.
+  - title: Conversion messaging
     detail: >-
-      Lean on this for facilitation work where the goal is alignment, problem
-      mapping, and concrete next steps.
-  - title: Reusable knowledge systems
+      Lean on this for offers, pages, and summaries that need clearer
+      positioning and a stronger call to action.
+  - title: Practical synthesis
     detail: >-
-      Use this to structure information so you can retrieve it, reuse it, and
-      extend it across projects.
+      Use this to turn notes, research, or meeting content into decisions,
+      frameworks, and usable next steps.
 weaknesses:
-  - title: Page setup only
+  - title: Knowledge structure gap
     detail: >-
-      Keep this to starter content and section layout; do not rely on it alone
-      when the work needs full content development or publishing-ready pages.
+      Keep the system simple and test it in practice, because this capability
+      needs to be proven rather than assumed.
+  - title: Page strategy gap
+    detail: >-
+      Do not assume page work is fully covered end to end; test whether you need
+      extra design or implementation help.
 opportunities:
-  - title: Reuse workshop outputs
+  - title: Workshop as prototyping
     detail: >-
-      Turn workshop notes and project materials into repeatable structures you
-      can test on future work.
-  - title: Workshop formats
+      Use workshops to prototype how knowledge should be organized before you
+      lock the structure in.
+  - title: Decision-rich knowledge
     detail: >-
-      Use this to prototype facilitation formats for teams that need decisions,
-      not just discussion.
+      Apply this to more captured knowledge so the system stores decisions and
+      next steps, not just notes.
 threats:
-  - title: Too early-stage for delivery
+  - title: Messy knowledge fallback
     detail: >-
-      If the task moves from setup into end-to-end page building, pair this with
-      stronger content completion support instead of depending on it alone.
-derivedAt: '2026-05-23T05:50:38.174Z'
+      Do not rely on this being consistently handled; keep a simple fallback
+      structure so work does not stall when organization breaks down.
+derivedAt: '2026-05-23T05:51:01.316Z'
 ---
 
