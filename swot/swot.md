@@ -1,36 +1,28 @@
 ---
 strengths:
-  - title: Aligned workshops
+  - title: Clear Messaging
     detail: >-
-      Use this when you need to turn scattered input into shared decisions and a
-      concrete plan.
-  - title: Action plans
+      Use this for headlines, offers, and short explanations when you need your
+      message to feel sharper and easier to understand.
+  - title: Workshop Design
     detail: >-
-      Lean on this to convert notes and cross-domain ideas into practical next
-      steps.
+      Lean on this when a group needs structure, facilitation prompts, and a
+      session that ends in concrete decisions.
 weaknesses:
-  - title: Knowledge systems gap
+  - title: Knowledge Systems
     detail: >-
-      Treat this as a gap to close before you depend on yourself for durable
-      structure, navigation, or maintenance in a growing knowledge base.
+      Do not assume you can keep a searchable, maintainable knowledge base
+      running smoothly without extra support or a simple structure to test.
 opportunities:
-  - title: Landing pages
+  - title: Insight to Plan
     detail: >-
-      Test this on one offer page first so you can learn how your messaging and
-      copy perform in a conversion context.
-  - title: Positioning checks
-    detail: >-
-      Use this to tighten offers and compare whether your workshop and website
-      messaging stay consistent.
+      Use this on workshop notes or project discussions to turn mixed input into
+      priorities, owners, and next steps.
 threats:
-  - title: Scale risk
+  - title: Landing Pages
     detail: >-
-      If this remains thin, growing knowledge-base work may stall, so pair it
-      with someone or something that can provide structure before scaling.
-  - title: Facilitation redundancy
-    detail: >-
-      Because this skill sits mainly with you here, workshop delivery has
-      limited backup, so avoid making it depend on one person alone.
-derivedAt: '2026-05-23T05:52:14.741Z'
+      Do not rely on messaging alone for a full landing page; test the page
+      structure and conversion flow before treating it as complete.
+derivedAt: '2026-05-23T05:52:37.230Z'
 ---
 
