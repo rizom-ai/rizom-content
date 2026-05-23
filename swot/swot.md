@@ -1,32 +1,37 @@
 ---
 strengths:
-  - title: Structured content setup
+  - title: Alignment workshops
     detail: >-
-      Use this to build the first clean structure for a new knowledge base or
-      content system, then let others extend it.
-  - title: Turn insight into action
+      Use this when a group needs to move from scattered knowledge to shared
+      decisions and a concrete action plan.
+  - title: Structured content systems
     detail: >-
-      Lean on this when you need to convert notes or research into a practical
-      framework, recommendation, or next-step plan.
+      Use this as the backbone for organizing your knowledge base so it stays
+      extensible and easy to maintain.
 weaknesses:
-  - title: Messaging needs validation
+  - title: Landing page conversion
     detail: >-
-      Use this for first-draft positioning, but check whether the message lands
-      before you rely on it as final.
-  - title: Page conversion test
+      Do not assume your general writing will make a page convert; keep this as
+      a separate skill to test and improve directly.
+  - title: Action plans
     detail: >-
-      Do the initial page draft yourself, then test the page with outside
-      feedback before treating it as conversion-ready.
+      Use this for recommendations, but add a clear handoff and follow-through
+      step when the work needs execution.
 opportunities:
-  - title: Workshop alignment work
+  - title: Knowledge messaging
     detail: >-
-      Use this as the next skill to test in live sessions, especially when the
-      goal is to leave the group with concrete next steps.
+      Use your messaging and copywriting strengths to sharpen positioning and
+      homepage language before expanding into broader content work.
+  - title: Workshop follow-through
+    detail: >-
+      Pair workshops with your structured content strengths so team buy-in turns
+      into shared decisions, not just organized information.
 threats:
-  - title: Facilitation strain
+  - title: Conversion risk
     detail: >-
-      Do not assume harder alignment sessions will hold together without extra
-      preparation or facilitation help.
-derivedAt: '2026-05-23T05:51:29.483Z'
+      If this stays isolated, clear ideas may not become persuasive page copy,
+      so protect it as a dedicated capability rather than assuming it comes from
+      other writing skills.
+derivedAt: '2026-05-23T05:51:51.703Z'
 ---
 
