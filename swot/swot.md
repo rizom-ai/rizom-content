@@ -1,36 +1,32 @@
 ---
 strengths:
-  - title: Workshop planning
+  - title: Knowledge architecture
     detail: >-
-      Use this to align people, drive decisions, and leave every workshop with
-      clear next steps.
-  - title: Knowledge system design
+      Use this when you need a clear structure for growing information and
+      making it easy to retrieve.
+  - title: Message testing
     detail: >-
-      Lean on this to organize information in a way that stays maintainable as
-      it grows.
+      Lean on this to refine positioning and test whether key ideas land before
+      you share them more widely.
+  - title: Workshop to actions
+    detail: >-
+      Use this when the goal is to align a group and turn discussion into clear
+      next steps.
 weaknesses:
-  - title: Landing page strategy
+  - title: Web page content
     detail: >-
-      Treat this as a thinner solo capability and sanity-check it with other
-      perspectives before you rely on it for conversion-critical pages.
-  - title: Messaging validation
-    detail: >-
-      Use it, but do not assume the message is settled until you have tested it
-      against real audience reactions.
+      Treat this as a narrower copywriting slice and do not assume broader web
+      content production is fully covered.
 opportunities:
-  - title: Action plan development
+  - title: Platform organization
     detail: >-
-      Use this right after a workshop to turn discussion into owned priorities
-      and executable next steps.
-  - title: Knowledge system design
-    detail: >-
-      Extend this into reusable templates or a broader structure so the
-      knowledge base stays easy to expand.
+      Extend your knowledge-structure skill into how content, processes, and
+      tools fit together in a platform workflow.
 threats:
-  - title: Knowledge system design
+  - title: Execution follow-through
     detail: >-
-      Revisit the structure as the knowledge base grows so the initial design
-      does not become a scaling bottleneck.
-derivedAt: '2026-05-23T05:57:51.657Z'
+      Make sure workshop outputs end with named owners and next steps so
+      alignment does not stall before implementation.
+derivedAt: '2026-05-23T05:58:14.698Z'
 ---
 
