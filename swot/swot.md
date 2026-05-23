@@ -1,40 +1,32 @@
 ---
 strengths:
-  - title: Knowledge architecture
+  - title: Knowledge structure
     detail: >-
-      Use this as your core skill when the job is organizing, connecting, and
-      reusing information in a knowledge base.
-  - title: Clear copy
+      Use this when you need information organized so it is easy to find, reuse,
+      and expand over time.
+  - title: Workshop alignment
     detail: >-
-      Lean on this when you need outward-facing wording that explains value and
-      supports conversion.
+      Lean on this for sessions that need clear decisions, team alignment, and
+      concrete next steps.
 weaknesses:
-  - title: Workshop design
+  - title: Copy transfer risk
     detail: >-
-      Do not assume your copy or structure work covers live facilitation; add a
-      separate workshop-planning step when the task needs group alignment.
-  - title: Execution planning
-    detail: >-
-      Treat this as a capability you should use deliberately for milestones and
-      owners, and check it carefully when the plan affects delivery.
+      Treat this as a narrower copy skill and test it before using it for
+      broader marketing copy or conversion work.
 opportunities:
-  - title: Platform setup
-    detail: >-
-      Use this on new or growing workspaces so you can set the initial
-      structure, publish content cleanly, and make the system easier to scale.
   - title: Message testing
     detail: >-
-      Use this to compare drafts, check resonance, and tighten positioning
-      before you publish or hand work off.
+      Use this to test claims and wording with feedback before you rely on the
+      message externally.
+  - title: Scalable system design
+    detail: >-
+      Pair this with your architecture skills to improve initialization,
+      navigation, and maintenance workflows.
 threats:
-  - title: Design-to-build gap
+  - title: Execution handoff
     detail: >-
-      Move quickly from architecture into a concrete setup workflow so the
-      system does not stay at the planning stage.
-  - title: Single-perspective risk
-    detail: >-
-      Do not rely only on your own review when message clarity matters; test
-      important copy with another perspective before finalizing it.
-derivedAt: '2026-05-23T05:57:04.345Z'
+      Do not stop at a strong plan; make sure there is a clear handoff into
+      implementation so good ideas do not stall.
+derivedAt: '2026-05-23T05:57:27.696Z'
 ---
 
