@@ -1,28 +1,36 @@
 ---
 strengths:
-  - title: Clear Messaging
+  - title: Structure knowledge systems
     detail: >-
-      Use this for headlines, offers, and short explanations when you need your
-      message to feel sharper and easier to understand.
-  - title: Workshop Design
+      Use this as your core strength for organizing information so you can find,
+      connect, and reuse it reliably.
+  - title: Design collaborative workshops
     detail: >-
-      Lean on this when a group needs structure, facilitation prompts, and a
-      session that ends in concrete decisions.
+      Lean on this when you need your group aligned on shared understanding,
+      decisions, or next steps.
 weaknesses:
-  - title: Knowledge Systems
+  - title: Web page conversion
     detail: >-
-      Do not assume you can keep a searchable, maintainable knowledge base
-      running smoothly without extra support or a simple structure to test.
+      Treat conversion-focused page work as something you should test carefully
+      and not assume will be strong without extra support.
+  - title: Action planning
+    detail: >-
+      Keep your plans narrow and concrete so insight does not stall before it
+      becomes an executable next step.
 opportunities:
-  - title: Insight to Plan
+  - title: Content foundations
     detail: >-
-      Use this on workshop notes or project discussions to turn mixed input into
-      priorities, owners, and next steps.
+      Use this for first-pass structures on new knowledge bases, workshop
+      offers, or starter content before investing in deeper build-out.
+  - title: Messaging and copy
+    detail: >-
+      Apply this to headlines, offers, and homepage language where tighter
+      wording can improve clarity and persuasion.
 threats:
-  - title: Landing Pages
+  - title: Knowledge drift
     detail: >-
-      Do not rely on messaging alone for a full landing page; test the page
-      structure and conversion flow before treating it as complete.
-derivedAt: '2026-05-23T05:52:37.230Z'
+      If you let the structure go stale, your retrieval work gets harder to
+      trust and reuse, so keep it maintained and current.
+derivedAt: '2026-05-23T05:53:01.308Z'
 ---
 
