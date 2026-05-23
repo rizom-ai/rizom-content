@@ -1,36 +1,36 @@
 ---
 strengths:
-  - title: Structure and retrieval
+  - title: Knowledge architecture
     detail: >-
-      Use this to organize information into clear relationships, searchable
-      structure, and reusable knowledge.
-  - title: Turn plans into steps
+      Use your structure and retrieval skill as the default for organizing
+      knowledge bases, reusable templates, and related documents.
+  - title: Workshop follow-through
     detail: >-
-      Lean on this to convert notes and recommendations into sequenced next
-      actions with owners and milestones.
+      Lean on your facilitation skill when you need a group to leave with clear
+      decisions, owners, and next steps.
 weaknesses:
-  - title: Page strategy depth
+  - title: Landing page narrative
     detail: >-
-      Use it for page structure and copy support, but avoid assuming you can
-      fully optimize conversion without deeper testing.
-  - title: Positioning refinement
+      Do not assume you already have the stronger conversion narrative; test
+      page copy with a tighter draft and review the story before relying on it.
+  - title: First framework setup
     detail: >-
-      Use this for drafting and light sharpening, and test the message with
-      others when clarity or differentiation really matters.
+      Treat first-pass framework design as a lighter capability and verify the
+      structure before you depend on it for a larger system.
 opportunities:
-  - title: Facilitate decisions
+  - title: Message testing
     detail: >-
-      Use this to run workshops that move people from discussion to shared
-      decisions and next steps.
-  - title: Start new systems
+      Use this to stress-test your drafts and sharpen positioning before
+      release, especially where clarity and persuasion matter.
+  - title: Action planning
     detail: >-
-      Apply this when launching a new knowledge base or team setup so templates
-      and starter content are ready early.
+      Turn knowledge work into owners, sequencing, and milestones so the work
+      moves past documentation into execution.
 threats:
-  - title: Solo structure risk
+  - title: System complexity risk
     detail: >-
-      Do not rely on your own structure alone; verify that the system still
-      helps people find and reuse content in practice.
-derivedAt: '2026-05-23T05:53:50.800Z'
+      Watch for architecture work to stall when the system becomes too large or
+      interconnected to hold confidently on your own.
+derivedAt: '2026-05-23T05:54:16.302Z'
 ---
 
