@@ -2,31 +2,31 @@
 strengths:
   - title: Knowledge architecture
     detail: >-
-      Use this when you need a clear structure for growing information and
-      making it easy to retrieve.
-  - title: Message testing
+      Use this as your core strength when you need scalable structures,
+      navigation, or retrieval to make a knowledge base easier to grow and use.
+  - title: Outcome-focused workshops
     detail: >-
-      Lean on this to refine positioning and test whether key ideas land before
-      you share them more widely.
-  - title: Workshop to actions
-    detail: >-
-      Use this when the goal is to align a group and turn discussion into clear
-      next steps.
+      Lean on this when you need to turn discussion into a practical map or
+      action plan that people can use right away.
 weaknesses:
-  - title: Web page content
+  - title: Landing page copy
     detail: >-
-      Treat this as a narrower copywriting slice and do not assume broader web
-      content production is fully covered.
+      Use this only for narrower conversion tasks and do not assume it gives you
+      broader coverage for messaging, brand, or campaign writing.
+  - title: Platform operations
+    detail: >-
+      Keep this work simple and practical unless you have another capability to
+      help define the operating model for content, tools, and process.
 opportunities:
-  - title: Platform organization
+  - title: Strategy to action
     detail: >-
-      Extend your knowledge-structure skill into how content, processes, and
-      tools fit together in a platform workflow.
+      Use this to test how well you turn workshop output or broad goals into
+      clear next steps, priorities, and implementation plans.
 threats:
-  - title: Execution follow-through
+  - title: Messaging validation
     detail: >-
-      Make sure workshop outputs end with named owners and next steps so
-      alignment does not stall before implementation.
-derivedAt: '2026-05-23T05:58:14.698Z'
+      Keep checking clarity and fit before publishing so messaging review does
+      not become a weak point in your process.
+derivedAt: '2026-05-23T05:58:42.141Z'
 ---
 
