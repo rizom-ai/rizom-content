@@ -1,32 +1,29 @@
 ---
 strengths:
-  - title: Knowledge architecture
+  - title: Knowledge structure
     detail: >-
-      Use this as your core skill for organizing content so it is easy to
-      retrieve, reuse, and align around.
-  - title: Workshop planning
+      Use this to define how information is organized, retrieved, and reused
+      across the knowledge base, especially when you need a durable team
+      structure.
+  - title: Workshop direction
     detail: >-
-      Lean on this when you need to turn a messy discussion into a session with
-      clear outputs and next steps.
+      Lean on this when you need a session that turns uncertainty into shared
+      understanding and concrete next steps.
 weaknesses:
+  - title: Message testing
+    detail: >-
+      Treat message testing as a careful solo task and look for an added
+      reviewer or comparison case before you trust the result.
   - title: Landing page copy
     detail: >-
-      Treat conversion-focused page copy as a thinner area and do not assume
-      your adjacent messaging skill fully covers it.
-  - title: Content templates
-    detail: >-
-      Plan to build or borrow starter structures for capture and publishing
-      instead of relying on them already being in place.
-opportunities:
-  - title: Positioning review
-    detail: >-
-      Use this to test and refine existing content for clarity and audience fit,
-      not just to draft new copy.
+      Keep refining your page copy, but test the headline and value proposition
+      with a fresh reader before relying on it to convert.
+opportunities: []
 threats:
-  - title: Single-perspective risk
+  - title: Content structure risk
     detail: >-
-      Without a complementary specialist in your network, keep the knowledge
-      structure simple enough to maintain and improve yourself.
-derivedAt: '2026-05-23T05:54:39.954Z'
+      If the content system grows, verify the foundation early so the setup
+      stays stable instead of becoming fragile over time.
+derivedAt: '2026-05-23T05:55:01.961Z'
 ---
 
