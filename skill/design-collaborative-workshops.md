@@ -1,15 +1,18 @@
 ---
 name: Design Collaborative Workshops
 description: >-
-  Plan and shape workshops that align stakeholders, surface decisions, and
-  produce concrete outcomes.
+  Design and facilitate workshops that help teams align on shared understanding
+  and outcomes.
 tags:
   - workshop
   - facilitation
   - alignment
+  - methodology
 examples:
-  - Design a 90-minute workshop to align the team on priorities.
-  - Create an agenda for a session that turns discussion into decisions.
-  - Suggest facilitation prompts to keep a workshop outcome-focused.
+  - Plan a one-day workshop to align the leadership team.
+  - Design an agenda for a workshop that turns confusion into decisions.
+  - >-
+    How can I facilitate a session that gets the team to a clear map of next
+    steps?
 ---
 
