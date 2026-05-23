@@ -2,36 +2,31 @@
 strengths:
   - title: Knowledge systems
     detail: >-
-      Use this as your anchor for storing, connecting, and reusing notes and
-      assets so future work is easier to retrieve and act on.
-  - title: Persuasive web pages
+      Use this as your main strength when you need to organize, connect, and
+      maintain information so it can be reused across projects.
+  - title: Guided workshops
     detail: >-
-      Lean on this when you need site copy that quickly communicates value,
-      builds trust, and drives action.
+      Use this when the goal is shared decisions or clear next steps, not just
+      documentation.
 weaknesses:
-  - title: Workshop design
+  - title: Landing pages
     detail: >-
-      Do not assume you can cover facilitation-heavy work alone; keep workshop
-      plans simple or pair with someone stronger in live group design when
-      outcomes matter.
-  - title: Method to message
-    detail: >-
-      Treat this as a useful edge, but check it carefully when the audience
-      needs especially rigorous or defensible explanation.
+      Treat this as a thinner skill; do not assume your knowledge-organization
+      strengths will carry the page-writing work.
 opportunities:
-  - title: Service ecosystem narrative
+  - title: Starter content setup
     detail: >-
-      Use this to show how your offers fit together across the website, not just
-      in isolated page copy.
-  - title: Knowledge base
+      Use this to lead the first setup of a new knowledge hub or content system
+      before refining the structure.
+  - title: Landing pages
     detail: >-
-      Build a more systematic place to store and reuse content so your writing
-      and workshop materials are faster to adapt later.
+      Test this on one high-stakes page and learn which structure best supports
+      action.
 threats:
-  - title: Facilitation depth
+  - title: Starting from scratch
     detail: >-
-      Do not rely on workshop work being self-contained; plan extra preparation
-      or facilitation support when the session must land well.
-derivedAt: '2026-05-23T05:48:50.244Z'
+      Do not let new content bases stall; begin with a simple starter framework
+      before you improve it.
+derivedAt: '2026-05-23T05:49:10.006Z'
 ---
 
