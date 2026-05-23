@@ -6,17 +6,17 @@ description: >-
   The Rizom Work team helps organizations make expertise, roles, decisions, and
   coordination patterns visible so people and AI systems can work together more
   effectively.
-website: https://rizom.work
+website: 'https://rizom.work'
 email: contact@rizom.ai
 socialLinks:
   - platform: website
-    url: https://rizom.work
+    url: 'https://rizom.work'
     label: Visit Rizom Work
   - platform: website
-    url: https://rizom.foundation
+    url: 'https://rizom.foundation'
     label: Read the research behind the practice
   - platform: email
-    url: mailto:contact@rizom.ai
+    url: 'mailto:contact@rizom.ai'
     label: Contact the Rizom Work team
 ---
 We are the Rizom Work team: a small consulting and implementation group focused on coordination, transactive memory systems, and human-AI collaboration.
