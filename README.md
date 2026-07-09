@@ -1,12 +1,13 @@
-# Ranger Seed Content
+# Rizom Content
 
-Default content copied on first boot when `brain-data/` is empty.
+The consolidated Rizom brain's content — the writer of record behind
+[rizom.ai](https://rizom.ai) and its rooms (`/work`, `/foundation`).
 
-- `brain-character/`: Brain identity
-- `anchor-profile/`: Organization profile
-- `site-info/`: Site metadata (title, description, CTA)
-- `HOME.md`: Landing page content
-- `product/`: Sample product page
-- `products-overview/`: Products landing page
-
-After initial import, the database and git repo become the source of truth.
+Merged from `rizom-ai-content`, `rizom-work-content`, and
+`rizom-foundation-content` with full history (see the Phase 3 collision
+pass in the brains monorepo's `docs/plans/rizom-consolidation.md`).
+Entities sync bidirectionally with the brain via directory-sync: one
+directory per entity type, one markdown file per entity. Site copy
+lives in `@brains/site-rizom-ai`'s schema-validated sections; overrides
+sync here as `site-content/<page>/<section>.md` when edited through
+the brain.
