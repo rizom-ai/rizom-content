@@ -1,4 +1,6 @@
 ---
+status: published
+publishedAt: "2026-04-14T14:52:04Z"
 title: Recall Tutorial
 description: First steps to get started with our team's collective brain
 author: Yeehaa

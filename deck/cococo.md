@@ -1,4 +1,6 @@
 ---
+status: published
+publishedAt: "2026-04-14T14:52:04Z"
 title: "Community, Collective, Core"
 description: Core Principles of Rizom
 author: Yeehaa
