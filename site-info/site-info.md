@@ -1,11 +1,10 @@
 ---
-title: Rizom AI
+title: Rizom
 description: Build the agent that represents you.
-copyright: © 2026 · Apache-2.0
+copyright: © 2026 Rizom
 themeMode: dark
 cta:
   heading: Build your brain
   buttonText: Get Started
-  buttonLink: '#quickstart'
+  buttonLink: '/#quickstart'
 ---
-
