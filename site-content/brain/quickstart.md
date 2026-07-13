@@ -1,5 +1,5 @@
 ---
-routeId: home
+routeId: brain
 sectionId: quickstart
 ---
 # Quickstart
