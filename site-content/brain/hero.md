@@ -2,7 +2,6 @@
 routeId: brain
 sectionId: hero
 ---
-
 # Hero
 
 ## Eyebrow

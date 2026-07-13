@@ -2,7 +2,6 @@
 routeId: brain
 sectionId: ask
 ---
-
 # Ask
 
 ## Cap
