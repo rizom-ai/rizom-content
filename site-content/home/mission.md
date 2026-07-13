@@ -2,26 +2,25 @@
 routeId: home
 sectionId: mission
 ---
-# Mission Section
 
-## Preamble
-AI is not taking your job. It's exposing how much of your talent you've been wasting. When machines handle the busywork, what remains is the deeply human.
+# Mission
 
-## Headline
-The future of
-*work is play.*
+## Quote
+AI is not taking your job. It's exposing how much of your talent you've been wasting. When machines handle the busywork, what remains is the deeply human. *The future of work is play.*
 
-## Post
+## Sub
 Brains are the foundation. But the vision is bigger: infrastructure for a world where talent flows to opportunity, professionals own what they create, and distributed teams outperform traditional organizations.
 
-## Primary CTA Label
+## Primary Cta
+### Label
 Start Building →
 
-## Primary CTA Href
-#quickstart
+### Href
+\#quickstart
 
-## Secondary CTA Label
+## Secondary Cta
+### Label
 View on GitHub
 
-## Secondary CTA Href
-https://github.com/rizom-ai/brains
+### Href
+https://github.com/rizom-ai

@@ -2,22 +2,28 @@
 routeId: home
 sectionId: hero
 ---
-# Hero Section
+
+# Hero
+
+## Kicker
+Open source · self-hosted · your knowledge
 
 ## Headline
 Build the agent that *represents you*
 
-## Subhead
-Your knowledge becomes an AI agent. Your agent joins a network. The network finds the right expert for every problem, matched by what people actually know.
+## Standfirst
+Your knowledge becomes an AI agent. Your agent joins a network. The network finds the right expert for every problem, *matched by what people actually know*.
 
-## Primary CTA Label
+## Primary Cta
+### Label
 Get Your Brain →
 
-## Primary CTA Href
-#quickstart
+### Href
+\#quickstart
 
-## Secondary CTA Label
-How The Network Works
+## Secondary Cta
+### Label
+Talk to this brain
 
-## Secondary CTA Href
-#answer
+### Href
+/chat

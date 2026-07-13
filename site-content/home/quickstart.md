@@ -2,28 +2,76 @@
 routeId: home
 sectionId: quickstart
 ---
-# Quickstart Section
 
-## Badge
-Quick Start
+# Quickstart
 
-## Headline
-Running in under a minute
+## Cap
+Quick start
 
-## Description
-One package. Three commands. Your brain boots with a website, MCP server, CMS, and chat interface, all in a single process.
+## Cap Note
+— one package, three commands
 
-## Install Command
-$ bun add -g @rizom/brain
+## Lines
 
-## Create Command
-$ brain init mybrain --model rover
+### Line 1
 
-## Run Command
-$ cd mybrain && brain start
+#### Kind
+comment
 
-## OK Lines
-- ✓ Website and CMS on the shared web host
-- ✓ MCP server for assistants and tools
-- ✓ A2A discovery endpoint for agent-to-agent use
-- ✓ Plain-text content you can inspect and version with git
+#### Text
+\# install
+
+### Line 2
+
+#### Kind
+command
+
+#### Text
+bun add -g @rizom/brain
+
+### Line 3
+
+#### Kind
+comment
+
+#### Text
+\# create
+
+### Line 4
+
+#### Kind
+command
+
+#### Text
+brain init mybrain
+
+### Line 5
+
+#### Kind
+comment
+
+#### Text
+\# run
+
+### Line 6
+
+#### Kind
+command
+
+#### Text
+cd mybrain && brain start
+
+### Line 7
+
+#### Kind
+ok
+
+#### Text
+✓ running in under a minute
+
+## Checks
+
+- Website and CMS on the shared web host
+- MCP server for assistants and tools
+- A2A discovery endpoint for agent-to-agent use
+- Plain-text content you can inspect and version with git

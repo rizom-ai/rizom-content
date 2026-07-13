@@ -15,4 +15,4 @@ For each skill, provide:
 - tags: 3-5 keywords spanning multiple topics
 - examples: 2-3 concrete user prompts
 
-Return 4-8 consolidated skills as a JSON object with a "skills" array. Never return as many skills as there are knowledge domains.
+Return 4-8 skills as a JSON object with a "skills" array.
