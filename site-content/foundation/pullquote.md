@@ -2,7 +2,6 @@
 routeId: foundation
 sectionId: pullquote
 ---
-
 # Pullquote
 
 ## Quote

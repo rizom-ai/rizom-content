@@ -2,7 +2,6 @@
 routeId: work
 sectionId: closer
 ---
-
 # Closer
 
 ## Quote

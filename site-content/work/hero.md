@@ -2,7 +2,6 @@
 routeId: work
 sectionId: hero
 ---
-
 # Hero
 
 ## Eyebrow

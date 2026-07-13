@@ -2,7 +2,6 @@
 routeId: home
 sectionId: hero
 ---
-
 # Hero
 
 ## Kicker

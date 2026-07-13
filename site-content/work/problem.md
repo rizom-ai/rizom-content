@@ -2,7 +2,6 @@
 routeId: work
 sectionId: problem
 ---
-
 # Problem
 
 ## Cap

@@ -2,7 +2,6 @@
 routeId: foundation
 sectionId: research
 ---
-
 # Research
 
 ## Cap

@@ -45,6 +45,7 @@ fields:
     options:
       '0': discovered
       '1': approved
+      '2': archived
     type: Select
   - id: discoveredAt
     name: discoveredAt

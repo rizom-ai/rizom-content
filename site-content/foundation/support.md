@@ -2,7 +2,6 @@
 routeId: foundation
 sectionId: support
 ---
-
 # Support
 
 ## Cap

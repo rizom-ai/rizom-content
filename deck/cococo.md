@@ -1,11 +1,11 @@
 ---
-status: published
-publishedAt: "2026-04-14T14:52:04Z"
-title: "Community, Collective, Core"
+title: 'Community, Collective, Core'
 description: Core Principles of Rizom
 author: Yeehaa
+status: published
+publishedAt: '2026-04-14T14:52:04Z'
+slug: community-collective-core
 ---
-
 # Community, Collective, Core
 
 ---

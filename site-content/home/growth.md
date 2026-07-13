@@ -2,7 +2,6 @@
 routeId: home
 sectionId: growth
 ---
-
 # Growth
 
 ## Cap

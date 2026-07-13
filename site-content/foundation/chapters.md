@@ -2,7 +2,6 @@
 routeId: foundation
 sectionId: chapters
 ---
-
 # Chapters
 
 ## Cap

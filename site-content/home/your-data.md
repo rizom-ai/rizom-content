@@ -2,7 +2,6 @@
 routeId: home
 sectionId: your-data
 ---
-
 # Your Data
 
 ## Cap

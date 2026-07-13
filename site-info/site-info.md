@@ -6,5 +6,6 @@ themeMode: dark
 cta:
   heading: Build your brain
   buttonText: Get Started
-  buttonLink: '/#quickstart'
+  buttonLink: /#quickstart
 ---
+

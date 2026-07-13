@@ -2,7 +2,6 @@
 routeId: work
 sectionId: personas
 ---
-
 # Personas
 
 ## Cap

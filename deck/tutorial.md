@@ -1,11 +1,11 @@
 ---
-status: published
-publishedAt: "2026-04-14T14:52:04Z"
 title: Recall Tutorial
 description: First steps to get started with our team's collective brain
 author: Yeehaa
+status: published
+publishedAt: '2026-04-14T14:52:04Z'
+slug: recall-tutorial
 ---
-
 # Get Started with Recall
 
 **Transform scattered knowledge into unified intelligence**

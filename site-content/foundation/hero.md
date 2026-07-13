@@ -2,7 +2,6 @@
 routeId: foundation
 sectionId: hero
 ---
-
 # Hero
 
 ## Volume

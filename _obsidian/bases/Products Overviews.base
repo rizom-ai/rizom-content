@@ -1,0 +1,10 @@
+filters:
+  and:
+    - file.inFolder("products-overview")
+views:
+  - name: All Products Overviews
+    order:
+      - file.name
+      - headline
+      - tagline
+    type: table
