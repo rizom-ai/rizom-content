@@ -13,6 +13,8 @@ cardCid: ""
 a2aEndpoint: ""
 status: discovered
 discoveredAt: ""
+introducedBy: []
+hops:
 ---
 
 <!-- Write your content here -->

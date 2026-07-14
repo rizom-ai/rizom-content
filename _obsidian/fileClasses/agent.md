@@ -50,5 +50,11 @@ fields:
   - id: discoveredAt
     name: discoveredAt
     type: Input
+  - id: introducedBy
+    name: introducedBy
+    type: Multi
+  - id: hops
+    name: hops
+    type: Number
 filesPaths: agent
 ---
