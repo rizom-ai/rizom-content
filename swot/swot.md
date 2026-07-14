@@ -2,31 +2,39 @@
 strengths:
   - title: Knowledge architecture
     detail: >-
-      Use this as your core strength when you need scalable structures,
-      navigation, or retrieval to make a knowledge base easier to grow and use.
-  - title: Outcome-focused workshops
+      Use your ability to design scalable structures and navigation as a core
+      capability when organizing knowledge across Rizom’s platform, practice,
+      and foundation.
+  - title: Strategy-to-action planning
     detail: >-
-      Lean on this when you need to turn discussion into a practical map or
-      action plan that people can use right away.
+      Lead with your ability to turn broad goals into priorities and next steps,
+      then bring in the network’s innovation or collaboration perspectives when
+      plans need enrichment.
 weaknesses:
-  - title: Landing page copy
+  - title: Staging operations
     detail: >-
-      Use this only for narrower conversion tasks and do not assume it gives you
-      broader coverage for messaging, brand, or campaign writing.
-  - title: Platform operations
-    detail: >-
-      Keep this work simple and practical unless you have another capability to
-      help define the operating model for content, tools, and process.
+      Document and rehearse clear staging-validation steps because your network
+      currently offers no evidenced complement for checking deployments.
 opportunities:
-  - title: Strategy to action
+  - title: Ecosystem architecture
     detail: >-
-      Use this to test how well you turn workshop output or broad goals into
-      clear next steps, priorities, and implementation plans.
+      Test the network’s ability to model Rizom’s platform, consulting practice,
+      and foundation as one adaptable system, then assess which structural
+      recommendations are useful.
+  - title: Innovation practice
+    detail: >-
+      Pair the network’s prototyping and strategic-narrative skill with your
+      messaging work to turn exploratory ideas into small, testable outputs.
+  - title: Distributed collaboration systems
+    detail: >-
+      Apply the network’s collaboration, social-contract, and governance skill
+      to one concrete collective workflow and compare the result with your
+      current approach.
 threats:
-  - title: Messaging validation
+  - title: Deployment validation
     detail: >-
-      Keep checking clarity and fit before publishing so messaging review does
-      not become a weak point in your process.
-derivedAt: '2026-05-23T05:58:42.141Z'
+      Do not rely on the network for staging or release validation; establish a
+      tested handoff or checklist before web changes become time-sensitive.
+derivedAt: '2026-07-14T08:39:34.412Z'
 ---
 
