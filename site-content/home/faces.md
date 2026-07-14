@@ -18,13 +18,13 @@ platform
 The tools
 
 #### Title
-Open-source AI agents built from your own knowledge — *you are here*
+Open-source AI agents built from your own knowledge — *get your brain*
 
 #### Go
-rizom.ai
+/brain →
 
 #### Href
-/
+/brain
 
 ### Face 2
 

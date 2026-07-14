@@ -15,7 +15,7 @@ Brains are the foundation. But the vision is bigger: infrastructure for a world 
 Start Building →
 
 ### Href
-\#quickstart
+/brain#quickstart
 
 ## Secondary Cta
 ### Label

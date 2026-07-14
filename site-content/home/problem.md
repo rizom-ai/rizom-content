@@ -5,7 +5,10 @@ sectionId: problem
 # Problem
 
 ## Cap
-Why it has to exist
+The dark around the lights
+
+## Cap Note
+— what happens to expertise without a network
 
 ## Items
 
