@@ -1,40 +1,27 @@
 ---
 strengths:
-  - title: Knowledge architecture
+  - title: Messaging and copy validation
     detail: >-
-      Use your ability to design scalable structures and navigation as a core
-      capability when organizing knowledge across Rizom’s platform, practice,
-      and foundation.
-  - title: Strategy-to-action planning
-    detail: >-
-      Lead with your ability to turn broad goals into priorities and next steps,
-      then bring in the network’s innovation or collaboration perspectives when
-      plans need enrichment.
+      Use your landing-page and messaging skills for positioning and refinement,
+      then ask Paper Tiger for a dependable strategic critique before
+      publishing.
 weaknesses:
-  - title: Staging operations
+  - title: Staging site operations
     detail: >-
-      Document and rehearse clear staging-validation steps because your network
-      currently offers no evidenced complement for checking deployments.
+      Build and test your staging deployment process directly; do not assume
+      your network can verify live-site changes.
 opportunities:
-  - title: Ecosystem architecture
+  - title: Knowledge infrastructure
     detail: >-
-      Test the network’s ability to model Rizom’s platform, consulting practice,
-      and foundation as one adaptable system, then assess which structural
-      recommendations are useful.
-  - title: Innovation practice
-    detail: >-
-      Pair the network’s prototyping and strategic-narrative skill with your
-      messaging work to turn exploratory ideas into small, testable outputs.
-  - title: Distributed collaboration systems
-    detail: >-
-      Apply the network’s collaboration, social-contract, and governance skill
-      to one concrete collective workflow and compare the result with your
-      current approach.
+      Pair your knowledge-platform planning and architecture skills with Paper
+      Tiger’s system-building capability to pilot shared infrastructure, while
+      learning its capture and reuse practices.
 threats:
-  - title: Deployment validation
+  - title: Quickstart guidance creation
     detail: >-
-      Do not rely on the network for staging or release validation; establish a
-      tested handoff or checklist before web changes become time-sensitive.
-derivedAt: '2026-07-14T08:39:34.412Z'
+      Review and test your onboarding instructions with real users before
+      relying on them to help people get started quickly, because the available
+      network support is only loosely related.
+derivedAt: '2026-07-14T17:05:40.033Z'
 ---
 
