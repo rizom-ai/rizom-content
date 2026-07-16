@@ -1,24 +1,27 @@
 ---
 strengths:
-  - title: Knowledge architecture
+  - title: Knowledge-system design
     detail: >-
-      Use your strength in scalable structures, initialization flows, and
-      navigation to shape Rizom’s shared knowledge system.
+      Use your strength in structured knowledge and agent-based systems
+      alongside your network’s dependable distributed-collaboration design for
+      platform and decentralized-team work.
 weaknesses:
-  - title: Staging site operations
+  - title: Runtime status management
     detail: >-
-      Build and verify this deployment capability directly, since your network
-      does not currently provide a clear complement.
+      Establish and document a practice for checking active jobs and system
+      readiness before making operational claims.
 opportunities:
-  - title: Knowledge infrastructure
+  - title: Professional identity shaping
     detail: >-
-      Pair your platform planning with your network’s dependable experience
-      creating systems that capture, organize, and share institutional memory.
+      Learn from or collaborate with Metis to turn your broader messaging skill
+      into sharper profiles for Rizom’s three faces and the collective it
+      represents.
 threats:
-  - title: Cultural critique and interpretation
+  - title: Job status and confirmation
     detail: >-
-      Test your network’s cultural analysis on a small, bounded research or
-      narrative task before using it for definitive interpretation.
-derivedAt: '2026-07-15T15:43:16.990Z'
+      Test the network’s job-status and confirmation capabilities in low-risk
+      workflows, and avoid relying on them for release checks or
+      approval-sensitive work until validated.
+derivedAt: '2026-07-16T15:30:40.027Z'
 ---
 
