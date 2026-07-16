@@ -1,5 +1,17 @@
-# The Future of Work is Play
-
+---
+title: The Future of Work is Play
+slug: the-future-of-work-is-play
+status: published
+publishedAt: '2025-10-15T09:00:00.000Z'
+excerpt: >-
+  We tell our children to find work that matters, to be creative, to follow
+  their passion. Then we spend our days in meetings about meetings. The future
+  of work is play—not because work should be easy, but because it should be
+  voluntary, creative, and aligned with who you actually are.
+author: Yeehaa
+coverImageId: future-of-work-is-play-v2
+ogImageId: og-post-the-future-of-work-is-play
+---
 We tell our children to find work that matters, to be creative, to follow their passion. Then we spend our days in meetings about meetings, defending positions we do not believe in, waiting for permission to do work that could start today.
 
 Inside, the questions multiply: Why am I burning out on a purpose I am not even aligned with? Why fear AI taking work I never wanted to do in the first place? Why save money for someday while current life passes by? Why wait for permission to start work that actually matters?
