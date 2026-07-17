@@ -1,0 +1,4 @@
+---
+title: Workplace Autonomy
+---
+A central theme is the need to give people greater control over how meaningful work is chosen, structured, and pursued. The industrial model is criticized for requiring permission, enforcing arbitrary schedules, and prioritizing institutional metrics over human flourishing. The alternative allows participants to create their own rules, follow shared interests, and contribute without surrendering autonomy to hierarchy. Ownership is positioned as a stronger foundation than selling labor to capital owners. This autonomy is connected to intrinsic motivation, creative energy, and a stronger sense of alignment between work and identity. The article frames autonomy as necessary for transforming collective work rather than merely improving individual work-life balance.

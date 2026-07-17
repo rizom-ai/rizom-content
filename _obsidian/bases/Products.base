@@ -1,0 +1,12 @@
+filters:
+  and:
+    - file.inFolder("product")
+views:
+  - name: All Products
+    order:
+      - file.name
+      - name
+      - availability
+      - order
+      - ogImageId
+    type: table
