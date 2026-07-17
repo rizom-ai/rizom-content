@@ -2,6 +2,7 @@
 
 Created by: Sam S.
 Revised: July 17, 2026 — updated to reflect the brain product, the three-faces structure, and the lights metaphor system now live at rizom.ai. Supersedes the October 2025 edition.
+Canonical copy: this file (`BRAND.md` in rizom-content). A mirror lives at `docs/brand.md` in the brains repo — update here first, then refresh the mirror.
 
 ## What changed since the 2025 edition
 
@@ -222,6 +223,7 @@ your talent you've been wasting" — when the next sentence opens a door.
 - Own, open source, your own server, in your own voice
 - Substance, meaning, what you actually know
 - Grow, cultivate, emerge, thrive (the rhizome speaks through these)
+- Grove, trunk, branches (many trunks, one root system — never a single tree)
 - Play with purpose
 
 ### Language to Avoid
@@ -260,8 +262,25 @@ depth (naming, foundation essays, methodology) rather than surface copy.
 Growth language — cultivate, emerge, thrive — is the rhizome speaking without
 being named.
 
-**The relationship in one line:** the rhizome is the root system; the lights
-are what you see at night where it surfaced.
+The rhizome doesn't stop at the surface: it reaches into the sky. Between the
+roots and the stars stands the grove. Rhizomatic plants — aspen, bamboo — send
+up many trunks from one shared root system: each looks like a separate tree
+but the grove is secretly one organism. That's the middle of our vertical
+axis. Each brain is a trunk — standing visibly alone, on its own server, in
+its own voice — while being one organism with the network underground.
+Branches are the work a brain puts out where others can reach it: essays,
+answers, published pages. What we reject is the *single* trunk with everything
+branching from it — that's the org chart. A grove of many trunks from one
+rhizome is us.
+
+At the top, the constellation: rhizome structure projected into the sky —
+decentered nodes, connections without hierarchy. That's why the network
+visualization reads as a night sky: the proximity map draws the same pattern
+above the grove that the rhizome grows below it.
+
+**The relationship in one line:** the rhizome is the shared root system, each
+brain is a trunk in the grove, its work is the branches, and at night the
+grove becomes a constellation — the same network written in the sky.
 
 ### The One-Metaphor Test
 
