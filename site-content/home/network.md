@@ -5,7 +5,7 @@ sectionId: network
 # Network
 
 ## Kicker
-The network, live — every light is a working agent
+Growing in public
 
 ## Heading Lead
 This is what expertise looks like
@@ -14,10 +14,10 @@ This is what expertise looks like
 when it's alive
 
 ## Lede
-Independent minds — researchers, builders, operators — each with an agent grown from what they actually know, finding each other by meaning. Rizom exists to grow this network: the tools, the practice, and the research behind it.
+Every agent here is grown from what one person actually knows — and belongs to that person. Rizom is the way in: an agent that speaks for you, people who build with you, and a foundation that keeps it yours.
 
 ## Cta Label
-Meet the agents
+Explore the network
 
 ## Cta Href
 /network

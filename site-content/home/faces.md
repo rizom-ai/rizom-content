@@ -5,7 +5,7 @@ sectionId: faces
 # Faces
 
 ## Cap
-One practice, three faces
+One root, three faces
 
 ## Faces
 
@@ -15,10 +15,10 @@ One practice, three faces
 platform
 
 #### Kicker
-The tools
+The brain
 
 #### Title
-Open-source AI agents built from your own knowledge — *get your brain*
+An agent grown from your knowledge, answering and publishing in your voice — *yours, on your own server*
 
 #### Go
 /brain →
@@ -32,10 +32,10 @@ Open-source AI agents built from your own knowledge — *get your brain*
 work
 
 #### Kicker
-The service
+The practice
 
 #### Title
-Workshops and consulting that apply the methodology in live engagements — *one session, one map*
+Working sessions that map what your team actually knows — *people, in the room*
 
 #### Go
 /work →
@@ -49,10 +49,10 @@ Workshops and consulting that apply the methodology in live engagements — *one
 foundation
 
 #### Kicker
-The source
+The foundation
 
 #### Title
-The non-profit that holds the IP and stewards the methodology independently — *essays & gatherings*
+An independent non-profit owns the method so no company can — *including us*
 
 #### Go
 /foundation →
