@@ -5,29 +5,29 @@ sectionId: one-light
 # One Light
 
 ## Cap
-It starts with one light
-
-## Cap Note
-— yours
+It starts with you
 
 ## Headline
-Your knowledge, *switched on*
+Your knowledge, *taking root*
 
 ## Intro
-A brain turns your notes, essays, and judgment into an agent that answers, publishes, and represents you — open source, on your own server, in your own voice. That's the product.
+A brain is an agent grown from what you've written and learned — open source, on a server you control. That's the product.
+
+## Pull
+It answers. It publishes. *It stands in for you.*
 
 ## Primary Cta
 
 ### Label
-Meet the brain →
+Start Building →
 
 ### Href
-/brain
+/brain#quickstart
 
 ## Secondary Cta
 
 ### Label
-Three commands to start
+View on GitHub
 
 ### Href
-/brain#quickstart
+https://github.com/rizom-ai

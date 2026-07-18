@@ -5,10 +5,7 @@ sectionId: problem
 # Problem
 
 ## Cap
-The dark around the lights
-
-## Cap Note
-— what happens to expertise without a network
+Alone, it withers
 
 ## Items
 
@@ -43,4 +40,4 @@ People leave, context disappears, and hard-won expertise gets buried in chat thr
 The right people never find each other
 
 #### Text
-Collaborators matched by job titles and résumés, not by what they actually know. The perfect expert might be one connection away.
+Collaboration gets matched on titles and résumés. What you actually know — the thing that matters — never enters the search.

@@ -20,10 +20,10 @@ talk to it
 ### Link 2
 
 #### Label
-/.well-known/agent-card
+agent card
 
 #### Href
-/.well-known/agent-card
+/.well-known/agent-card.json
 
 ### Link 3
 
@@ -31,4 +31,4 @@ talk to it
 ai.rizom.brain.* lexicons
 
 #### Href
-/atproto/lexicons
+/atproto/lexicons/index.json
