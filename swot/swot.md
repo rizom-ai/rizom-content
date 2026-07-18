@@ -2,27 +2,26 @@
 strengths:
   - title: Knowledge architecture
     detail: >-
-      Use your knowledge-architecture skill as a core capability, pairing it
-      with Paper Tiger’s dependable ethical AI workflow and
-      distributed-collaboration expertise when designing collective systems.
+      Use your knowledge-system design confidently for collective coordination,
+      and pair it with Paper Tiger’s dependable ethical AI and
+      distributed-collaboration patterns.
 weaknesses:
-  - title: Approval-dependent actions
+  - title: Positioning review
     detail: >-
-      Do not assume your current setup can resolve pending confirmations; define
-      a manual procedure and test the tentative confirmation capability before
-      relying on it.
+      Develop and test your own messaging, but review tentative network
+      contributions on brand narrative, voice, and positioning before using them
+      publicly.
 opportunities:
-  - title: Distributed collaboration design
+  - title: Agency-preserving AI practice
     detail: >-
-      Pair your outcome-based collaboration work with Paper Tiger’s dependable
-      skill in social contracts and governance by prototyping a concrete team
-      working agreement.
+      Test a collaboration with Paper Tiger to turn your knowledge and agency
+      principles into explicit AI workflows that support human judgment.
 threats:
-  - title: Semantic search
+  - title: Identity consistency
     detail: >-
-      Treat the network’s tentative semantic search as exploratory rather than
-      authoritative, and test it against representative Rizom content before
-      using it for important retrieval.
-derivedAt: '2026-07-18T13:39:09.819Z'
+      Do not rely on the network’s tentative identity-normalization skill alone;
+      add a review step for profiles and descriptions across the platform,
+      practice, and foundation.
+derivedAt: '2026-07-18T15:14:02.403Z'
 ---
 
