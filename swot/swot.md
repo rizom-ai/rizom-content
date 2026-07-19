@@ -2,35 +2,26 @@
 strengths:
   - title: Knowledge architecture
     detail: >-
-      Use your knowledge-system design confidently for cross-team coordination,
-      especially where ethical AI workflows and distributed collaboration need
-      to fit together.
+      Use your knowledge-platform and collective-intelligence design
+      confidently, reinforced by your network’s dependable ethical AI workflow
+      and distributed collaboration skills.
+weaknesses:
   - title: Workshop facilitation
     detail: >-
-      Make workshops your practical entry point for collaboration projects
-      because you reliably turn participation into alignment and concrete next
-      steps.
-weaknesses:
-  - title: Profile auditing
-    detail: >-
-      Before relying on profile quality at scale, strengthen this capability or
-      establish a lightweight method for finding incomplete, placeholder, and
-      inconsistent information.
+      Build repeatable workshop methods and test your facilitation practice
+      directly rather than assuming your network can reliably fill this gap.
 opportunities:
-  - title: Distributed collaboration systems
+  - title: Distributed collaboration design
     detail: >-
-      Pair your outcome-based collaboration work with this dependable capability
-      by testing one team agreement or decentralized operating model.
-  - title: Ethical AI workflows
-    detail: >-
-      Apply this dependable capability to one existing knowledge workflow and
-      use an agency, values, and human-judgment review to improve it.
+      Pair your outcome-based collaboration work with your network’s dependable
+      expertise in social contracts and governance to test concrete patterns for
+      decentralized teams.
 threats:
-  - title: Editorial voice
+  - title: Institutional and AI power analysis
     detail: >-
-      Treat this tentative capability as a test rather than a dependency: use it
-      on a small public piece and review the result closely before trusting it
-      with high-stakes messaging.
-derivedAt: '2026-07-19T05:02:12.722Z'
+      Treat this network capability as tentative and validate it through a
+      small, evidence-based pilot before relying on it for high-stakes
+      future-of-work analysis.
+derivedAt: '2026-07-19T05:02:56.289Z'
 ---
 
