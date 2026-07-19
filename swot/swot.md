@@ -2,28 +2,35 @@
 strengths:
   - title: Knowledge architecture
     detail: >-
-      Use your strength in knowledge architecture confidently for platforms that
-      organize collective intelligence and improve coordination.
-weaknesses:
-  - title: Editorial voice
+      Use your knowledge-system design confidently for cross-team coordination,
+      especially where ethical AI workflows and distributed collaboration need
+      to fit together.
+  - title: Workshop facilitation
     detail: >-
-      Strengthen your sharp, opinionated editorial voice directly, and test
-      external editorial input before treating it as dependable.
+      Make workshops your practical entry point for collaboration projects
+      because you reliably turn participation into alignment and concrete next
+      steps.
+weaknesses:
+  - title: Profile auditing
+    detail: >-
+      Before relying on profile quality at scale, strengthen this capability or
+      establish a lightweight method for finding incomplete, placeholder, and
+      inconsistent information.
 opportunities:
   - title: Distributed collaboration systems
     detail: >-
-      Learn from your network’s dependable collaboration models, social
-      contracts, and governance patterns by building a concrete team working
-      agreement or governance prototype.
+      Pair your outcome-based collaboration work with this dependable capability
+      by testing one team agreement or decentralized operating model.
   - title: Ethical AI workflows
     detail: >-
-      Pair your knowledge-systems work with your network’s dependable ability to
-      design AI workflows that preserve agency and support human judgment.
+      Apply this dependable capability to one existing knowledge workflow and
+      use an agency, values, and human-judgment review to improve it.
 threats:
-  - title: Semantic search
+  - title: Editorial voice
     detail: >-
-      Do not rely on tentative semantic-search support alone to locate important
-      knowledge; verify critical results through a dependable path.
-derivedAt: '2026-07-18T15:14:55.581Z'
+      Treat this tentative capability as a test rather than a dependency: use it
+      on a small public piece and review the result closely before trusting it
+      with high-stakes messaging.
+derivedAt: '2026-07-19T05:02:12.722Z'
 ---
 
