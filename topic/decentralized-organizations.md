@@ -1,0 +1,4 @@
+---
+title: Decentralized Organizations
+---
+Rizom describes an organizational model based on organic growth, distributed ownership, aligned interests, and coordination without rigid hierarchy. The rhizome serves as a metaphor for a resilient ecosystem in which participants share resources, regenerate value, adapt to change, and enable growth from multiple points. Members retain their individual identities while contributing skills, networks, and resources to collective activity. The model includes different levels of participation, ranging from a broad community to a project-focused collective and an ownership-oriented core. Decision-making, compensation, and responsibility are intended to be transparent, distributive, and participatory. This represents a durable approach to building professional networks that combine autonomy with collective capacity.
