@@ -1,4 +1,0 @@
----
-title: Outcome-Based Cooperation
----
-The Kick Off 2025 material distinguishes between inputs, outputs, and outcomes as different levels of cooperation. Inputs are resources such as time, money, and materials, while outputs are completed deliverables such as documents, software, or meeting records. Outcomes are the value created through those deliverables, and Rizom explicitly argues that value should not be measured solely in monetary terms. At this stage, outcomes are connected to advancing the mission of making the future of work more playful, including the growth of people who identify with and share that mission. This framework redirects attention from activity and production toward meaningful effects. It provides a reusable method for evaluating collaborative work according to mission-aligned value.

@@ -1,18 +1,18 @@
 ---
 name: Design Outcome-Based Collaboration
 description: >-
-  Design practical ways for teams to coordinate around shared outcomes,
-  autonomy, and collective responsibility.
+  Design practical ways for teams and decentralized organizations to coordinate
+  around shared outcomes rather than rigid processes.
 tags:
-  - alignment
   - methodology
-  - agency
+  - alignment
   - best-practices
+  - agency
 examples:
-  - How can we replace task-based management with outcome-based cooperation?
-  - Design a team working agreement that balances autonomy and alignment.
+  - How can we redesign our team’s planning around outcomes instead of tasks?
   - >-
-    Create an action plan for improving collaboration across a decentralized
-    team.
+    Create a collaboration model for a distributed organization with shared
+    goals.
+  - What practices help teams coordinate without centralized management?
 ---
 
