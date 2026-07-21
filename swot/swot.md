@@ -1,27 +1,26 @@
 ---
 strengths:
-  - title: Knowledge architecture
+  - title: Collaborative ecosystem design
     detail: >-
-      Use your knowledge-platform and collective-intelligence design
-      confidently, reinforced by your network’s dependable ethical AI workflow
-      and distributed collaboration skills.
+      Use your strength in mapping relationships and coordination gaps to design
+      structures for Rizom’s platform, practice, and foundation.
 weaknesses:
-  - title: Workshop facilitation
+  - title: Profile auditing
     detail: >-
-      Build repeatable workshop methods and test your facilitation practice
-      directly rather than assuming your network can reliably fill this gap.
+      Build your own review practice for completeness, placeholders, and cleanup
+      before relying on the tentative profile-auditing capability in your
+      network.
 opportunities:
-  - title: Distributed collaboration design
+  - title: Ethical AI workflow design
     detail: >-
-      Pair your outcome-based collaboration work with your network’s dependable
-      expertise in social contracts and governance to test concrete patterns for
-      decentralized teams.
+      Pair your ecosystem and collaboration skills with your network’s
+      dependable ethical-AI workflow design, starting with one concrete
+      collective workflow.
 threats:
-  - title: Institutional and AI power analysis
+  - title: Profile fact retrieval
     detail: >-
-      Treat this network capability as tentative and validate it through a
-      small, evidence-based pilot before relying on it for high-stakes
-      future-of-work analysis.
-derivedAt: '2026-07-19T05:02:56.289Z'
+      Treat profile facts from the tentative retrieval capability as unverified
+      and manually check them before using them in high-stakes representation.
+derivedAt: '2026-07-21T06:40:03.851Z'
 ---
 
