@@ -37,6 +37,15 @@ fields:
   - id: cardCid
     name: cardCid
     type: Input
+  - id: cardObservedAt
+    name: cardObservedAt
+    type: Input
+  - id: cardLastCheckedAt
+    name: cardLastCheckedAt
+    type: Input
+  - id: cardLastError
+    name: cardLastError
+    type: Input
   - id: a2aEndpoint
     name: a2aEndpoint
     type: Input
