@@ -1,6 +1,6 @@
 ---
 name: ""
-kind: professional
+kind: person
 organization: ""
 brainName: ""
 url: ""
@@ -13,6 +13,9 @@ cardCid: ""
 cardObservedAt: ""
 cardLastCheckedAt: ""
 cardLastError: ""
+cardFailureCount:
+cardUnavailableAt: ""
+cardStaleAfter: ""
 a2aEndpoint: ""
 status: discovered
 discoveredAt: ""

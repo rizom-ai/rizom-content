@@ -1,5 +1,11 @@
 ---
 fields:
+  - id: represents
+    name: represents
+    options:
+      '0': brain
+      '1': anchor
+    type: Select
   - id: title
     name: title
     type: Input

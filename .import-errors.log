@@ -1,0 +1,160 @@
+2026-07-26T06:16:13.013Z - agent/jo.rizom.ai.md: Invalid entity data for agent: [
+  {
+    "code": "invalid_value",
+    "values": [
+      "person",
+      "team",
+      "organization"
+    ],
+    "path": [
+      "kind"
+    ],
+    "message": "Invalid option: expected one of \"person\"|\"team\"|\"organization\""
+  }
+]
+→ agent/jo.rizom.ai.md.invalid
+
+2026-07-26T06:16:13.039Z - agent/yeehaa.io.md: Invalid entity data for agent: [
+  {
+    "code": "invalid_value",
+    "values": [
+      "person",
+      "team",
+      "organization"
+    ],
+    "path": [
+      "kind"
+    ],
+    "message": "Invalid option: expected one of \"person\"|\"team\"|\"organization\""
+  }
+]
+→ agent/yeehaa.io.md.invalid
+
+2026-07-26T06:16:13.044Z - agent/sam.rizom.ai.md: Invalid entity data for agent: [
+  {
+    "code": "invalid_value",
+    "values": [
+      "person",
+      "team",
+      "organization"
+    ],
+    "path": [
+      "kind"
+    ],
+    "message": "Invalid option: expected one of \"person\"|\"team\"|\"organization\""
+  }
+]
+→ agent/sam.rizom.ai.md.invalid
+
+2026-07-26T06:16:13.058Z - agent/becca.rizom.ai.md: Invalid entity data for agent: [
+  {
+    "code": "invalid_value",
+    "values": [
+      "person",
+      "team",
+      "organization"
+    ],
+    "path": [
+      "kind"
+    ],
+    "message": "Invalid option: expected one of \"person\"|\"team\"|\"organization\""
+  }
+]
+→ agent/becca.rizom.ai.md.invalid
+
+2026-07-26T06:16:13.063Z - agent/wolfgang.rizom.ai.md: Invalid entity data for agent: [
+  {
+    "code": "invalid_value",
+    "values": [
+      "person",
+      "team",
+      "organization"
+    ],
+    "path": [
+      "kind"
+    ],
+    "message": "Invalid option: expected one of \"person\"|\"team\"|\"organization\""
+  }
+]
+→ agent/wolfgang.rizom.ai.md.invalid
+
+2026-07-26T06:16:13.073Z - agent/smoke.rizom.ai.md: Invalid entity data for agent: [
+  {
+    "code": "invalid_value",
+    "values": [
+      "person",
+      "team",
+      "organization"
+    ],
+    "path": [
+      "kind"
+    ],
+    "message": "Invalid option: expected one of \"person\"|\"team\"|\"organization\""
+  }
+]
+→ agent/smoke.rizom.ai.md.invalid
+
+2026-07-26T06:16:13.076Z - agent/docs.rizom.ai.md: Invalid entity data for agent: [
+  {
+    "code": "invalid_value",
+    "values": [
+      "person",
+      "team",
+      "organization"
+    ],
+    "path": [
+      "kind"
+    ],
+    "message": "Invalid option: expected one of \"person\"|\"team\"|\"organization\""
+  }
+]
+→ agent/docs.rizom.ai.md.invalid
+
+2026-07-26T06:16:13.079Z - agent/natalie.rizom.ai.md: Invalid entity data for agent: [
+  {
+    "code": "invalid_value",
+    "values": [
+      "person",
+      "team",
+      "organization"
+    ],
+    "path": [
+      "kind"
+    ],
+    "message": "Invalid option: expected one of \"person\"|\"team\"|\"organization\""
+  }
+]
+→ agent/natalie.rizom.ai.md.invalid
+
+2026-07-26T06:16:13.096Z - agent/karim.rizom.ai.md: Invalid entity data for agent: [
+  {
+    "code": "invalid_value",
+    "values": [
+      "person",
+      "team",
+      "organization"
+    ],
+    "path": [
+      "kind"
+    ],
+    "message": "Invalid option: expected one of \"person\"|\"team\"|\"organization\""
+  }
+]
+→ agent/karim.rizom.ai.md.invalid
+
+2026-07-26T06:16:13.112Z - agent/mylittlephoney.com.md: Invalid entity data for agent: [
+  {
+    "code": "invalid_value",
+    "values": [
+      "person",
+      "team",
+      "organization"
+    ],
+    "path": [
+      "kind"
+    ],
+    "message": "Invalid option: expected one of \"person\"|\"team\"|\"organization\""
+  }
+]
+→ agent/mylittlephoney.com.md.invalid
+

@@ -6,9 +6,9 @@ fields:
   - id: kind
     name: kind
     options:
-      '0': professional
+      '0': person
       '1': team
-      '2': collective
+      '2': organization
     type: Select
   - id: organization
     name: organization
@@ -45,6 +45,15 @@ fields:
     type: Input
   - id: cardLastError
     name: cardLastError
+    type: Input
+  - id: cardFailureCount
+    name: cardFailureCount
+    type: Number
+  - id: cardUnavailableAt
+    name: cardUnavailableAt
+    type: Input
+  - id: cardStaleAfter
+    name: cardStaleAfter
     type: Input
   - id: a2aEndpoint
     name: a2aEndpoint
