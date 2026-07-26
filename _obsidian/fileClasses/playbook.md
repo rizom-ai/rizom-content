@@ -13,7 +13,7 @@ fields:
   - id: audience
     name: audience
     options:
-      '0': anchor
+      '0': admin
       '1': trusted
       '2': public
     type: Select

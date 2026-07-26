@@ -1,7 +1,7 @@
 ---
 title: "{{title}}"
 status: active
-audience: anchor
+audience: admin
 trigger: ""
 lifecycle: ""
 once: false
