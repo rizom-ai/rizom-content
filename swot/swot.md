@@ -1,26 +1,25 @@
 ---
 strengths:
+  - title: Future-of-work storytelling
+    detail: >-
+      Use your ability to explain playful, meaningful, and participatory work in
+      essays, presentations, and organizational positioning.
   - title: Collaborative ecosystem design
     detail: >-
-      Use your strength in mapping relationships and coordination gaps to design
-      structures for Rizom’s platform, practice, and foundation.
-weaknesses:
-  - title: Profile auditing
+      Apply your structural and relationship-mapping skills to find coordination
+      gaps and design decentralized communities, collectives, and organizations.
+  - title: Outcome-based collaboration
     detail: >-
-      Build your own review practice for completeness, placeholders, and cleanup
-      before relying on the tentative profile-auditing capability in your
-      network.
-opportunities:
-  - title: Ethical AI workflow design
-    detail: >-
-      Pair your ecosystem and collaboration skills with your network’s
-      dependable ethical-AI workflow design, starting with one concrete
-      collective workflow.
+      Use your practical coordination methods to help distributed teams align
+      around shared goals instead of rigid processes.
+weaknesses: []
+opportunities: []
 threats:
-  - title: Profile fact retrieval
+  - title: Missing complementary expertise
     detail: >-
-      Treat profile facts from the tentative retrieval capability as unverified
-      and manually check them before using them in high-stakes representation.
-derivedAt: '2026-07-21T06:40:03.851Z'
+      Do not rely on your network for capabilities beyond narrative development,
+      ecosystem design, and outcome-based collaboration until you identify and
+      cultivate specific complementary skills.
+derivedAt: '2026-07-26T06:21:26.785Z'
 ---
 
