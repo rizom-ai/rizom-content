@@ -1,0 +1,4 @@
+---
+title: Partner Network Governance
+---
+Governance of the partner network is assigned to the foundation, which controls certification, the public registry, and use of the certified marks. The commercial practice co-delivers engagements and serves as the first listed partner, but remains subject to the same rules as external participants. The economic model allocates revenue by delivery, client origination, risk, and commons stewardship, with a defined share supporting platform development and foundation operations. Published price bands are intended to make the network's commercial terms transparent and prevent hidden margins at the edge. The registry is designed to expose partner status, stewardship, delivered engagements, and compatibility in a machine-readable form. Together, these mechanisms create accountability across a distributed service ecosystem.
