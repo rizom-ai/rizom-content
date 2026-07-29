@@ -34,7 +34,9 @@ Recommendation: file an **EU trade mark (EUTM) at EUIPO** (euipo.europa.eu), not
 | Cost (4 classes) | ~€433 | €1,200 |
 | Opposition exposure | Benelux marks only | any earlier EU/national mark |
 
-The partner model is explicitly international (community spans Amsterdam to Taipei to SF), so Benelux-only protection undershoots the program it exists to protect. The EUTM's larger opposition surface is the price of the coverage — which is why the clearance search comes first. For non-EU partner markets later (UK, US), extend via the **Madrid Protocol** using the EUTM as base; Taiwan is not in Madrid and would need a direct national filing if it ever matters.
+**Decided sequence (2026-07-29): Benelux first, EUTM within the priority window.** A BOIP filing (~€433) sets a priority date that a later EUTM can claim for **6 months** under the Paris Convention — so Benelux-first locks today's date cheaply while the clearance search, counsel hour, and any Rizom-Lab coexistence conversation happen properly. BOIP also registers faster (~3 months) and has quieter opposition traffic. Total two-step cost: ~€1,633.
+
+Two caveats: (1) **the 6-month priority deadline is hard** — calendar it prominently at filing; the EUTM go/no-go decision belongs at month 4–5 with clearance results in hand. (2) Benelux-first only shelters against French *national* marks; if Rizom-Lab's Madrid registration designates the **EU**, that right can oppose in Benelux too — so determining their designated territories is the first clearance task. The partner model is international (Amsterdam to Taipei to SF), so the EUTM remains the destination; Benelux is the anchor, not the endpoint. For non-EU markets later (UK, US), extend via the **Madrid Protocol** using the EUTM as base; Taiwan is not in Madrid and would need a direct national filing if it ever matters.
 
 ## 3. Classes and specification
 
@@ -70,7 +72,9 @@ The trademark policy can publish as soon as the application is **filed** (say "t
 ## Checklist
 
 - [ ] TMview/eSearch clearance search (incl. Rizom-Lab assessment) — counsel hour if class 9 looks contested
-- [ ] File EUTM word mark "RIZOM", applicant Rizom B.V., classes 9/35/41/42 — €1,200
+- [ ] File BOIP (Benelux) word mark "RIZOM", applicant Rizom B.V., classes 9/35/41/42 with UV-mapping carve-out — ~€433
+- [ ] Calendar the 6-month Paris Convention priority deadline; EUTM go/no-go at month 4–5 with clearance results
+- [ ] File EUTM claiming Benelux priority — €1,200
 - [ ] Publish trademark policy with "application pending" once filed
 - [ ] Calendar: opposition window end, registration, 5-year use review, 10-year renewal
 - [ ] On stichting: record assignment at EUIPO
