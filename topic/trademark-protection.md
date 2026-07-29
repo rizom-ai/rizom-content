@@ -1,0 +1,4 @@
+---
+title: Trademark Protection
+---
+The document addresses trademark protection for the RIZOM word mark, with a focus on securing broad rights for an international partner ecosystem. It recommends conducting clearance searches across TMview, EUIPO, BOIP, company registers, and general web sources before filing. The known Rizom-Lab conflict is identified as a significant issue because it may overlap in software-related classes. The proposed filing is an EU trade mark through EUIPO rather than a Benelux-only registration, reflecting the brand’s international scope. Protection would cover software, business consultancy, education, workshops, SaaS, and software development services across four Nice classes. The document also explains opposition exposure, genuine-use requirements, assignment to a future stichting, renewal obligations, and possible international expansion through the Madrid Protocol.
