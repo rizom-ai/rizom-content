@@ -7,10 +7,17 @@ Companion to [[rizom-trademark-policy-draft]] and [[certified-partner-program-ac
 Before spending anything, search for conflicts. A registered earlier mark that is similar, for similar goods/services, can block the application via opposition.
 
 - Search **TMview** (tmview.europa.eu) and **EUIPO eSearch** for "rizom", "rhizome", "rizome" and close variants, in classes 9, 35, 41, 42.
-- **Known flag: Rizom-Lab** — a French software company (RizomUV, 3D unwrapping software). Same word, software goods. Whether it blocks depends on their registrations and the exact goods/services wording; this is the one item that genuinely warrants an hour of trademark counsel before filing, because it sits in class 9/42 territory.
+- **Known flag: Rizom-Lab — researched 2026-07-29.** Rizom-Lab SAS (Marseille, founded 2016 by Rémi Arquier) makes RizomUV, UV-mapping software for 3D artists (users incl. Ubisoft, Valve, Capcom; formerly Unfold3D). Their registered mark is **"RIZOMUV" — not "RIZOM" alone**: US reg. via Madrid Protocol (serial 79328056, filed 2021-10-21, registered 2023-06-06, implying an FR/EU base registration), class 9 spec centered on "recorded software programs for UV mapping" plus broad class-9 boilerplate. Their own branding guidelines use only "Rizom-Lab" and "RizomUV", never "Rizom" standalone. **Honest risk read:** in "RIZOMUV" the "UV" element is descriptive of their goods, making "RIZOM" arguably the dominant element — so an opposition against a bare RIZOM filing in class 9/42 software has real teeth despite the different markets. Manual TMview check for any bare "RIZOM" marks still required before filing.
 - Also check national Benelux register (BOIP), company registers, and plain web search.
 
-If the search comes back ugly in class 9, a fallback exists: lean the specification toward services (35/41/42) and the "Rizom Certified" certification context, where the conflict surface is smaller. Counsel call.
+**Workarounds, in order of preference:**
+
+1. **Carve-out in the specification**: limit classes 9/42 to knowledge-management and AI-agent software and append "none of the aforesaid relating to 3D graphics, computer graphics or UV mapping software." Goods dissimilarity is half the confusion test; an explicit carve-out shrinks the overlap and signals good faith.
+2. **Coexistence agreement**: approach Rizom-Lab before or at filing. The markets are genuinely disjoint (3D artists vs organizational knowledge infrastructure), both sides gain certainty, and their own broad class-9 boilerplate (cash registers, diving suits) becomes revocable for non-use ~5 years after registration — mild leverage toward a friendly mutual field-of-use deal. Small company; likely pragmatic.
+3. **Structural fallback**: EUIPO oppositions can be partial. Classes 35/41 (consulting, training) — where Rizom-Lab has nothing — survive even a successful class 9/42 opposition. Worst realistic case is losing the software classes, not the mark.
+4. **Name-distance fallback**: if class 9 proves untenable, "RIZOM BRAINS" as a composite mark for the software classes adds distance from RIZOMUV while bare RIZOM covers services.
+
+Counsel hour still advised before filing; the outreach-vs-file-quietly choice (option 2 vs hoping they don't watch filings) is a judgment call for the owners.
 
 ## 1. What to file
 
