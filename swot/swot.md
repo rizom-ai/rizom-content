@@ -1,26 +1,21 @@
 ---
 strengths:
-  - title: Partner network governance
+  - title: Design Open Ecosystems
     detail: >-
-      Use your certification, accountability, and decision-making practices to
-      set clear standards for trusted partners.
-  - title: Open source ecosystem building
+      Use your ability to align communities, teams, partners, and shared
+      infrastructure when shaping distributed organizations and collective
+      coordination.
+  - title: Develop Governance and Licensing Models
     detail: >-
-      Apply your experience with grants, licensing, and partnerships when
-      shaping a sustainable open source project.
-  - title: Collaborative organization design
+      Apply your governance, licensing, and participation expertise to clarify
+      how collaborative organizations make decisions and work together.
+  - title: Build Open-Source Support Programs
     detail: >-
-      Use your ecosystem-based structures to align communities, collectives,
-      partners, and shared outcomes.
+      Turn your accelerator, grant, and partner-program expertise into
+      repeatable designs with clear criteria and sustainable structures.
 weaknesses: []
 opportunities: []
-threats:
-  - title: Missing specialist reinforcement
-    detail: >-
-      Do not assume your network adds depth in venture support, partner
-      governance, open source ecosystems, or collaborative organization design;
-      test for or recruit complementary expertise before taking on work beyond
-      your established capabilities.
-derivedAt: '2026-07-29T06:48:17.503Z'
+threats: []
+derivedAt: '2026-07-29T06:50:44.351Z'
 ---
 
