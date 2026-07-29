@@ -1,0 +1,4 @@
+---
+title: AI Startup Accelerators
+---
+The content evaluates aigrant.com as an equity-based accelerator for pre-seed and seed-stage AI-native startups. Its reported package includes an uncapped SAFE investment, substantial cloud and AI platform credits, a summit, and a demo day. The program appears relevant to Rizom because the company matches its technical, AI-native, early-stage profile and could use the credits to offset infrastructure costs. Participation would represent a strategic fundraising decision rather than a routine grant application because it involves equity and an accelerator commitment. Applications are offered in time-limited batches, so availability and timing materially affect whether the opportunity can be pursued. The assessment distinguishes this accelerator from the similarly branded open-source grant program.
