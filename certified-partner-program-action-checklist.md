@@ -13,7 +13,8 @@ Companion to [[certified-partner-model-decisions]], [[certified-partner-model-mu
 - [ ] **Set the workshop price band** — the last unpriced engagement type; the Datacampus numbers (€3–5k/month retainer, €10–20k build) anchor the build band already.
 - [ ] **Fix the brand book**: reword present-tense "IP is held by a non-profit" claims to intent, until the stichting exists.
 - [ ] **Fix naming across brand materials**: external name is Rizom Brains only; rover internal; retire relay and Recall everywhere (Mother Doc, project pages, decks).
-- [ ] **Check the AI grant program** (referenced by the support-community-contributions skill): mine its participation requirements for reusable partner-eligibility criteria.
+- [ ] **Consider applying to aigrant.org** (Nat Friedman / Daniel Gross; $5–50k no-strings grants, cash or compute, for open-source AI projects): the brains platform fits the profile, especially once AGPL. Resolved 2026-07-29: this is an external program that was bookmarked into the docs brain — not a Rizom program, and irrelevant to partner eligibility.
+- [ ] **Fix the docs brain's advertised skill**: the "Support Community Contributions" skill on the agent card implies Rizom runs an AI grant program with participation requirements; reword or remove so the public agent doesn't misrepresent an external bookmark as a Rizom program.
 
 ## After legal review — sequenced
 
