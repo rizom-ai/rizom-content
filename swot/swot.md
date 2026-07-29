@@ -1,25 +1,22 @@
 ---
 strengths:
-  - title: Future-of-work storytelling
+  - title: Open collaboration models
     detail: >-
-      Use your ability to explain playful, meaningful, and participatory work in
-      essays, presentations, and organizational positioning.
+      Use your licensing, attribution, and participation design skills to shape
+      open-source methods and tools without weakening sustainable stewardship.
+  - title: Partner governance and certification
+    detail: >-
+      Apply your governance and certification skills to build partner programs
+      that preserve trust, quality, and shared standards across independent
+      organizations.
   - title: Collaborative ecosystem design
     detail: >-
-      Apply your structural and relationship-mapping skills to find coordination
-      gaps and design decentralized communities, collectives, and organizations.
-  - title: Outcome-based collaboration
-    detail: >-
-      Use your practical coordination methods to help distributed teams align
-      around shared goals instead of rigid processes.
+      Use your ecosystem design skills to align Rizom’s communities, teams, and
+      external partners around shared outcomes without centralizing every
+      decision.
 weaknesses: []
 opportunities: []
-threats:
-  - title: Missing complementary expertise
-    detail: >-
-      Do not rely on your network for capabilities beyond narrative development,
-      ecosystem design, and outcome-based collaboration until you identify and
-      cultivate specific complementary skills.
-derivedAt: '2026-07-26T06:21:26.785Z'
+threats: []
+derivedAt: '2026-07-29T05:53:55.100Z'
 ---
 
