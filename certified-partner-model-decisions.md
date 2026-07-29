@@ -1,6 +1,6 @@
-# Certified Partner Model — Decisions
+# Certified Partner Model
 
-Decided 2026-07-29 (working session, Jan Hein). Shapes the Rizom Certified Partner program. Supersedes nothing; fills the partner-program gap identified in the SWOT ("No external specialists yet").
+Proposal 2026-07-29 (working session, Jan Hein). Shapes the Rizom Certified Partner program. Supersedes nothing; fills the partner-program gap identified in the SWOT ("No external specialists yet").
 
 ## The stack it stands on
 
