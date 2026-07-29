@@ -1,26 +1,21 @@
 ---
 strengths:
-  - title: Open collaboration practices
+  - title: Open-network governance
     detail: >-
-      Use your licensing, certification, and participation standards when
-      establishing trusted reuse and accountability in an open network.
+      Use your licensing, certification, and governance skills to set partner
+      rules and protect trust in an open network.
   - title: Collaborative ecosystem design
     detail: >-
-      Lead on partner-network structure, shared decision-making, and governance
-      when coordinating distributed teams or collectives.
-weaknesses:
-  - title: Limited implementation reinforcement
-    detail: >-
-      Pair your open-collaboration methods with a collaborator who has hands-on
-      experience implementing licensing, certification, or participation
-      practices before treating them as broadly tested.
+      Apply your organizational-design skills to align the platform, consulting
+      practice, foundation, partners, and communities around shared outcomes.
+weaknesses: []
 opportunities: []
 threats:
-  - title: Missing adjacent expertise
+  - title: Limited complementary network skills
     detail: >-
-      Do not rely on your current network for capabilities beyond governance and
-      ecosystem design; add collaborators with the needed adjacent expertise
-      before accepting such work.
-derivedAt: '2026-07-29T06:34:36.426Z'
+      Do not yet rely on your network for adjacent execution or specialist
+      input; add or test collaborators with clearly defined complementary
+      skills.
+derivedAt: '2026-07-29T06:36:57.373Z'
 ---
 
