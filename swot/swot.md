@@ -1,22 +1,16 @@
 ---
 strengths:
-  - title: Partner program design
+  - title: Governance and licensing
     detail: >-
-      Use your ability to create certified programs and open licensing
-      approaches when setting partner criteria, quality standards, and
-      participation rules.
-  - title: Partner ecosystem design
+      Use your governance and open-source licensing skill to define ownership,
+      accountability, participation, and certification rules.
+  - title: Collaborative ecosystem design
     detail: >-
-      Apply your skill in aligning partner roles, shared principles, and
-      decision rights when structuring collaboration across independent teams.
+      Use your ecosystem-design skill to structure the collective and partner
+      networks around clear roles, shared outcomes, and aligned decision-making.
 weaknesses: []
 opportunities: []
-threats:
-  - title: No external complement identified
-    detail: >-
-      Do not rely on your current network for expertise beyond partner programs
-      and ecosystem design; test or add collaborators before taking on work that
-      requires complementary capabilities.
-derivedAt: '2026-07-29T05:56:47.820Z'
+threats: []
+derivedAt: '2026-07-29T05:58:39.904Z'
 ---
 
