@@ -12,7 +12,7 @@ Before spending anything, search for conflicts. A registered earlier mark that i
 
 **Workarounds, in order of preference:**
 
-1. **Carve-out in the specification**: limit classes 9/42 to knowledge-management and AI-agent software and append "none of the aforesaid relating to 3D graphics, computer graphics or UV mapping software." Goods dissimilarity is half the confusion test; an explicit carve-out shrinks the overlap and signals good faith.
+1. **Resolved by the three-class shape**: class 9 is dropped entirely and class 42 carries the carve-out ("none of the aforesaid relating to 3D graphics, computer graphics or UV mapping") plus a positive limitation to knowledge management. This removes most of the conflict surface; the remaining items below are fallbacks if an opposition still comes.
 2. **Coexistence agreement**: approach Rizom-Lab before or at filing. The markets are genuinely disjoint (3D artists vs organizational knowledge infrastructure), both sides gain certainty, and their own broad class-9 boilerplate (cash registers, diving suits) becomes revocable for non-use ~5 years after registration — mild leverage toward a friendly mutual field-of-use deal. Small company; likely pragmatic.
 3. **Structural fallback**: EUIPO oppositions can be partial. Classes 35/41 (consulting, training) — where Rizom-Lab has nothing — survive even a successful class 9/42 opposition. Worst realistic case is losing the software classes, not the mark.
 4. **Name-distance fallback**: if class 9 proves untenable, "RIZOM BRAINS" as a composite mark for the software classes adds distance from RIZOMUV while bare RIZOM covers services.
@@ -38,20 +38,19 @@ Recommendation: file an **EU trade mark (EUTM) at EUIPO** (euipo.europa.eu), not
 
 Two caveats: (1) **the 6-month priority deadline is hard** — calendar it prominently at filing; the EUTM go/no-go decision belongs at month 4–5 with clearance results in hand. (2) Benelux-first only shelters against French *national* marks; if Rizom-Lab's Madrid registration designates the **EU**, that right can oppose in Benelux too — so determining their designated territories is the first clearance task. The partner model is international (Amsterdam to Taipei to SF), so the EUTM remains the destination; Benelux is the anchor, not the endpoint. For non-EU markets later (UK, US), extend via the **Madrid Protocol** using the EUTM as base; Taiwan is not in Madrid and would need a direct national filing if it ever matters.
 
-## 3. Classes and specification
+## 3. Classes and specification — three-class shape (decided 2026-07-29)
 
-Four Nice classes, using EUIPO harmonized terms where possible (keeps the application in the fast track):
+Class 9 (downloadable software) is dropped: it is where ~80% of the Rizom-Lab conflict lives, and the mark holder's business is licensing, certification, and services, not selling software. Enforcement against knockoff software and hosted services is retained through a reshaped class 42. Use EUIPO harmonized terms where possible:
 
-- **Class 9** — downloadable computer software; downloadable software for knowledge management and artificial-intelligence agents.
 - **Class 35** — business management consultancy; business organization consultancy.
 - **Class 41** — education; providing of training; arranging and conducting of workshops.
-- **Class 42** — software as a service (SaaS); design and development of computer software; hosting services.
+- **Class 42** — software as a service (SaaS); certification and quality-evaluation services; all of the aforesaid relating to knowledge management; none of the aforesaid relating to 3D graphics, computer graphics or UV mapping.
 
-Keep the specification honest and used: an EUTM becomes vulnerable to revocation for any goods/services not put to genuine use within 5 years. Don't pad.
+Class 42 is deliberately kept: certification services classify there, and it is the class that stops hosted "Rizom" knockoffs. Dropping it would make "forks must rename" a request instead of a right. Keep the specification honest and used: a mark becomes vulnerable to revocation for any goods/services not put to genuine use within 5 years. Don't pad.
 
 ## 4. Cost and mechanics
 
-- EUIPO online filing: **€850** (first class) + **€50** (second) + **€150** (each further) = **€1,200** for four classes. Pay by card at filing.
+- Three classes: BOIP ~€352 (€244 + €27 + €81); EUIPO **€1,050** (€850 + €50 + €150). Two-step total ~€1,402. Pay by card at filing.
 - File online via the EUIPO "apply for a trade mark" route; the four-class word-mark application is a form most founders complete themselves in under an hour — the value of counsel is the clearance judgment (step 0), not the form.
 
 ## 5. Timeline
@@ -69,12 +68,16 @@ The trademark policy can publish as soon as the application is **filed** (say "t
 - Diarize renewal (10 years) and the 5-year use deadline per class.
 - Use the mark as registered ("Rizom") in commerce — genuine use is what keeps it alive.
 
+## Later: an EU certification mark for "RIZOM CERTIFIED"
+
+The EU certification mark (a distinct EUIPO filing type, €1,500 base fee) is purpose-built for what Rizom is becoming: its owner **must not itself supply** the certified services — exactly the stichting's designed role (it certifies; /work and partners deliver). It requires filed regulations of use, which [[certified-partner-model-mutual-expectations]] essentially already drafts. File it once the stichting exists and the partner agreement is formalized; it turns "license/certification company" from positioning into a registered legal fact.
+
 ## Checklist
 
 - [ ] TMview/eSearch clearance search (incl. Rizom-Lab assessment) — counsel hour if class 9 looks contested
-- [ ] File BOIP (Benelux) word mark "RIZOM", applicant Rizom B.V., classes 9/35/41/42 with UV-mapping carve-out — ~€433
+- [ ] File BOIP (Benelux) word mark "RIZOM", applicant Rizom B.V., classes 35/41/42 (42 limited to knowledge management, UV-mapping carve-out) — ~€352
 - [ ] Calendar the 6-month Paris Convention priority deadline; EUTM go/no-go at month 4–5 with clearance results
-- [ ] File EUTM claiming Benelux priority — €1,200
+- [ ] File EUTM claiming Benelux priority — €1,050
 - [ ] Publish trademark policy with "application pending" once filed
 - [ ] Calendar: opposition window end, registration, 5-year use review, 10-year renewal
 - [ ] On stichting: record assignment at EUIPO
