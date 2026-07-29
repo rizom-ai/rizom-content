@@ -1,22 +1,25 @@
 ---
 strengths:
-  - title: Collaborative organizational models
+  - title: Partnership governance and licensing
     detail: >-
-      Use your ability to connect collective principles, partner certification,
-      and playful work practices when shaping distributed teams and
-      future-of-work approaches.
-  - title: Open ecosystem governance
+      Use your expertise to set participation rules, certification criteria, and
+      licensing approaches that support trust and responsible reuse.
+  - title: Collaborative ecosystem design
     detail: >-
-      Apply your governance skill to clarify participation, accountability,
-      ownership, licensing, and decisions across open partner networks.
-weaknesses: []
+      Use your ability to align communities, partners, and collective structures
+      when shaping distributed organizations or collaboration across independent
+      collectives.
+weaknesses:
+  - title: Limited external governance reinforcement
+    detail: >-
+      Test your certification, partnership, and licensing approaches with
+      practitioners who bring independent expertise before formalizing them.
 opportunities: []
 threats:
-  - title: No documented complementary network skills
+  - title: Missing complementary ecosystem perspective
     detail: >-
-      Test major organizational and governance decisions with external
-      collaborators, since your current network has no documented skills that
-      clearly challenge or extend these capabilities.
-derivedAt: '2026-07-29T06:06:39.352Z'
+      Do not rely on your current capabilities alone for difficult ecosystem
+      designs; seek outside perspectives before committing to a model.
+derivedAt: '2026-07-29T06:15:21.676Z'
 ---
 
