@@ -25,6 +25,17 @@ Decided 2026-07-29 (working session, Jan Hein). Shapes the Rizom Certified Partn
 - Certification anchors at the **Collective** tier of the Community/Collective/Core ladder. **Core ownership stays a separate, earned invitation** under its existing criteria — certification never automatically confers ownership.
 - Naming: externally everything is **Rizom Brains**. `rover` survives as internal/technical vocabulary only; `relay` and `recall` are both deprecated. Retired brand vocabulary ("Cores", "facilitators") does not return.
 
+## Interim holding (until the foundation exists)
+
+Decided 2026-07-29, addendum: only the BV exists today; the stichting is not yet formalized. The license choice is independent of the holder, so nothing waits:
+
+- **Copyright sits with the BV for now** — headers read "Copyright © 2026 Rizom B.V.", AGPL-3.0. When the stichting exists, the BV assigns copyright by written deed (Dutch law requires a written instrument for copyright transfer).
+- **DCO worded for succession from day one.** DCO contributors keep their own copyright, so the BV → stichting transfer never needs contributor consent.
+- **Transfer early, while the IP valuation is minimal** — moving assets out of a BV below market value is a taxable event; at alpha stage the defensible valuation is low. Confirm with tax advisor.
+- **Trademark: the BV files the wordmark now** (priority date is what matters) and assigns the registration to the stichting later.
+- **Brand book correction required:** the present-tense claims "the IP is held by a non-profit" / "stewarded by an independent foundation" violate the brand's own honesty rule while the stichting doesn't exist. Reword to intent ("will be transferred to the independent Rizom Foundation upon its establishment") until it is real.
+- **Founding the stichting is an early action item, not a distant one** — a few hundred euros and about a week at a notary; the certifier/steward/license-exception roles all hang on it.
+
 ## To make it real
 
 1. Relicense commit + DCO — before any external contribution lands.
@@ -32,3 +43,4 @@ Decided 2026-07-29 (working session, Jan Hein). Shapes the Rizom Certified Partn
 3. Set the workshop price band.
 4. Define the registry format — the agent entities' `discovered → approved` flow gives a machine-readable partner directory almost for free.
 5. Check the referenced AI grant program for reusable eligibility criteria.
+6. Found the stichting; then execute the copyright deed and trademark assignment from the BV.
