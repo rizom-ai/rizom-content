@@ -1,4 +1,0 @@
----
-title: Services-Based Financing
----
-Rizom’s near-term financial model depends on converting professional services into sufficient operating cash flow. The commercial ladder begins with a EUR 5,000 Knowledge Session, followed by pilot builds priced at EUR 15,000 for early adopters or EUR 35,000 at standard rates. Recurring retainers are priced at EUR 4,000 or EUR 7,000 per month depending on customer status. The Knowledge Session is designed as a low-commitment paid entry point that can credit toward a larger pilot. Because the company is pre-revenue and faces a short runway, closing paid pilots is more urgent than pursuing grants or investors. Longer-term sustainability depends on turning pilots into retainers while allocating revenue across delivery, acquisition, and the open-source commons.
