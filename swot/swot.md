@@ -1,25 +1,30 @@
 ---
 strengths:
-  - title: Open Ecosystem Governance
+  - title: Partner ecosystem design
     detail: >-
-      Use your governance skill to set shared principles, decision rights, and
-      accountability across the collective and its partners.
-  - title: Open Source Strategy
+      Use your ability to define partner roles, standards, certification, and
+      incentives when structuring relationships across the collective.
+  - title: Open knowledge governance
     detail: >-
-      Apply your licensing, sustainability, and scaling expertise to guide
-      open-platform decisions.
-  - title: Partner and Certification Networks
+      Use your licensing, contribution-rights, and decision-making expertise to
+      govern shared knowledge and open-source work.
+  - title: Mission-aligned funding
     detail: >-
-      Use your partner-program and certification skill to establish clear
-      participation standards that build trust and quality.
+      Apply your experience combining services revenue, non-dilutive funding,
+      and grants across the platform, consulting practice, and foundation.
 weaknesses: []
 opportunities: []
 threats:
-  - title: Limited Specialist Reinforcement
+  - title: Missing execution complements
     detail: >-
-      Your network currently adds no identified expertise in governance, partner
-      networks, or open-source strategy, so seek complementary specialists
-      before taking on work beyond your core capabilities.
-derivedAt: '2026-07-29T06:54:32.354Z'
+      Do not assume your current network can provide research, facilitation, or
+      implementation; deliberately add collaborators with those capabilities
+      before expanding the work.
+  - title: AI startup program delivery
+    detail: >-
+      Before committing to a larger accelerator, pair your program-design skill
+      with collaborators who can provide delivery, partnerships, and hands-on
+      startup support.
+derivedAt: '2026-08-03T10:17:27.153Z'
 ---
 
