@@ -1,0 +1,4 @@
+---
+title: Non-Dilutive Financing
+---
+Rizom’s financing strategy prioritizes non-dilutive funding over conventional venture capital. The organization intends to use open-source grants, subsidies, and mission-aligned instruments to support development without transferring ownership of its core intellectual property. Potential sources include NLnet, NGI Zero, WBSO, AWS Activate, FUTO, and the Sovereign Tech Agency. Grants are viewed as complementary rather than sufficient for immediate survival because their timelines do not address the short cash runway. The proposed bridge is intended to fund the transition toward services self-sustainability rather than finance high-growth expansion. Larger instruments such as UNIIQ are reserved for a later stage after pilots convert into recurring retainers.
