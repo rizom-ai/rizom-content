@@ -1,28 +1,33 @@
 ---
 strengths:
-  - title: Open-source ecosystem governance
+  - title: Organizational knowledge systems
     detail: >-
-      Use your governance expertise to shape intellectual-property policies,
-      partner arrangements, and stewardship models.
-  - title: Knowledge infrastructure
+      Use your knowledge practices to capture and share learning across the
+      collective’s open platform, team practice, and foundation.
+  - title: Ecosystem strategy
     detail: >-
-      Use your ability to build self-hosted knowledge systems to coordinate
-      learning across the platform, practice, and foundation.
-  - title: Open organizational design
+      Apply your ability to clarify roles and relationships when coordinating
+      the collective and its partners.
+  - title: Collaborative governance
     detail: >-
-      Apply your skill in distributing authority to design operating models and
-      decision-making across the collective.
+      Use your governance skill to define decision rights and accountability in
+      shared initiatives.
 weaknesses:
-  - title: Funding strategy reinforcement
+  - title: Aligned funding models
     detail: >-
-      Own funding decisions internally for now, but seek complementary financing
-      expertise before scaling complex funding work.
+      Build this capability through focused practice or find a collaborator with
+      hands-on experience connecting mission, open-source investment, and
+      sustainability.
+  - title: Mission-driven service productization
+    detail: >-
+      Test service and software packaging yourself or recruit a collaborator who
+      can make delivery repeatable without losing flexibility.
 opportunities: []
 threats:
-  - title: Knowledge infrastructure dependence
+  - title: Strategy execution complement
     detail: >-
-      Document your knowledge-system approach and secure complementary expertise
-      so critical capture and sharing do not depend on one capability alone.
-derivedAt: '2026-08-04T16:53:33.187Z'
+      Establish targeted relationships before taking on work that needs
+      specialized execution or a second strategic perspective.
+derivedAt: '2026-08-04T17:00:33.965Z'
 ---
 
