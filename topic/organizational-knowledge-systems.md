@@ -1,0 +1,4 @@
+---
+title: Organizational Knowledge Systems
+---
+The content focuses on diagnosing organizational knowledge systems through three dimensions: expertise, trust, and coordination. It treats organizational fragility as a core problem, especially when critical knowledge is concentrated in individuals and becomes vulnerable when they leave. Individual interviews are positioned as a way to uncover undocumented expertise and understand the consequences of knowledge loss. The resulting organizational map is intended to reflect current conditions rather than an aspirational future state. AI adoption is framed as a revealing force that exposes weak knowledge systems rather than creating the underlying problem. This makes the topic relevant to organizations undergoing restructuring, rapid hiring, mergers, or unsuccessful AI rollouts.
