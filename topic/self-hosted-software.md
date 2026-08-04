@@ -1,0 +1,4 @@
+---
+title: Self-Hosted Software
+---
+Rizom’s self-hosted model positions open-source software as both a product option and a top-of-funnel credibility anchor. The Brain includes substantial technical assets such as an OAuth-enabled MCP server, a plugin system, and deployment tooling. This approach targets organizations that cannot use SaaS because of procurement, security, or institutional requirements, rather than organizations that simply prefer self-hosting. The delivery strategy depends on making the product genuinely self-installable or developing trained operators who can deploy it for customers. The operator playbook is identified as an important step toward reducing dependence on one-person delivery. Self-hosting therefore functions as a durable product architecture and go-to-market constraint, not merely a free tier.
