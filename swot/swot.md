@@ -2,32 +2,30 @@
 strengths:
   - title: Organizational knowledge systems
     detail: >-
-      Use your knowledge practices to capture and share learning across the
-      collective’s open platform, team practice, and foundation.
+      Use your knowledge-practice strength as the foundation for coordinating
+      learning across Rizom’s platform, consulting practice, and foundation.
   - title: Ecosystem strategy
     detail: >-
-      Apply your ability to clarify roles and relationships when coordinating
-      the collective and its partners.
-  - title: Collaborative governance
-    detail: >-
-      Use your governance skill to define decision rights and accountability in
-      shared initiatives.
-weaknesses:
+      Pair your relationship and ecosystem analysis with your network’s
+      dependable skill in designing plural, decentralized environments when
+      shaping partner networks.
   - title: Aligned funding models
     detail: >-
-      Build this capability through focused practice or find a collaborator with
-      hands-on experience connecting mission, open-source investment, and
-      sustainability.
-  - title: Mission-driven service productization
+      Use your network’s funding, learning, and knowledge-practice perspective
+      to pressure-test financing against mission and long-term sustainability.
+weaknesses:
+  - title: Collaborative governance
     detail: >-
-      Test service and software packaging yourself or recruit a collaborator who
-      can make delivery repeatable without losing flexibility.
+      Build this capability through explicit governance examples,
+      decision-rights patterns, and direct practice with partner networks rather
+      than relying on broad adjacent matches.
 opportunities: []
 threats:
-  - title: Strategy execution complement
+  - title: Software and data architecture
     detail: >-
-      Establish targeted relationships before taking on work that needs
-      specialized execution or a second strategic perspective.
-derivedAt: '2026-08-04T17:00:33.965Z'
+      Do not rely on your current network alone for technical delivery; test a
+      concrete architecture partnership before committing to software-heavy
+      offerings.
+derivedAt: '2026-08-04T17:08:40.640Z'
 ---
 
