@@ -46,7 +46,7 @@ This is PublicSpaces' constituency, and where both live conversations already si
 
 ## Sequence
 
-1. Reconcile the three price sets into one published band table. The partner program is blocked behind it.
+1. Restate the void figures in certified-partner-model-decisions and the Datacampus proposal to match the published bands. The partner program is blocked behind it.
 2. Define what the retainer covers as a service. One paragraph.
 3. Land the Datacampus pilot. It is the reference deployment everything else leans on, and the shape the first apprenticeship runs inside.
 4. Attach a number to Port of Rotterdam.
