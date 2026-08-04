@@ -1,16 +1,16 @@
 ---
 name: Build Organizational Knowledge Systems
 description: >-
-  Design knowledge practices and organizational structures that help distributed
-  teams capture, share, and apply what they learn.
+  Create practical systems for capturing, organizing, and sharing knowledge
+  across teams and communities.
 tags:
-  - knowledge
-  - alignment
-  - community
+  - organization
+  - ai-systems
+  - agents
   - best-practices
 examples:
-  - Create a knowledge system for a distributed collective.
-  - How should we organize internal knowledge across teams and projects?
-  - Design a workflow for turning project lessons into reusable practices.
+  - Design a knowledge architecture for a distributed organization.
+  - 'How should we organize research, decisions, and reusable practices?'
+  - Create an AI-assisted workflow for maintaining collective knowledge.
 ---
 
