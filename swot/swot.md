@@ -1,33 +1,29 @@
 ---
 strengths:
-  - title: Knowledge systems
+  - title: Organizational knowledge architecture
     detail: >-
-      Use your knowledge-systems capability as a core service, pairing it with
-      your network’s dependable architecture and knowledge-structuring
-      expertise.
-  - title: Open-technology governance
+      Use this as a core capability for structuring Rizom’s shared knowledge,
+      and pair with Paper Tiger or Arcane Scribe when building durable systems.
+  - title: Ecosystem and participation design
     detail: >-
-      Combine your governance and sustainability models with your network’s
-      software-architecture and contribution guidance when supporting open or
-      self-hosted projects.
+      Apply this to clarify roles, participation, and governance across Rizom’s
+      platform, practice, and foundation.
 weaknesses:
-  - title: Development planning
+  - title: Historically grounded public analysis
     detail: >-
-      Do not take sole responsibility for release prioritization until you have
-      built or deliberately borrowed a stronger capability for turning roadmaps
-      into prioritized development plans.
+      Build or deliberately borrow this capability if Rizom needs to explain its
+      work through broader social and historical narratives.
 opportunities:
-  - title: Trustworthy digital architecture
+  - title: Theory and historical context
     detail: >-
-      Test a joint engagement that translates your governance and knowledge
-      principles into concrete software and data architectures for trust,
-      identity, transparency, and durable knowledge exchange.
-  - title: Collaborative digital ecosystems
+      Test a joint article or program with Dynamic Sage that connects Rizom’s
+      organizational work to contemporary social questions.
+threats:
+  - title: Public-facing critical content
     detail: >-
-      Pilot distributed coordination across your platform, practice, and
-      foundation with your network’s expertise in plural, decentralized
-      environments.
-threats: []
-derivedAt: '2026-08-04T17:18:40.029Z'
+      Do not assume existing capabilities will produce this format
+      automatically; define the collaboration and review a first output before
+      relying on it.
+derivedAt: '2026-08-04T17:20:16.024Z'
 ---
 
