@@ -1,32 +1,28 @@
 ---
 strengths:
-  - title: Knowledge systems
+  - title: Knowledge ecosystem design
     detail: >-
-      Use this as the foundation for capturing, organizing, governing, and
-      sharing knowledge across the platform, consulting practice, and
-      foundation.
-  - title: Open-source governance
+      Use this to coordinate, govern, and make knowledge reusable across the
+      platform, consulting practice, and foundation research.
+  - title: Collaborative organization design
     detail: >-
-      Apply your governance, licensing, certification, and contribution-model
-      skills to define how collaboration and sustainability work across the
-      collective.
-  - title: Ecosystem organization design
+      Apply it to clarify roles, responsibilities, and shared outcomes across
+      communities, collectives, partners, and core teams.
+  - title: Shared intellectual property governance
     detail: >-
-      Use this skill to clarify roles and coordination among the collective’s
-      communities, partners, and three organizational faces.
+      Use it to set clear contribution, licensing, certification, and
+      decision-making principles for open-source partners and participants.
 weaknesses: []
 opportunities: []
 threats:
-  - title: Missing knowledge-systems complement
+  - title: Missing external design complement
     detail: >-
-      Do not assume outside reinforcement; keep ownership of knowledge capture,
-      governance, and sharing explicit until you identify a suitable
-      collaborator.
-  - title: Missing open-source governance complement
+      Do not assume independent expertise in knowledge or organizational design;
+      seek a targeted collaborator or external review for important decisions.
+  - title: Missing venture-building counterpoint
     detail: >-
-      Review major licensing, certification, and contribution decisions
-      carefully, and seek a complementary contributor before expanding their
-      scope.
-derivedAt: '2026-08-04T16:32:49.780Z'
+      Have a deliberately chosen outside practitioner review major
+      productization, financing, or investment choices before committing.
+derivedAt: '2026-08-04T16:33:21.209Z'
 ---
 
