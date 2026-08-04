@@ -1,30 +1,27 @@
 ---
 strengths:
-  - title: Build Knowledge Systems
+  - title: Knowledge-system design
     detail: >-
-      Use your knowledge architecture and governance capability as a core offer
-      for distributed teams and AI-enabled work.
+      Use your ability to capture, organize, govern, and share knowledge as a
+      core capability, then pair it with your network’s technical and learning
+      expertise to make it durable and usable.
 weaknesses:
-  - title: Shape Mission-Aligned Financing
+  - title: Contributor guidance
     detail: >-
-      Strengthen your finance-specific methods, examples, and collaborators
-      instead of relying on your network’s adjacent digital-ecosystem expertise.
+      Turn your governance principles into clear contribution guidance and
+      participation pathways rather than relying on collaborators to infer how
+      to help.
 opportunities:
-  - title: Architect Trustworthy Digital Systems
+  - title: Trustworthy knowledge infrastructure
     detail: >-
-      Test a joint architecture review to turn your governance and knowledge
-      models into concrete systems for trust, identity, transparency, and
-      durable knowledge exchange.
-  - title: Develop Learning And Funding Strategies
-    detail: >-
-      Pilot a collaboration that connects your financing and knowledge work with
-      your network’s online-learning and research-funding practices.
+      Test your network’s skill in trust, identity, transparency, and durable
+      knowledge exchange on the shared knowledge infrastructure.
 threats:
-  - title: Analyze Complex Decisions
+  - title: Technical platform architecture
     detail: >-
-      Do not assume you fully cover complex tradeoff analysis; involve this
-      network capability when decisions span governance, funding, and AI
-      systems.
-derivedAt: '2026-08-04T17:15:32.608Z'
+      Because technical architecture is more evident in your network than in
+      your own skills, involve that expertise early in platform design and
+      review.
+derivedAt: '2026-08-04T17:17:28.899Z'
 ---
 
