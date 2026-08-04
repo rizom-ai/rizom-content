@@ -18,7 +18,7 @@ Proposal 2026-07-29 (working session, Jan Hein). Shapes the Rizom Certified Part
 
 - **The foundation certifies**: it owns the registry, the mark, and listing/delisting decisions. The commercial practice (/work) co-delivers, vouches, and is itself the **first listed partner**, subject to the same rules and the same remit.
 - **Economics reuse the published 60/25/15 split, allocated by role**: 60% to whoever delivers, 15% to whoever brought the client and carries risk, 25% to the commons (platform development + foundation stewardship). A partner who sources and delivers keeps 75% and remits 25%. Referrals are symmetric in both directions with no separate fee schedule. The 25% is the license fee.
-- **Published price bands** per engagement type, binding for work delivered under the mark ("no hidden margins" holds at the network edge). Anchor: the Datacampus engagement (€3–5k/month retainer, €10–20k build budget); the workshop band still needs setting.
+- **Published price bands** per engagement type, binding for work delivered under the mark ("no hidden margins" holds at the network edge). Set 2026-08-03: Knowledge Session €5,000; pilot build €15k early-adopter / €35k standard; retainer €4k/month early-adopter / €7k/month standard. These supersede the earlier €3–5k/month, €10–20k anchor, which is void.
 
 ## Where it fits
 
@@ -40,7 +40,7 @@ Decided 2026-07-29, addendum: only the BV exists today; the stichting is not yet
 
 1. Relicense commit + DCO — before any external contribution lands.
 2. EU wordmark filing + trademark policy page from the foundation.
-3. Set the workshop price band.
+3. ~~Set the workshop price band.~~ Done 2026-08-03 — the Knowledge Session is €5,000.
 4. Define the registry format — the agent entities' `discovered → approved` flow gives a machine-readable partner directory almost for free.
 5. Check the referenced AI grant program for reusable eligibility criteria.
 6. Found the stichting; then execute the copyright deed and trademark assignment from the BV.
