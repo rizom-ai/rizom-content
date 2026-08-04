@@ -1,40 +1,47 @@
 # Rizom Product Plan — Pilot to Retainer
 
-Internal. Companion note: tms-services-plan. Pricing follows fundraising-strategy-and-decisions (locked 2026-08-03). This note is about what the priced tiers actually are, and what still has no shape. Drafted 2026-08-04.
+Internal. Companion note: tms-services-plan. Pricing follows fundraising-strategy-and-decisions (locked 2026-08-03). This note is about what the priced tiers actually are, and what still has no shape. Drafted 2026-08-04, revised same day.
 
-## The tension to resolve
+## What is actually being sold
 
-The Rizom Business Brief (RizomBusinessBrief, authored Sept 2025) positions Rizom as a talent collective whose product is the network. RizomBusinessBrief predates the current direction and should be read as history, not as the plan.
+Settled by certified-partner-model-decisions (2026-07-29): what Rizom sells is the practice, the name, and the network. The runtime is AGPL-3.0 and free. The plugin SDK, atproto-contracts and theme interfaces stay Apache so partners can build and sell on top. The guarded asset is the mark, and the 25% commons remit is the licence fee.
 
-The asset with 5,700+ commits, an OAuth'd MCP server, a plugin system and deployment tooling is the Brain. Those are two different businesses. The network scales with headcount. The Brain does not scale with anyone's hours, which is the entire point. This note is about the second one.
+So there is no services-versus-product tension to resolve. That framing came from older documents — RizomBusinessBrief (Sept 2025) and rizom-mother-doc, both superseded — and should not be carried forward. There is one model with two revenue surfaces: engagements Rizom delivers directly, and engagements certified partners deliver and remit 25% on.
 
-## The tiers, and where the shape is missing
+That changes what scaling past one person means in this note. It is not a software licence tier. It is certified practitioners carrying the 60/25/15 split by role. The Brain being free is the point, not a gap to be closed.
 
-**Self-host** — open source, they run it themselves. Free. Top of funnel and credibility anchor, not lost revenue.
+## The tiers
 
-**Knowledge Session, EUR 5,000** — the small paid first step, credits toward a pilot. Delivery is defined in tms-services-plan.
+**Self-host** — AGPL, they run it themselves. Free. Top of funnel and credibility anchor, not lost revenue.
 
-**Pilot build, EUR 15k early-adopter / EUR 35k standard** — one founding team, bounded window, Rizom leads. The Datacampus proposal in the yeehaa brain expresses the same thing as EUR 3–5k/month over 3–4 months. Same money, two shapes. Pick one and use it everywhere: the monthly framing is easier for an institution to approve, the fixed-price framing is easier to close.
+**Knowledge Session** — the small paid first step, credits toward a pilot. Delivery is defined in tms-services-plan.
 
-**Retainer, EUR 4k/mo early-adopter / EUR 7k/mo standard** — this is the recurring tier, and it already has a number. Correcting an earlier assumption: the licensing question is not unpriced. What it lacks is a definition of what the retainer covers — hosting, upgrades, support response, seats, or the right to keep running it. Until that is written, the number cannot be quoted with confidence.
+**Pilot build** — one founding team, bounded window, Rizom or a certified partner leads.
+
+**Retainer** — the recurring service tier. The licence question is answered by the 25% remit; what remains undefined is what the retainer as a service covers: hosting, upgrades, support response, seats, or simply the right to keep running it. Until that is a paragraph it cannot be quoted with confidence.
+
+**Warning: three incompatible price sets are currently in circulation.** certified-partner-model-decisions anchors on EUR 3–5k/month retainer with a EUR 10–20k build. fundraising-strategy-and-decisions locks Knowledge Session EUR 5,000, pilot build EUR 15k early-adopter / EUR 35k standard, retainer EUR 4k/mo early-adopter / EUR 7k/mo standard. The Datacampus proposal says EUR 3–5k/month. The partner model requires published, binding price bands for work delivered under the mark — that is impossible until these reconcile to one set. Treat the fundraising note as authoritative until decided otherwise, since it is the most recent and marked locked.
 
 ## Buyer
 
-Organisations that cannot use SaaS rather than those who merely prefer not to. The distinction matters: the first group has a procurement reason, the second has an opinion.
+Organisations that cannot use SaaS rather than those who merely prefer not to. The first group has a procurement reason; the second has an opinion.
 
-Public sector. Ports and critical infrastructure — see port-of-rotterdam-agent-value-proposition in the yeehaa brain. Healthcare. Education and research campuses — see the AI Datacampus pilot proposal. Cultural institutions.
+Public sector. Ports and critical infrastructure — port-of-rotterdam-agent-value-proposition in the yeehaa brain. Healthcare. Education and research campuses — the AI Datacampus pilot proposal. Cultural institutions.
 
-This is PublicSpaces' constituency, and it is where both live conversations already sit. The sales motion is institutional — named sponsor, budget cycle, often procurement — not a conversation with a COO. Different in kind from the services track, not just in size.
+This is PublicSpaces' constituency, and where both live conversations already sit. The motion is institutional — named sponsor, budget cycle, often procurement — not a conversation with a COO.
 
 ## Sequence
 
-1. Define what the retainer covers. One paragraph. Everything else is blocked behind it.
-2. Land the Datacampus pilot. It is the reference deployment everything else leans on.
-3. Attach a number to Port of Rotterdam — there is a value proposition there with no offer on it.
-4. Take the referenced offer to the PublicSpaces network.
+1. Reconcile the three price sets into one published band table. The partner program is blocked behind it.
+2. Define what the retainer covers as a service. One paragraph.
+3. Land the Datacampus pilot. It is the reference deployment everything else leans on, and the shape the first apprenticeship runs inside.
+4. Attach a number to Port of Rotterdam.
+5. Take the referenced offer to the PublicSpaces network.
 
 ## The delivery constraint
 
-One person can currently deliver a pilot. A retainer business with one-person delivery either needs the product genuinely self-installable, or needs trained operators.
+One person can currently deliver a pilot. The two exits are a genuinely self-installable product, or trained operators.
 
-Until one of those is true: push the retainer tier and keep pilots scarce and expensive. Pilot delivery is the thing most likely to consume a year and leave no recurring revenue behind. operator-playbook in the yeehaa brain is the beginning of the self-installable path and deserves more attention than it looks like it deserves.
+The partner model chooses the second and specifies it: entry by apprenticeship, a candidate co-delivering one real paid engagement, billable on the engagement that certifies them. No curriculum required.
+
+But that relocates the bottleneck rather than removing it. Apprenticeship needs a paid engagement to apprentice on, so partner capacity is gated on deal flow — the same eight-week clock as everything else. Certification is not an escape from closing. operator-playbook in the yeehaa brain is the beginning of the first exit and deserves more attention than it looks like it deserves.
