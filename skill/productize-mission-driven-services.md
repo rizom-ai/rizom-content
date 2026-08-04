@@ -1,16 +1,16 @@
 ---
 name: Productize Mission-Driven Services
 description: >-
-  Turn organizational capabilities and collaborative practices into clear,
-  repeatable service offerings with sustainable delivery models.
+  Turn organizational expertise into repeatable services, self-hosted software
+  offerings, and sustainable delivery models.
 tags:
+  - services
+  - software
   - strategy
   - best-practices
-  - alignment
-  - services
 examples:
-  - Help us turn our facilitation practice into a productized service.
-  - What should be included in a repeatable organizational design offering?
-  - How can we package our expertise without losing our values?
+  - Help us package our consulting practice into three clear service offerings.
+  - Design a self-hosted software model for mission-driven organizations.
+  - How can we make a custom service repeatable without losing flexibility?
 ---
 
