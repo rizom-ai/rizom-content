@@ -1,29 +1,21 @@
 ---
 strengths:
-  - title: Ecosystem alignment
+  - title: Open knowledge governance
     detail: >-
-      Use your strength in coordinating independent teams and partners to set
-      clear principles for distributed, mission-driven work.
-  - title: Open ecosystem governance
+      Use your governance skill to define contributor rules, shared knowledge
+      practices, and decision-making for open-source work.
+  - title: Regenerative organizational design
     detail: >-
-      Rely on this capability to define contribution rules, partner decisions,
-      and governance for collaborative ecosystems.
-  - title: Mission-aligned funding
-    detail: >-
-      Apply this skill when structuring grants or financing so capital
-      reinforces open-source and collective outcomes.
-weaknesses:
-  - title: Limited external reinforcement
-    detail: >-
-      Do not assume your network adds independent strategic depth; seek
-      collaborators who can show relevant ecosystem-strategy experience.
+      Apply your ecosystem-based design skill to coordinate collaboration across
+      the platform, consulting practice, and foundation.
+weaknesses: []
 opportunities: []
 threats:
-  - title: Missing complementary expertise
+  - title: No evidenced external complement
     detail: >-
-      Before relying on your network for delivery, test whether it can provide
-      concrete expertise in venture acceleration, governance, ecosystem
-      alignment, or mission-aligned funding.
-derivedAt: '2026-08-04T09:06:25.266Z'
+      Do not assume your network can extend or challenge your expertise; add
+      collaborators with distinct funding, partnership, governance, or
+      organizational-design skills before taking on work that needs them.
+derivedAt: '2026-08-04T16:31:17.110Z'
 ---
 
