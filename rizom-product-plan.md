@@ -20,7 +20,21 @@ That changes what scaling past one person means in this note. It is not a softwa
 
 **Retainer** — the recurring service tier. The licence question is answered by the 25% remit; what remains undefined is what the retainer as a service covers: hosting, upgrades, support response, seats, or simply the right to keep running it. Until that is a paragraph it cannot be quoted with confidence.
 
-**Warning: three incompatible price sets are currently in circulation.** certified-partner-model-decisions anchors on EUR 3–5k/month retainer with a EUR 10–20k build. fundraising-strategy-and-decisions locks Knowledge Session EUR 5,000, pilot build EUR 15k early-adopter / EUR 35k standard, retainer EUR 4k/mo early-adopter / EUR 7k/mo standard. The Datacampus proposal says EUR 3–5k/month. The partner model requires published, binding price bands for work delivered under the mark — that is impossible until these reconcile to one set. Treat the fundraising note as authoritative until decided otherwise, since it is the most recent and marked locked.
+## Published bands
+
+Set 2026-08-03 and binding for work delivered under the mark. The earlier ranges in certified-partner-model-decisions (EUR 10–20k build, EUR 3–5k/month retainer) are void — superseded, not an early-adopter column.
+
+| | Early adopter | Standard |
+|---|---|---|
+| Knowledge Session | EUR 5,000 | EUR 5,000 |
+| Pilot build | EUR 15k | EUR 35k |
+| Retainer | EUR 4k/mo | EUR 7k/mo |
+
+Two documents still carry the void figures and need restating to match: certified-partner-model-decisions (its price anchor, and its open item "set the workshop price band", now answered by the EUR 5,000 Knowledge Session), and the AI Datacampus pilot proposal, which quotes EUR 3–5k/month and is live with a real counterparty.
+
+## Which documents decide
+
+fundraising-strategy-and-decisions and certified-partner-model-decisions are the decision record. Everything else — the Datacampus proposal, rizom-consulting-one-pager-en, RizomBusinessBrief, rizom-mother-doc — is downstream or history, and follows those two rather than being reconciled against them.
 
 ## Buyer
 
