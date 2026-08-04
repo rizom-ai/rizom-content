@@ -1,42 +1,30 @@
 ---
 strengths:
-  - title: Ecosystem and distributed-governance design
+  - title: Build Knowledge Systems
     detail: >-
-      Use your strength in aligning communities, partners, teams, and missions,
-      and pair it with Paper Tiger’s dependable skill in designing decentralized
-      collaborative environments.
-  - title: Mission-aligned service design
-    detail: >-
-      Use your ability to turn collective capabilities into repeatable offers,
-      with Metis helping translate your values and practices into clear goals
-      and next steps.
+      Use your knowledge architecture and governance capability as a core offer
+      for distributed teams and AI-enabled work.
 weaknesses:
-  - title: Knowledge-structuring gap
+  - title: Shape Mission-Aligned Financing
     detail: >-
-      You do not yet show an explicit owner skill for turning scattered records
-      and institutional memory into searchable, actionable knowledge, so build
-      this practice deliberately or pair with Paper Tiger.
+      Strengthen your finance-specific methods, examples, and collaborators
+      instead of relying on your network’s adjacent digital-ecosystem expertise.
 opportunities:
-  - title: Organizational knowledge systems
+  - title: Architect Trustworthy Digital Systems
     detail: >-
-      Test a small project with Paper Tiger to organize Rizom’s collective
-      knowledge and learn a repeatable way to make it easier to find and use.
-  - title: Structured tradeoff analysis
+      Test a joint architecture review to turn your governance and knowledge
+      models into concrete systems for trust, identity, transparency, and
+      durable knowledge exchange.
+  - title: Develop Learning And Funding Strategies
     detail: >-
-      Use Metis’s systems-thinking and decision-analysis skill on a live
-      financing, partnership, or governance choice to strengthen your strategic
-      judgment.
-  - title: Context-aware knowledge tools
-    detail: >-
-      Explore a focused prototype with Paper Tiger that uses Rizom’s
-      institutional context and human agency to improve knowledge sharing,
-      rather than redesigning the whole platform.
+      Pilot a collaboration that connects your financing and knowledge work with
+      your network’s online-learning and research-funding practices.
 threats:
-  - title: Knowledge-flow dependence
+  - title: Analyze Complex Decisions
     detail: >-
-      Do not rely on governance and organizational design alone to keep
-      knowledge moving across Rizom’s three faces; establish a concrete
-      knowledge practice or involve Paper Tiger early.
-derivedAt: '2026-08-04T17:14:44.163Z'
+      Do not assume you fully cover complex tradeoff analysis; involve this
+      network capability when decisions span governance, funding, and AI
+      systems.
+derivedAt: '2026-08-04T17:15:32.608Z'
 ---
 
