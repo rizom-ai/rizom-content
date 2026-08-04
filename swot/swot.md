@@ -1,28 +1,28 @@
 ---
 strengths:
-  - title: Knowledge ecosystem design
+  - title: Open-source ecosystem governance
     detail: >-
-      Use this to coordinate, govern, and make knowledge reusable across the
-      platform, consulting practice, and foundation research.
-  - title: Collaborative organization design
+      Use your governance expertise to shape intellectual-property policies,
+      partner arrangements, and stewardship models.
+  - title: Knowledge infrastructure
     detail: >-
-      Apply it to clarify roles, responsibilities, and shared outcomes across
-      communities, collectives, partners, and core teams.
-  - title: Shared intellectual property governance
+      Use your ability to build self-hosted knowledge systems to coordinate
+      learning across the platform, practice, and foundation.
+  - title: Open organizational design
     detail: >-
-      Use it to set clear contribution, licensing, certification, and
-      decision-making principles for open-source partners and participants.
-weaknesses: []
+      Apply your skill in distributing authority to design operating models and
+      decision-making across the collective.
+weaknesses:
+  - title: Funding strategy reinforcement
+    detail: >-
+      Own funding decisions internally for now, but seek complementary financing
+      expertise before scaling complex funding work.
 opportunities: []
 threats:
-  - title: Missing external design complement
+  - title: Knowledge infrastructure dependence
     detail: >-
-      Do not assume independent expertise in knowledge or organizational design;
-      seek a targeted collaborator or external review for important decisions.
-  - title: Missing venture-building counterpoint
-    detail: >-
-      Have a deliberately chosen outside practitioner review major
-      productization, financing, or investment choices before committing.
-derivedAt: '2026-08-04T16:33:21.209Z'
+      Document your knowledge-system approach and secure complementary expertise
+      so critical capture and sharing do not depend on one capability alone.
+derivedAt: '2026-08-04T16:53:33.187Z'
 ---
 
