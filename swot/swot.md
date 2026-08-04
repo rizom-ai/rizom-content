@@ -1,21 +1,29 @@
 ---
 strengths:
-  - title: Collaborative governance design
+  - title: Ecosystem alignment
     detail: >-
-      Use this capability to establish accountability, certification, and
-      decision-making structures for partner networks and open-source projects.
-  - title: Ecosystem organization design
+      Use your strength in coordinating independent teams and partners to set
+      clear principles for distributed, mission-driven work.
+  - title: Open ecosystem governance
     detail: >-
-      Apply it to clarify roles, operating practices, and coordination across
-      Rizom’s platform, practice, and foundation.
-weaknesses: []
+      Rely on this capability to define contribution rules, partner decisions,
+      and governance for collaborative ecosystems.
+  - title: Mission-aligned funding
+    detail: >-
+      Apply this skill when structuring grants or financing so capital
+      reinforces open-source and collective outcomes.
+weaknesses:
+  - title: Limited external reinforcement
+    detail: >-
+      Do not assume your network adds independent strategic depth; seek
+      collaborators who can show relevant ecosystem-strategy experience.
 opportunities: []
 threats:
-  - title: No demonstrated network complement
+  - title: Missing complementary expertise
     detail: >-
-      Do not rely on your network for specialist perspective yet; deliberately
-      seek and test collaborators who can add distinct expertise in ecosystem
-      design, acceleration, funding, or governance.
-derivedAt: '2026-08-03T10:26:23.576Z'
+      Before relying on your network for delivery, test whether it can provide
+      concrete expertise in venture acceleration, governance, ecosystem
+      alignment, or mission-aligned funding.
+derivedAt: '2026-08-04T09:06:25.266Z'
 ---
 
