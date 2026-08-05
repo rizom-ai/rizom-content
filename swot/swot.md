@@ -1,28 +1,29 @@
 ---
 strengths:
-  - title: Organizational knowledge systems
+  - title: Knowledge architecture and governance
     detail: >-
-      Use your knowledge architecture skill, paired with your network’s
-      dependable expertise in trustworthy digital systems and knowledge design,
-      to maintain shared knowledge across the collective.
+      Use your knowledge-system design confidently to connect the platform,
+      practice, and foundation, pairing it with your network’s dependable
+      digital-architecture and organizational-knowledge skills where
+      implementation depth is needed.
 weaknesses:
-  - title: Profile auditing
+  - title: Video production gap
     detail: >-
-      Build or formalize a review practice for completeness, placeholders, and
-      cleanup before relying on your network’s tentative profile-auditing
-      capability.
+      Treat video production as a capability you still need to learn or source
+      rather than assuming your knowledge and organizational strengths will
+      cover scripting, filming, or editing.
 opportunities:
-  - title: Critical contemporary analysis
+  - title: Structured research and retrieval
     detail: >-
-      Test your network’s dependable ability to connect theory, thinkers, and
-      history to the foundation’s research, then turn the strongest results into
-      accessible articles or programs.
+      Test your network’s semantic search, lookup, extraction, merging, and
+      querying tools on the cross-face knowledge base, then adopt the workflows
+      that strengthen your own research practice.
 threats:
-  - title: Profile fact lookup
+  - title: Tentative profile review
     detail: >-
-      Avoid relying on the network’s tentative lookup skill for fast, accurate
-      profile answers until you have tested it; manually verify facts in the
-      meantime.
-derivedAt: '2026-08-05T05:02:10.043Z'
+      Do not rely on the network’s tentative profile-auditing capability yet;
+      manually check public descriptions, placeholders, and metadata before
+      important updates.
+derivedAt: '2026-08-05T16:43:23.476Z'
 ---
 
