@@ -1,29 +1,28 @@
 ---
 strengths:
-  - title: Organizational knowledge architecture
+  - title: Organizational knowledge systems
     detail: >-
-      Use this as a core capability for structuring Rizom’s shared knowledge,
-      and pair with Paper Tiger or Arcane Scribe when building durable systems.
-  - title: Ecosystem and participation design
-    detail: >-
-      Apply this to clarify roles, participation, and governance across Rizom’s
-      platform, practice, and foundation.
+      Use your knowledge architecture skill, paired with your network’s
+      dependable expertise in trustworthy digital systems and knowledge design,
+      to maintain shared knowledge across the collective.
 weaknesses:
-  - title: Historically grounded public analysis
+  - title: Profile auditing
     detail: >-
-      Build or deliberately borrow this capability if Rizom needs to explain its
-      work through broader social and historical narratives.
+      Build or formalize a review practice for completeness, placeholders, and
+      cleanup before relying on your network’s tentative profile-auditing
+      capability.
 opportunities:
-  - title: Theory and historical context
+  - title: Critical contemporary analysis
     detail: >-
-      Test a joint article or program with Dynamic Sage that connects Rizom’s
-      organizational work to contemporary social questions.
+      Test your network’s dependable ability to connect theory, thinkers, and
+      history to the foundation’s research, then turn the strongest results into
+      accessible articles or programs.
 threats:
-  - title: Public-facing critical content
+  - title: Profile fact lookup
     detail: >-
-      Do not assume existing capabilities will produce this format
-      automatically; define the collaboration and review a first output before
-      relying on it.
-derivedAt: '2026-08-04T17:20:16.024Z'
+      Avoid relying on the network’s tentative lookup skill for fast, accurate
+      profile answers until you have tested it; manually verify facts in the
+      meantime.
+derivedAt: '2026-08-05T05:02:10.043Z'
 ---
 
