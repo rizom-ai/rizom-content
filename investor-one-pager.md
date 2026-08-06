@@ -7,6 +7,8 @@
 
 Every organisation loses knowledge. The context behind decisions, the reasoning of a project, the expertise that leaves with people. The tools that promise to fix this are closed platforms, and whatever you put into them becomes the vendor's asset. Rizom Brains works differently. It is an open, self-hostable brain that an organisation fully owns: plain markdown on their own infrastructure, built on the AT Protocol, licensed under AGPL so nobody can turn it into a proprietary product.
 
+The product is one brain. The vision is many: brains that find each other, cite each other, and compose into networks — organisations, collectives, whole fields holding their shared memory on infrastructure nobody can take away. Everything below — the practice, the partners, the hosting — is how that future gets funded and proven.
+
 We sell the work, not the software. We deploy and run brains for organisations, and we are building a certified partner network so others can deliver that work too. Delivery comes from a curated collective, compensated per engagement — the team scales with the work, not with payroll. The platform is open; the practice, the brand and the network are the business.
 
 ### What we sell
@@ -23,6 +25,11 @@ Every engagement is split 60% delivery, 15% acquisition, 25% commons. The common
 
 ### The ask — friends & family round
 Roughly EUR 75k on a SAFE or convertible with cap and discount, converting into the next round — no valuation set today. The business does not need this money to survive: with hiring gated on cash flow, even our conservative scenario is cash-positive from 2027. What the round buys is certainty and speed — insurance against pilot slippage, and our first platform hire two quarters ahead of the moment revenue alone would fund it.
+
+Why now: the platform is live, three pilots are on the table, and the partner and hosting flywheels are both set in motion by what happens in the coming twelve months. This is the year a small round changes the trajectory.
+
+The win: if the base case lands, the institutional round prices on 2027 numbers — and this SAFE converts at its cap and discount into a company that has already proven its model.
+
 - Use of funds: first platform-operations hire, pilot conversion, slippage buffer.
 - Break-even: at current prices, one retainer plus one small engagement a month covers the business.
 - Next: a separate institutional round (EUR 250–300k) follows on 2027 evidence; this round converts into it.
