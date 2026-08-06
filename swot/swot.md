@@ -1,33 +1,28 @@
 ---
 strengths:
-  - title: Open technology governance
+  - title: Organizational knowledge systems
     detail: >-
-      Use your governance, funding, and sustainability skill to shape durable
-      approaches for the collective’s open-source, self-hosted, and AI
-      communities.
-  - title: Distributed organizational design
-    detail: >-
-      Anchor organizational design work in your ability to clarify ownership,
-      roles, and decision rights, then pair it with the network’s complementary
-      analysis when needed.
+      Use your strength in capturing, organizing, and sharing collective
+      practice as the foundation for coordinating the open platform, team
+      practice, and research foundation.
 weaknesses:
-  - title: Structured knowledge operations
+  - title: Semantic search
     detail: >-
-      Do not rely on your own skills for retrieval, listing, or querying; use
-      the knowledge workflow network for structured handling of the collective’s
-      records.
+      Your network can provide dependable semantic search, but you should
+      strengthen retrieval across the collective so useful knowledge is not
+      limited to what has already been neatly organized.
 opportunities:
-  - title: Contemporary critical analysis
+  - title: Context-aware AI systems
     detail: >-
-      Test the network’s ability to connect theory, thinkers, and historical
-      context to current phenomena in the foundation’s research and content, and
-      assess how it strengthens your organizational perspective.
+      Pair your organizational knowledge-systems skill with your network’s
+      context-aware AI capability by testing a small workflow that uses
+      institutional context and human agency.
 threats:
-  - title: Tentative record review
+  - title: Tentative profile auditing
     detail: >-
-      Treat the network’s profile and record reviews as provisional, and
-      validate their findings before using them to maintain the collective’s
-      knowledge records.
-derivedAt: '2026-08-06T15:08:56.605Z'
+      Do not rely on the network’s tentative profile-auditing capability for
+      trustworthy records yet; directly review important profile and metadata
+      changes.
+derivedAt: '2026-08-06T15:29:18.717Z'
 ---
 
