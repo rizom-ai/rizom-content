@@ -1,26 +1,27 @@
 ---
 strengths:
-  - title: Knowledge and funding strategies
+  - title: Organizational knowledge design
     detail: >-
-      Use your ability to align knowledge systems, AI initiatives, and financing
-      for cross-initiative decisions, with your dependable network helping
-      structure evidence and tradeoffs.
+      Use your knowledge-systems capability, reinforced by dependable expertise
+      in structuring scattered knowledge, to coordinate information across the
+      collective’s three faces.
 weaknesses:
-  - title: Profile auditing
+  - title: Critical analysis content
     detail: >-
-      Treat profile completeness and placeholder cleanup as your gap: add a
-      manual review step rather than relying on the network’s tentative support.
+      Do not present theory-, thinker-, and history-based content as an
+      established in-house skill; pair with a collaborator or develop it
+      deliberately.
 opportunities:
-  - title: Knowledge workflow retrieval
+  - title: Content insights and analytics
     detail: >-
-      Test your network’s dependable entity retrieval and structured knowledge
-      tools to make knowledge sharing across the platform, practice, and
-      foundation easier to operate.
+      Use your network’s dependable content-health, publishing-cadence,
+      topic-distribution, and overview insights to test priorities and find
+      underdeveloped areas in the knowledge base.
 threats:
-  - title: Profile fact lookup
+  - title: Record quality review
     detail: >-
-      Do not yet rely on the network’s tentative profile fact lookup for public
-      answers; verify key facts directly before representing the collective.
-derivedAt: '2026-08-06T05:24:58.659Z'
+      Treat the network’s tentative record-review capability as a prompt for
+      manual checks, not as the sole safeguard for important records.
+derivedAt: '2026-08-06T05:37:09.501Z'
 ---
 
