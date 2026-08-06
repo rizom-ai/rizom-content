@@ -27,7 +27,7 @@ A bridge of roughly EUR 75k, covering twelve months: enough to convert the three
 - Break-even: at current prices, one retainer plus one small engagement a month covers the business.
 
 ### What your equity buys
-The platform IP and the Rizom trademark move to an independent foundation. That is why clients can trust there is no lock-in. Rizom B.V., the entity you invest in, keeps the commercial practice, the partner registry, the client relationships and a perpetual licence back to the platform. You are backing the company that operates on top of the open platform, not a proprietary software bet.
+The platform IP and the Rizom trademark are held by Rizom B.V. today and move to an independent foundation once it is founded; contributor sign-offs (DCO, to "Rizom B.V. and its successors and assigns") make that transfer a single recorded deed. That is why clients can trust there is no lock-in. Rizom B.V., the entity you invest in, keeps the commercial practice, the partner registry, the client relationships and an exclusive commercial licence back to the platform — perpetual, irrevocable, and surviving any change of control. You are backing the company that operates on top of the open platform, not a proprietary software bet.
 
 ### In parallel — non-dilutive
 We are also pursuing non-dilutive funding for the platform itself: an NLnet/NGI Zero application (EUR 50k), WBSO, and cloud credits. Investor capital funds the business, not the infrastructure.
