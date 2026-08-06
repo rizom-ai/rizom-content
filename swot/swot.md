@@ -1,28 +1,28 @@
 ---
 strengths:
-  - title: AI-assisted team coordination
+  - title: Organizational knowledge systems
     detail: >-
-      Use your strength in connecting people, capabilities, missions, and shared
-      knowledge for work that requires coordinated teams and context-aware AI
-      systems.
+      Use your knowledge architecture as the foundation for connecting and
+      reusing learning across the platform, consulting practice, and foundation,
+      with dependable support from Paper Tiger and Doc.
 weaknesses:
-  - title: Critical analysis and content planning
+  - title: Record quality review
     detail: >-
-      Pair your organizational and systems skills with your network’s critical
-      analysis, historical context, and content planning when turning research
-      into public-facing articles or programs.
+      Add a clear review step for missing or unclear records before relying on
+      them for coordination or public representation, since this capability is
+      currently only tentative in your network.
 opportunities:
-  - title: Knowledge retrieval and insights
+  - title: Critical contemporary analysis
     detail: >-
-      Test Radiant Pioneer’s retrieval, listing, and analytics tools to make
-      Rizom’s knowledge-sharing practice more searchable, auditable, and
-      evidence-led.
+      Test Dynamic Sage’s ability to connect theory, thinkers, and historical
+      context with foundation research to strengthen your public-facing articles
+      or programs.
 threats:
-  - title: Tentative profile auditing
+  - title: Profile auditing
     detail: >-
-      Avoid relying on Endless Watcher for important profile or metadata reviews
-      until its tentative capability is dependable, and keep a manual review
-      step in place.
-derivedAt: '2026-08-06T06:38:17.366Z'
+      Do not yet rely on this tentative capability for external representation;
+      manually review key descriptions and profiles until its ability to detect
+      placeholders and cleanup needs is validated.
+derivedAt: '2026-08-06T06:39:06.120Z'
 ---
 
