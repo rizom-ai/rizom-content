@@ -1,29 +1,26 @@
 ---
 strengths:
-  - title: Knowledge architecture and governance
+  - title: Knowledge and funding strategies
     detail: >-
-      Use your knowledge-system design confidently to connect the platform,
-      practice, and foundation, pairing it with your network’s dependable
-      digital-architecture and organizational-knowledge skills where
-      implementation depth is needed.
+      Use your ability to align knowledge systems, AI initiatives, and financing
+      for cross-initiative decisions, with your dependable network helping
+      structure evidence and tradeoffs.
 weaknesses:
-  - title: Video production gap
+  - title: Profile auditing
     detail: >-
-      Treat video production as a capability you still need to learn or source
-      rather than assuming your knowledge and organizational strengths will
-      cover scripting, filming, or editing.
+      Treat profile completeness and placeholder cleanup as your gap: add a
+      manual review step rather than relying on the network’s tentative support.
 opportunities:
-  - title: Structured research and retrieval
+  - title: Knowledge workflow retrieval
     detail: >-
-      Test your network’s semantic search, lookup, extraction, merging, and
-      querying tools on the cross-face knowledge base, then adopt the workflows
-      that strengthen your own research practice.
+      Test your network’s dependable entity retrieval and structured knowledge
+      tools to make knowledge sharing across the platform, practice, and
+      foundation easier to operate.
 threats:
-  - title: Tentative profile review
+  - title: Profile fact lookup
     detail: >-
-      Do not rely on the network’s tentative profile-auditing capability yet;
-      manually check public descriptions, placeholders, and metadata before
-      important updates.
-derivedAt: '2026-08-05T16:43:23.476Z'
+      Do not yet rely on the network’s tentative profile fact lookup for public
+      answers; verify key facts directly before representing the collective.
+derivedAt: '2026-08-06T05:24:58.659Z'
 ---
 
