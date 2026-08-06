@@ -1,28 +1,28 @@
 ---
 strengths:
-  - title: Organizational knowledge systems
+  - title: Knowledge-driven organizational design
     detail: >-
-      Use your knowledge-architecture skill as the foundation for coordinating
-      and applying knowledge across the platform, consulting practice, and
+      Use your ability to coordinate knowledge, roles, teams, and distributed
+      decisions as the foundation for integrating the platform, practice, and
       foundation.
 weaknesses:
-  - title: Critical-era analysis content
+  - title: Knowledge retrieval and record operations
     detail: >-
-      Develop or commission the network’s ability to turn theory, thinkers, and
-      historical context into accessible contemporary analysis for public-facing
-      research and programs.
+      Do not assume your organizational-design skill covers day-to-day search
+      and record management; pair it with your network’s semantic search,
+      lookup, and listing capabilities.
 opportunities:
-  - title: Knowledge retrieval and workflow operations
+  - title: Turn data into organizational knowledge
     detail: >-
-      Pair your knowledge-system design with Radiant Pioneer’s dependable entity
-      retrieval, listing, and content-insight functions, then test the workflow
-      on real collective knowledge.
+      Test your existing notes, decisions, and institutional memory with your
+      network’s structured-knowledge capability, then use what it reveals to
+      improve collective coordination.
 threats:
-  - title: Profile Auditing
+  - title: Tentative record quality review
     detail: >-
-      Do not rely on Endless Watcher for profile maintenance yet; validate its
-      checks for placeholders, incomplete content, and metadata issues through
-      manual review.
-derivedAt: '2026-08-06T06:54:43.674Z'
+      Have important records checked before relying on them, because your
+      network’s profile-auditing and record-quality skills are tentative rather
+      than dependable.
+derivedAt: '2026-08-06T06:55:16.306Z'
 ---
 
