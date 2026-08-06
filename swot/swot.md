@@ -1,35 +1,28 @@
 ---
 strengths:
-  - title: Open ecosystem governance
+  - title: Organizational knowledge systems
     detail: >-
-      Lead governance and architecture decisions confidently, while using your
-      network for technical design review.
-  - title: Partner and community coordination
-    detail: >-
-      Lead certification, participation, and governance design, then pair with
-      your network to make contribution pathways practical.
+      Use your knowledge-architecture skill as the foundation for coordinating
+      and applying knowledge across the platform, consulting practice, and
+      foundation.
 weaknesses:
-  - title: Profile auditing
+  - title: Critical-era analysis content
     detail: >-
-      Develop or delegate review of profile completeness, placeholders, and
-      metadata rather than assuming your existing organizational skills cover
-      it.
+      Develop or commission the network’s ability to turn theory, thinkers, and
+      historical context into accessible contemporary analysis for public-facing
+      research and programs.
 opportunities:
-  - title: Knowledge retrieval and workflow
+  - title: Knowledge retrieval and workflow operations
     detail: >-
-      Test your network's retrieval, listing, and insight tools against Rizom's
-      knowledge base to improve how collective information is found and
-      presented.
-  - title: Critical contemporary analysis
-    detail: >-
-      Pair with your network on a short research or content piece to test
-      whether theory and historical framing strengthen the foundation's work.
+      Pair your knowledge-system design with Radiant Pioneer’s dependable entity
+      retrieval, listing, and content-insight functions, then test the workflow
+      on real collective knowledge.
 threats:
-  - title: Profile fact retrieval
+  - title: Profile Auditing
     detail: >-
-      Treat this tentative capability as a review-required aid and validate
-      every retrieved fact before using it in public representation or shared
-      knowledge.
-derivedAt: '2026-08-06T06:50:13.584Z'
+      Do not rely on Endless Watcher for profile maintenance yet; validate its
+      checks for placeholders, incomplete content, and metadata issues through
+      manual review.
+derivedAt: '2026-08-06T06:54:43.674Z'
 ---
 
