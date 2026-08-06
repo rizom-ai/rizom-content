@@ -54,7 +54,7 @@ Ghost has run this model for over a decade: a non-profit foundation owns the ope
 ### Where this could fail
 - If nobody wants the certification, line 02 stalls. Test: a first certified partner within twelve months.
 - If organisations prefer to self-host, line 03 stays small. Test: the share of pilots that choose managed hosting.
-- If engagements do not close, that is a sales problem, not a model problem. It is what the bridge pays to fix.
+- If engagements do not close, that is a sales problem, not a model problem. It is what this round buys time to fix.
 
 ### What this means for this round
 - The EUR 75k accelerates line 01 to self-sufficiency, the precondition for 02 and 03.
