@@ -1,0 +1,4 @@
+---
+title: Driver-Based Financial Modeling
+---
+Rizom’s 2026–2028 projections are structured as scenario models rather than conventional forecasts. Revenue, costs, hiring, hosting capacity, partner activity, and engagement conversion are all linked to explicit operating assumptions. Conservative, base, and growth cases show how pilot conversion, retainers, certified partners, hosted brains, and hiring timing affect profitability. The model includes threshold gates that delay hiring until commons flow can support the relevant personnel cost. Sensitivity analysis highlights retainer churn, pilot delays, and partner adoption as the most consequential variables. This approach provides a decision framework for capital timing and operational commitments while making the model’s untested assumptions visible.
