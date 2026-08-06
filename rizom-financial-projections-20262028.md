@@ -1,6 +1,6 @@
 # Rizom Financial Projections 2026–2028
 
-Derived from [[rizom-operating-model]] (canonical split and policies) and [[investor-one-pager]] (pricing). Drafted 2026-08-06. All amounts EUR thousands unless stated. These are driver-based scenarios, not forecasts: every number traces to an assumption below.
+Derived from [[rizom-operating-model]] (canonical split and policies) and [[investor-one-pager]] (pricing). Drafted 2026-08-06. All amounts EUR thousands unless stated. These are driver-based scenarios, not forecasts: every number traces to an assumption below. A live interactive model exists as a local file (rizom-financial-model.html, next to the one-pager PDFs) with the same drivers at monthly granularity — where the two disagree, the model wins.
 
 ## Assumptions
 
