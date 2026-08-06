@@ -1,17 +1,18 @@
 ---
 name: Plan Mission-Aligned Financing
 description: >-
-  Develop financing strategies and funding programs that support AI startups,
-  open-source projects, and mission-driven organizational growth.
+  Analyze and design financing strategies, funding programs, and ownership
+  pathways for AI, open-source, and socially valuable ventures.
 tags:
   - analysis
   - alignment
   - ai-systems
-  - community
-  - agency
+  - organization
 examples:
-  - Design a funding program for mission-aligned AI startups.
-  - What financing model could sustain an open-source project?
-  - Create an investment strategy for a purpose-driven organization.
+  - Develop a financing strategy for an open-source AI startup.
+  - Design a grant and investment program for community-owned technology.
+  - >-
+    Compare revenue, cooperative ownership, and philanthropic funding models for
+    our project.
 ---
 
