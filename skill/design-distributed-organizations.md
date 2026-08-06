@@ -2,17 +2,15 @@
 name: Design Distributed Organizations
 description: >-
   Design ecosystem-based organizations with distributed ownership, clear roles,
-  and aligned decision-making practices.
+  and structures that support collective agency.
 tags:
   - organization
-  - agency
-  - alignment
   - community
+  - alignment
+  - agency
 examples:
-  - How could we design a distributed organization with shared ownership?
-  - >-
-    Compare different ecosystem-based organizational structures for a
-    mission-driven network.
-  - Create a decision-making model for a community-owned collective.
+  - Design an organizational structure for a distributed collective.
+  - 'Compare cooperative, steward-owned, and other distributed ownership models.'
+  - Map roles and decision rights across an ecosystem of partner organizations.
 ---
 
