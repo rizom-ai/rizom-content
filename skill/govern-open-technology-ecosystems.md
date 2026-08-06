@@ -1,18 +1,17 @@
 ---
 name: Govern Open Technology Ecosystems
 description: >-
-  Develop governance, funding, and sustainability approaches for open-source,
-  self-hosted, and AI technology communities.
+  Develop governance and funding approaches for open-source, self-hosted, and AI
+  technology ecosystems.
 tags:
   - ai-systems
   - architecture
-  - community
-  - knowledge-base
+  - agents
+  - governance
 examples:
-  - Create a governance model for a self-hosted open-source platform.
-  - Design a funding program for open-source AI projects.
+  - Design a governance model for an open-source and self-hosted platform.
   - >-
-    Recommend community and technical decision-making practices for an open
-    technology ecosystem.
+    How should we fund AI startups while preserving open ecosystem
+    participation?
 ---
 
