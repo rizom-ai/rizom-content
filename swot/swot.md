@@ -1,28 +1,28 @@
 ---
 strengths:
-  - title: Knowledge-driven organizational design
+  - title: Distributed team formation
     detail: >-
-      Use your ability to coordinate knowledge, roles, teams, and distributed
-      decisions as the foundation for integrating the platform, practice, and
-      foundation.
+      Use your evidence-informed team design confidently for distributed teams
+      and ecosystems, and pair it with your network’s dependable experience
+      designing collaborative digital environments.
 weaknesses:
-  - title: Knowledge retrieval and record operations
+  - title: Accessible critical content
     detail: >-
-      Do not assume your organizational-design skill covers day-to-day search
-      and record management; pair it with your network’s semantic search,
-      lookup, and listing capabilities.
+      Do not assume your organization and analysis skills cover public-facing
+      critical content; deliberately build the ability to turn theory and
+      historical context into clear articles or programs.
 opportunities:
-  - title: Turn data into organizational knowledge
+  - title: Critical content development
     detail: >-
-      Test your existing notes, decisions, and institutional memory with your
-      network’s structured-knowledge capability, then use what it reveals to
-      improve collective coordination.
+      Test a joint article or program with your network’s skill in connecting
+      theory, thinkers, and historical context to contemporary issues, then use
+      the result to make your organizational research more accessible.
 threats:
-  - title: Tentative record quality review
+  - title: Tentative profile auditing
     detail: >-
-      Have important records checked before relying on them, because your
-      network’s profile-auditing and record-quality skills are tentative rather
-      than dependable.
-derivedAt: '2026-08-06T06:55:16.306Z'
+      Use Profile Auditing only for an initial completeness and cleanup review,
+      and manually verify its findings before relying on them for profile or
+      metadata changes.
+derivedAt: '2026-08-06T07:00:48.101Z'
 ---
 
