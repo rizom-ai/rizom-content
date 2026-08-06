@@ -1,28 +1,27 @@
 ---
 strengths:
-  - title: Organizational and knowledge-system design
+  - title: Knowledge-system design
     detail: >-
-      Use your strength in designing ecosystem-based organizations and knowledge
-      systems confidently, then pair it with your network’s implementation
-      skills when putting those designs into practice.
+      Use your strength in capturing, structuring, and sharing knowledge as the
+      foundation for coordinating Rizom’s open platform, team practice, and
+      foundation.
 weaknesses:
-  - title: Historical and contemporary analysis gap
+  - title: Operational knowledge retrieval
     detail: >-
-      Do not present this as an established owner capability; develop it or
-      collaborate with the network’s critical-analysis skill when work requires
-      theory, thinkers, historical context, and contemporary interpretation.
+      Pair your system-design strength with your network’s dependable retrieval,
+      listing, and structured-query skills so knowledge is as easy to find as it
+      is to organize.
 opportunities:
-  - title: Data and institutional-memory consolidation
+  - title: Critical contemporary analysis
     detail: >-
-      Test Paper Tiger’s capability as a complement to your organizational
-      design work when scattered data, archives, or institutional memory must
-      become searchable knowledge and actionable decisions.
+      Test your network’s ability to connect theory, thinkers, and historical
+      context in foundation research or public content, then learn its method
+      for making complex ideas accessible.
 threats:
-  - title: Tentative profile auditing
+  - title: Profile auditing
     detail: >-
-      Validate important profile and metadata work yourself before relying on
-      this tentative capability to find incomplete content, placeholders, or
-      cleanup needs.
-derivedAt: '2026-08-06T05:58:29.960Z'
+      Treat profile auditing as unproven and review important public-profile and
+      metadata changes yourself until this tentative capability is validated.
+derivedAt: '2026-08-06T06:00:40.353Z'
 ---
 
