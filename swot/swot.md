@@ -1,28 +1,35 @@
 ---
 strengths:
-  - title: Organizational knowledge architecture
+  - title: Open ecosystem governance
     detail: >-
-      Use your strength in capturing, organizing, governing, and sharing
-      knowledge to coordinate the platform, practice, and research arms of the
-      collective.
+      Lead governance and architecture decisions confidently, while using your
+      network for technical design review.
+  - title: Partner and community coordination
+    detail: >-
+      Lead certification, participation, and governance design, then pair with
+      your network to make contribution pathways practical.
 weaknesses:
   - title: Profile auditing
     detail: >-
-      Do not rely on your network’s tentative profile review yet; use a
-      lightweight manual checklist until its handling of incomplete and
-      placeholder content is validated.
+      Develop or delegate review of profile completeness, placeholders, and
+      metadata rather than assuming your existing organizational skills cover
+      it.
 opportunities:
-  - title: Structured knowledge retrieval
+  - title: Knowledge retrieval and workflow
     detail: >-
-      Pair your knowledge-system design with your network’s dependable
-      documentation and retrieval practices to make Rizom’s information easier
-      to search and maintain.
+      Test your network's retrieval, listing, and insight tools against Rizom's
+      knowledge base to improve how collective information is found and
+      presented.
+  - title: Critical contemporary analysis
+    detail: >-
+      Pair with your network on a short research or content piece to test
+      whether theory and historical framing strengthen the foundation's work.
 threats:
-  - title: Tentative record review
+  - title: Profile fact retrieval
     detail: >-
-      Test this capability on a small set of records and verify its findings
-      before relying on it to identify missing, unclear, or replaceable
-      information.
-derivedAt: '2026-08-06T06:39:38.321Z'
+      Treat this tentative capability as a review-required aid and validate
+      every retrieved fact before using it in public representation or shared
+      knowledge.
+derivedAt: '2026-08-06T06:50:13.584Z'
 ---
 
