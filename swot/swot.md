@@ -1,29 +1,28 @@
 ---
 strengths:
-  - title: Organizational knowledge systems
+  - title: AI-assisted team coordination
     detail: >-
-      Use your strength in organizing collective knowledge, practices, and
-      decisions as the foundation for coordination, learning, and shared agency,
-      reinforced by your network’s dependable ability to structure institutional
-      memory.
+      Use your strength in connecting people, capabilities, missions, and shared
+      knowledge for work that requires coordinated teams and context-aware AI
+      systems.
 weaknesses:
-  - title: Profile auditing
+  - title: Critical analysis and content planning
     detail: >-
-      Because you do not explicitly cover profile completeness, placeholders, or
-      cleanup, add a defined review step or pair with a profile-auditing
-      capability before publishing important records.
+      Pair your organizational and systems skills with your network’s critical
+      analysis, historical context, and content planning when turning research
+      into public-facing articles or programs.
 opportunities:
-  - title: Semantic search and entity retrieval
+  - title: Knowledge retrieval and insights
     detail: >-
-      Test your network’s dependable semantic search and entity-retrieval tools
-      to find, verify, and assemble collective knowledge before creating more
-      manual processes.
+      Test Radiant Pioneer’s retrieval, listing, and analytics tools to make
+      Rizom’s knowledge-sharing practice more searchable, auditable, and
+      evidence-led.
 threats:
-  - title: Record quality review
+  - title: Tentative profile auditing
     detail: >-
-      Treat the available record-review capability as tentative rather than a
-      quality gate, and manually check critical records or establish a second
-      review path.
-derivedAt: '2026-08-06T06:11:14.094Z'
+      Avoid relying on Endless Watcher for important profile or metadata reviews
+      until its tentative capability is dependable, and keep a manual review
+      step in place.
+derivedAt: '2026-08-06T06:38:17.366Z'
 ---
 
