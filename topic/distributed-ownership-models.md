@@ -1,0 +1,4 @@
+---
+title: Distributed Ownership Models
+---
+Rizom proposes a compensation model in which project revenue is transparently distributed among team members, infrastructure providers, and core owners. Team members receive direct compensation aligned with market rates while gaining potential equity participation through sustained contribution. The model treats ownership as a mechanism for aligning individual incentives with collective project outcomes. Rather than optimizing for utilization, billable hours, or short-term extraction, it aims to reward durable value creation. This approach is positioned as a way to improve motivation, reduce conflicts of interest, and enable professionals to build long-term wealth. The document identifies shared financial success as a central differentiator from conventional freelance platforms and consulting firms.
