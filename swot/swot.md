@@ -1,27 +1,27 @@
 ---
 strengths:
-  - title: Knowledge-system design
+  - title: Open and self-hosted technology governance
     detail: >-
-      Use your strength in capturing, structuring, and sharing knowledge as the
-      foundation for coordinating Rizom’s open platform, team practice, and
-      foundation.
+      Use your governance strength for architecture and operating-model
+      decisions, and pair it with your network’s dependable platform and
+      digital-systems design skills for technical review.
 weaknesses:
-  - title: Operational knowledge retrieval
+  - title: Semantic search
     detail: >-
-      Pair your system-design strength with your network’s dependable retrieval,
-      listing, and structured-query skills so knowledge is as easy to find as it
-      is to organize.
+      Your profile does not show explicit search-execution skill, so build
+      retrieval workflows with the network rather than assuming your existing
+      knowledge practices cover semantic search.
 opportunities:
-  - title: Critical contemporary analysis
+  - title: System insights and analytics
     detail: >-
-      Test your network’s ability to connect theory, thinkers, and historical
-      context in foundation research or public content, then learn its method
-      for making complex ideas accessible.
+      Test the network’s analytics capabilities on your knowledge base to find
+      content gaps and improve how you turn collective knowledge into reusable
+      offerings.
 threats:
   - title: Profile auditing
     detail: >-
-      Treat profile auditing as unproven and review important public-profile and
-      metadata changes yourself until this tentative capability is validated.
-derivedAt: '2026-08-06T06:00:40.353Z'
+      Treat profile auditing as tentative and review important profile and
+      metadata decisions directly until the network capability is validated.
+derivedAt: '2026-08-06T06:07:30.010Z'
 ---
 
