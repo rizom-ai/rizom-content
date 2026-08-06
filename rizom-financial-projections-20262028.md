@@ -41,9 +41,15 @@ Derived from [[rizom-operating-model]] (canonical split and policies) and [[inve
 - **Hire #2 self-carried**: commons flow ≥ 185/yr → ≥ ~740/yr system revenue. Base crosses during 2028; growth crosses mid-2027 only with funding.
 - **Ghost line** (hosting margin alone carries the infra team): ~73 brains for two FTE. Base reaches it during 2028.
 
-## What this says about the raise
+## Capital plan: two rounds
 
-No scenario needs money to survive: the hire-gating policy keeps even conservative cash-positive from 2027. The raise is therefore genuinely growth capital — it buys the difference between base and growth, i.e. the flywheel roughly 18 months earlier. Sized from the drivers: **EUR 250–300k**, used as: hire #1 pull-forward (~45), hire #2 pull-forward (~90), partner certification program (~50), reference deployments and cohort operations (~40), commercial capacity (~50), buffer (~25). This replaces the withdrawn EUR 75k bridge framing: not runway, acceleration.
+No scenario needs money to survive: the hire-gating policy keeps even conservative cash-positive from 2027. Capital is therefore staged by what it buys, not by need.
+
+**Round 1 — friends & family, ~EUR 75k, now.** The original bridge ask reframed for its actual audience (the warm leads the one-pager addresses). Instrument: SAFE or convertible with cap/discount, converting into round 2 — no valuation set today. What it buys: insurance against the two near-term sensitivities (pilot slip, retainer churn) and hire #1 roughly two quarters ahead of the commons-flow gate. On base-case execution it is never spent on survival.
+
+**Round 2 — institutional/strategic, EUR 250–300k, on evidence (indicatively 2027 H1).** Raised once the base case is visibly tracking: pilots converted, the first-partner test underway, reference deployments public. Buys the growth scenario roughly 18 months early: hire #2 pull-forward (~90), partner certification program (~50), reference deployments and cohort operations (~40), commercial capacity (~50), buffer (~25). Strategic investors preferred over purely financial ones: the model's value concentrates in network effects an aligned investor can accelerate.
+
+Staging the rounds also fixes the terms problem: family money converts on friendly mechanics now, and the institutional round prices on 2027 numbers instead of 2026 promises.
 
 ## Sensitivities (the three that matter)
 
