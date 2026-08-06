@@ -1,20 +1,21 @@
 ---
 name: Design Mission-Aligned Organizations
 description: >-
-  Design organizational structures that connect mission, community, distributed
-  ownership, and ecosystem relationships.
+  Design ecosystem-based organizational structures that align missions, teams,
+  communities, and distributed ownership.
 tags:
   - organization
   - alignment
   - community
-  - architecture
+  - agency
+  - ownership
 examples:
   - >-
-    Design an ecosystem-based organizational model for a mission-driven
-    collective.
-  - Compare distributed ownership structures for a worker-owned network.
+    How should we structure a mission-driven organization across a foundation,
+    platform, and operating team?
   - >-
-    Create principles for balancing community governance with operational
-    clarity.
+    Design an organizational model that supports distributed ownership and
+    community participation.
+  - What principles should guide an ecosystem-based organization?
 ---
 
