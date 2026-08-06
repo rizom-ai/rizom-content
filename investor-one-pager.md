@@ -7,7 +7,7 @@
 
 Every organisation loses knowledge. The context behind decisions, the reasoning of a project, the expertise that leaves with people. The tools that promise to fix this are closed platforms, and whatever you put into them becomes the vendor's asset. Rizom Brains works differently. It is an open, self-hostable brain that an organisation fully owns: plain markdown on their own infrastructure, built on the AT Protocol, licensed under AGPL so nobody can turn it into a proprietary product.
 
-The product is one brain. The vision is many: brains that find each other, cite each other, and compose into networks — organisations, collectives, whole fields holding their shared memory on infrastructure nobody can take away. Everything below — the practice, the partners, the hosting — is how that future gets funded and proven.
+The product is one brain. The vision is people: how they think and work together when their memory is their own. A brain holds not only what someone knows but how they work — so when brains find each other, they don't just exchange citations, they compose teams. People who fit, finding each other across organisations and geographies, doing work that feels like play, on infrastructure nobody can take away. The TMS methodology is how that composition works. Everything below — the practice, the partners, the hosting — is how that future gets funded and proven.
 
 We sell the work, not the software. We deploy and run brains for organisations, and we are building a certified partner network so others can deliver that work too. Delivery comes from a curated collective, compensated per engagement — the team scales with the work, not with payroll. The platform is open; the practice, the brand and the network are the business.
 
