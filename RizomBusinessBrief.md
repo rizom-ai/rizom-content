@@ -1,5 +1,7 @@
 # Rizom Business Brief - Updated
 
+> **Status: historical (superseded 2026-08-06).** This document describes Rizom's 2025 talent-platform framing and no longer represents the company. The current canonical description is the [[rizom-operating-model]] note; the current product and commercial story is [[investor-one-pager]].
+
 Created by: Sam S.
 Last edited time: October 20, 2025 11:17 AM
 Created time: September 26, 2025 5:24 AM
