@@ -1,28 +1,28 @@
 ---
 strengths:
-  - title: Organizational knowledge systems
+  - title: Organizational knowledge design
     detail: >-
       Use your strength in capturing, organizing, and sharing collective
-      practice as the foundation for coordinating the open platform, team
-      practice, and research foundation.
+      knowledge as the foundation for coordinating Rizom’s three faces,
+      reinforced by your network’s dependable knowledge-system expertise.
 weaknesses:
-  - title: Semantic search
+  - title: Critical-era analysis and content planning
     detail: >-
-      Your network can provide dependable semantic search, but you should
-      strengthen retrieval across the collective so useful knowledge is not
-      limited to what has already been neatly organized.
+      You do not currently show this capability, so build it deliberately or
+      pair with Dynamic Sage when work requires connecting theory, historical
+      context, and contemporary phenomena in accessible content.
 opportunities:
-  - title: Context-aware AI systems
+  - title: Profile auditing
     detail: >-
-      Pair your organizational knowledge-systems skill with your network’s
-      context-aware AI capability by testing a small workflow that uses
-      institutional context and human agency.
+      Test your network’s profile-auditing skill on Rizom’s public profile to
+      find missing, placeholder, or cleanup items, then validate the results
+      before updating them.
 threats:
   - title: Tentative profile auditing
     detail: >-
-      Do not rely on the network’s tentative profile-auditing capability for
-      trustworthy records yet; directly review important profile and metadata
-      changes.
-derivedAt: '2026-08-06T15:29:18.717Z'
+      Because this capability is tentative, do not use it as an unattended
+      quality check; review every finding before relying on it to assess profile
+      completeness.
+derivedAt: '2026-08-07T09:46:59.526Z'
 ---
 
