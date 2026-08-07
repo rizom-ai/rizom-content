@@ -1,0 +1,4 @@
+---
+title: Scalable Partner-Delivered Services
+---
+The pilot is structured as a pathway for KA21 to become a certified Rizom partner rather than simply a customer. KA21 co-delivers a real engagement, gains experience with the methodology, and can later sell similar Brain applications to organisations in the same vertical. The partner model separates delivery, acquisition, and commons funding, with partners retaining most of the revenue when they both originate and deliver a deal. Domain-specific knowledge models, agent behaviours, and templates created during the pilot become reusable tools for future customer engagements. The model also gives KA21 a reference case and early positioning in a chosen professional field. This creates a scalable services network without requiring Rizom to expand its own payroll.
