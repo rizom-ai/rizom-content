@@ -1,6 +1,6 @@
 # Innovation Lead Pilot — Offer Outline
 
-*Generalized 2026-08-09 from the KA21 conversation (see ka21-reply-draft-innovation-lead-pilot). The reusable shape for any organisation that wants to open a new vertical with a Brain application and become a certified delivery partner. Pricing follows the locked bands in fundraising-strategy-and-decisions; partner economics follow certified-partner-model-decisions.*
+*Drafted 2026-08-09. The reusable shape for any organisation that wants to open a new vertical with a Brain application and become a certified delivery partner. Pricing follows the published price bands; partner economics follow the certified partner model.*
 
 ## Who this is for
 
