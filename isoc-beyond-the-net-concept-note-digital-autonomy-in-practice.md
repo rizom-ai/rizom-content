@@ -16,7 +16,7 @@
 
 **Why this is a chapter project.** It moves digital autonomy from advocacy to demonstrated practice inside the Dutch internet community — a living answer to "A Trustworthy Internet" at the layer where civil society actually works. The cohort, the training, and the report are chapter assets; the infrastructure knowledge stays in the community because the software is open source (AGPL) and the exit paths are public documentation.
 
-**External partner.** Rizom B.V. (Netherlands) builds and maintains the open-source platform (Rizom Brains), and will deploy and operate the cohort's instances for the project's duration. The partnership satisfies the programme's external-partner requirement for grants above USD 20,000. No cohort organisation incurs any licence cost, during or after the project.
+**External partner.** The Rizom Foundation (Stichting Rizom, Netherlands) builds and maintains the open-source platform (Rizom Brains), and will deploy and operate the cohort's instances for the project's duration. The partnership satisfies the programme's external-partner requirement for grants above USD 20,000. No cohort organisation incurs any licence cost, during or after the project.
 
 **Requested funding: USD 55,000.**
 
