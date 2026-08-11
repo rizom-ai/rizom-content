@@ -1,6 +1,6 @@
 # Digital Autonomy in Practice
 
-A Beyond the Net project of the Internet Society Netherlands Chapter. Concept note drafted 2026-08-07 for Ruben Brave (chair, ISOC NL) to carry into his chapter board — he owns and reshapes it from here. Context: ISOC NL is the eligible applicant (chapter, with prior grant track record, so sized at the USD 55k maximum); Rizom B.V. is the required external partner for grants above USD 20k. Rolling deadline, 8–10 weeks processing. Related: [[rizom-financial-projections-20262028]] (recurring funding windows), [[rizom-operating-model]] (the partner fee runs through the normal 60/15/25 split).
+**Context.** A Beyond the Net project of the Internet Society Netherlands Chapter. Concept note drafted 2026-08-07 for Ruben Brave (chair, ISOC NL) to carry into his chapter board. 
 
 **The problem.** Dutch civil-society organisations — digital-rights groups, community archives, local media, cultural initiatives — run their institutional memory on commercial platforms they don't control. The organisations most committed to an open internet are, in practice, the most dependent on closed infrastructure: their archives, decisions, and publications live in vendor silos, priced in data and lock-in. When such an organisation loses funding, staff, or its platform terms change, its memory goes with it.
 
