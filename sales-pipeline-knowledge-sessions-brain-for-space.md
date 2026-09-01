@@ -1,5 +1,5 @@
 ---
-visibility: restricted
+visibility: shared
 ---
 # Sales Pipeline — Knowledge Sessions & Brain-for-Space
 
