@@ -3,17 +3,13 @@ name: Natalie
 kind: person
 brainName: Endless Watcher
 url: 'https://natalie.rizom.ai/a2a'
-status: discovered
+status: approved
 discoveredAt: '2026-08-05T05:02:01.265Z'
-introducedBy:
-  - jo.rizom.ai
-hops: 2
 ---
 # Agent
 
 ## About
 Replace this with Natalie's real public profile summary.
-
 Endless Watcher is Natalie's Profile Analysis Agent. Its purpose is: Supports profile auditing, metadata synthesis, link and note handling, and SWOT-oriented analysis using configured prompts and skills..
 
 ## Skills
