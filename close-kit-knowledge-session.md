@@ -36,6 +36,7 @@ Three steps. First I talk to six to ten people one-to-one — the fragility test
 2. A reorg, merger, or rapid hiring.
 3. An AI rollout that underdelivered — the wedge. The line: *AI doesn't break your knowledge system. It exposes that you never had one.* Lets the session be bought on an AI budget while fixing an organisational problem.
 4. Onboarding that keeps interrupting the same three people.
+5. An AI agent that "sometimes works" and nobody trusts — the beachhead trigger ([[beachhead-scale-with-agents]], team decision 25 August). The problem is almost never the model; it's the context the agent lacks: rules, permissions, escalation paths, current knowledge. The session produces exactly that specification — the playbook becomes the spec for the context layer the two-week pilot then builds. Same session, same price, different second step. A buyer who pays for the map before any agent work is assumption #6 in [[assumptions-register-scale-with-agents]] tested in the cheapest possible way.
 
 **Stop signals — end warmly, don't push.**
 - No concrete pain; general curiosity about AI. Too early.
@@ -52,6 +53,8 @@ Warm only. They already know you. You are not pitching; you are describing a thi
 "I'm curious how that sits with you, actually." [pause]
 
 **Listen for a trigger.** If one appears, name it back in their own words. If none appears after five minutes, this is a reconnection, not a sale — enjoy it and skip to §6. Don't force it.
+
+**If the trigger is the agent** (trigger 5): qualify with the five questions from [[discovery-call-playbook-scale-with-agents]] — which workflow, where does it break or get corrected most, is the process itself well-defined internally, who owns the fix today, and what would "reliable enough" look like in numbers. If the process is contested, stop: a map can't repair a workflow nobody agrees on. Otherwise the session is the diagnosis and the pilot is the second step.
 
 **Reframe — only if a trigger appeared.**
 "What I keep seeing: the knowledge is in three people and nowhere else, and nobody wrote it down because it always worked. Until it doesn't."
