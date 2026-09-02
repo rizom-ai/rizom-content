@@ -1,18 +1,18 @@
 ---
 name: Develop Mission-Aligned Financing
 description: >-
-  Create driver-based financial models and funding strategies for AI startups,
-  open-source projects, and mission-led ventures.
+  Analyze funding options and build financial models that connect organizational
+  drivers, sustainable growth, and mission-aligned capital.
 tags:
   - analysis
-  - organization
-  - strategy
   - finance
+  - strategy
+  - organization
 examples:
-  - Build a driver-based financial model for an open-source AI startup.
-  - 'Compare grants, investment, and community funding for this project.'
+  - Build a driver-based financial model for a mission-driven startup.
   - >-
-    Design a financing strategy that preserves our mission and distributed
-    ownership.
+    Compare grants, investment, and community funding for an open-source
+    project.
+  - Develop a financing strategy that preserves distributed ownership.
 ---
 
