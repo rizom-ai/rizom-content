@@ -123,18 +123,7 @@ The cap, from [[tms-services-plan]]: this funds the year; it is not the year. Wh
 
 ## 8. Who first
 
-The buyer owns how work flows and has a trigger. From the warm-network list, the contacts who can buy rather than refer, with the fit reason:
-
-- Paul Coerkamp — CEO, Blits.ai. 20–40 people; his own published thesis is "what is actually running."
-- Ed Shadi — CTO, WOW Webinar. AI-native team; the CTO owns the flow.
-- Yasmin Shmuel — CEO, KLEVER AI. Early stage; human-in-the-loop is her product.
-- Roy van Egten — CEO, influde.ai. Small team; per-client knowledge is the asset.
-- Leopold van Oosten — Amsterdam Standard plus two ventures.
-- Johan Groenen — open source and digital commons; the institutional constituency named in [[rizom-product-plan]].
-
-Randy Daal is a partner conversation (Foreside places consultants; its clients are session buyers). Arjan El Fassed is a peer offered help, not a sale. Yury Sukhoverkhov, Roel de Jong, Arosha Brouwer, Doktor Gurson, Laura Nguyen and Gabby van Herpt are conversations that may produce a referral to a fit; don't run the close on them.
-
-Order: Paul first — his article is the trigger and his invitation to compare notes is on the table. Then Ed, then Johan.
+Not decided here. The warm-network messages in ~/Documents/network-outreach/outreach.md are already ordered, and ~/Documents/network-outreach/network.md holds the ranking behind them. The close runs on whoever the call is with; the buyer and trigger test in §2 decides whether to run it at all.
 
 ## 9. The one number
 
