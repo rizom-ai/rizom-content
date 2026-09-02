@@ -1,5 +1,5 @@
 ---
-visibility: restricted
+visibility: shared
 ---
 # Warm-network channel — status, 2 September 2026
 
