@@ -2,15 +2,15 @@
 name: Design Adaptive Organizations
 description: >-
   Design ecosystem-based organizations that coordinate distributed teams,
-  ownership, and decision-making around a shared mission.
+  ownership, and decision-making.
 tags:
   - organization
   - architecture
   - agency
-  - collaboration
+  - best-practices
 examples:
-  - How could we structure a distributed organization with autonomous teams?
-  - Design an ownership model for a mission-driven collective.
-  - Compare ecosystem-based and traditional organizational designs.
+  - How should we structure a distributed organization around autonomous teams?
+  - Compare cooperative ownership with other distributed ownership models.
+  - Design an organizational model for a network of independent partners.
 ---
 
