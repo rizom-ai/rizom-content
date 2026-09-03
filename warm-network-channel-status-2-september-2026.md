@@ -11,6 +11,6 @@ From the last meeting I took three things: people first, capacity, and actionabl
 
 **Actionable.** Thirty-five messages are ready. The first go out this week, to institutions with a concrete occasion: a change in leadership or in operations. The remaining institutions and the first beachhead conversation follow. I am working the institutional list first because it is the largest and the most deliverable, with the beachhead list alongside it. If the order proves wrong, I reverse it and say so.
 
-What would help: introductions where you are closer than I am, in particular to the Dutch scale-up ecosystem organisations and the university entrepreneurship centres. And a page on rizom.ai/work with the session price visible; it is needed the first time someone asks for something to forward.
+What would help: introductions where you are closer than I am, in particular to the Dutch scale-up ecosystem organisations and the university entrepreneurship centres.
 
 The underlying documents — the call script, the beachhead plan, the services plan and the 3 August decision record — I will send on request; board access to the Rizom brain is not set up yet.
