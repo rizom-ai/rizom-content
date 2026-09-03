@@ -1,38 +1,16 @@
 ---
 visibility: restricted
 ---
-# Warm-network channel — status, 2 September 2026
+# Warm-network channel — status
 
-Short version: the warm-outreach channel is built and starts this week. One product, the Knowledge Session, for two kinds of buyer. The near-term proof point is one signed session by 28 September.
+From the last meeting I took three things: people first, capacity, and actionable. This is where things stand along those three lines.
 
-## Context
+**People first.** The people in my network closest to this question run institutions: universities, libraries, museums, public bodies. They own how the work flows there, and that is who buys the Knowledge Session: the conversation about which knowledge lives in people rather than in the organisation, and what breaks when they leave. The approach is personal. Each message is written individually and starts from that person's own work. No message contains an ask; the ask is made on the call, from a written script. Investors are kept out of this channel; they belong to the friends-and-family round.
 
-On 3 August we set the course: non-dilutive first, the Knowledge Session as the small paid first step, and a first paid close within about eight weeks. On 25 August the team chose the Scale with Agents beachhead. This note is about the channel that connects the two: my own network, worked warm.
+**Capacity.** One person can deliver one session well at a time, and one session a month is break-even. The target is therefore not a pipeline but one signed session by 28 September — the date from the 3 August decision. What comes after that scales through partners, not through my hours. The session serves both buyers we have named. For an institution it is the diagnostic as designed: interviews, workshop, playbook. For a small B2B company with an AI agent that does not yet work reliably — the beachhead of 25 August — the same playbook is the specification for the context layer the pilot then builds. Same first step, same price, different second step.
 
-## What I found
+**Actionable.** Thirty-five messages are ready. The first go out this week, to institutions with a concrete occasion: a change in leadership or in operations. The remaining institutions and the first beachhead conversation follow. I am working the institutional list first because it is the largest and the most deliverable, with the beachhead list alongside it. If the order proves wrong, I reverse it and say so.
 
-I went through my own network over the past two days, person by person. The people closest to this question run institutions: universities, libraries, museums, public bodies. They own how the work flows there — and that is exactly who buys the Knowledge Session: the conversation about which knowledge lives in people rather than in the organisation, and what breaks when they leave. I had never looked at them as a market. They were simply the people I know.
+What would help: introductions where you are closer than I am, in particular to the Dutch scale-up ecosystem organisations and the university entrepreneurship centres. And a page on rizom.ai/work with the session price visible; it is needed the first time someone asks for something to forward.
 
-The beachhead profile — a small B2B SaaS team with an agent that sometimes works — I meet less often in my own network. That says something about my network, not about the beachhead.
-
-## One session, two buyers
-
-The Knowledge Session serves both. For an institution it is the diagnostic as designed: interviews, workshop, playbook. For a beachhead company the same playbook is the specification for the context layer the two-week pilot then builds. The first step and the price are identical; the second step differs. A company that pays for the map before any agent work is the beachhead's key assumption tested at the lowest possible cost.
-
-## Where it stands
-
-- 35 individually researched, drafted messages. None contains an ask. The ask is made on the call, from a written close kit. The target is one signed session by 28 September.
-- Seven investor contacts are held out of this channel for the friends-and-family round.
-- First to go out: two institutional leads with a live trigger this week — a library director hiring her head of operations, and an interim executive director — followed by two more interim directors, a Taipei networking event on 8 September where a large part of my Taiwan network will be in one room, and the first beachhead conversation, with a YC company running a multi-agent workflow in production.
-
-## The bet, and when it flips
-
-I am working the institutional list first because it is the largest and the most deliverable, with the beachhead list alongside it. If two weeks of institutional outreach produce nothing while a beachhead conversation converts, the order flips. I will say so.
-
-## What would help
-
-Introductions where you are closer than I am — in particular to the Dutch scale-up ecosystem organisations and the university entrepreneurship centres. And the rizom.ai/work page with the session price visible, which is on the services plan's build list and will be needed the first time someone asks for something to forward.
-
-## The underlying documents
-
-The close kit, the beachhead plan, the services plan and the 3 August decision record all exist as written documents. Board access to the Rizom brain is not set up yet, so until it is I will send any of them to anyone who asks.
+The underlying documents — the call script, the beachhead plan, the services plan and the 3 August decision record — I will send on request; board access to the Rizom brain is not set up yet.
