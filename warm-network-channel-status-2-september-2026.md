@@ -13,4 +13,4 @@ From the last meeting I took three things: people first, capacity, and actionabl
 
 What would help: introductions, where you are closer than I am, to people who run an institution or a programme and are facing a change — in leadership, in operations, or in how they use AI.
 
-The underlying documents — the call script, the beachhead plan, the services plan and the 3 August decision record — I will send on request; board access to the Rizom brain is not set up yet.
+The underlying documents — the call script, the beachhead plan, the services plan and the 3 August decision record — I will send on request.
