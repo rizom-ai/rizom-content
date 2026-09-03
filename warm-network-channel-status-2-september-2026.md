@@ -1,5 +1,5 @@
 ---
-visibility: shared
+visibility: restricted
 ---
 # Warm-network channel — status, 2 September 2026
 
@@ -11,11 +11,9 @@ On 3 August we set the course: non-dilutive first, the Knowledge Session as the 
 
 ## What I found
 
-My LinkedIn network is 3,736 connections. I measured and classified it over the past two days.
+I went through my own network over the past two days, person by person. The people closest to this question run institutions: universities, libraries, museums, public bodies. They own how the work flows there — and that is exactly who buys the Knowledge Session: the conversation about which knowledge lives in people rather than in the organisation, and what breaks when they leave. I had never looked at them as a market. They were simply the people I know.
 
-- The largest part by far is Dutch and institutional: universities, public bodies, cultural institutions, libraries. Over 950 first-degree connections, previously unclassified. Under the Knowledge Session's buyer definition — whoever owns how work flows, inside an institution first — this is the primary market. It was in front of me the whole time.
-- The beachhead profile — a small B2B SaaS team with an agent that sometimes works — is thinner in my network: eight plausible names. That says something about my network, not about the beachhead.
-- Taiwan (135) and Singapore (35) are fully classified. Taiwan is where I can deliver in person without travel. The rest of Asia is marginal; India is the one bloc I have measured but not yet looked at.
+The beachhead profile — a small B2B SaaS team with an agent that sometimes works — I meet less often in my own network. That says something about my network, not about the beachhead.
 
 ## One session, two buyers
 
@@ -23,7 +21,7 @@ The Knowledge Session serves both. For an institution it is the diagnostic as de
 
 ## Where it stands
 
-- 540 people classified; 35 individually researched, drafted messages. None contains an ask. The ask is made on the call, from a written close kit.
+- 35 individually researched, drafted messages. None contains an ask. The ask is made on the call, from a written close kit. The target is one signed session by 28 September.
 - Seven investor contacts are held out of this channel for the friends-and-family round.
 - First to go out: two institutional leads with a live trigger this week — a library director hiring her head of operations, and an interim executive director — followed by two more interim directors, a Taipei networking event on 8 September where a large part of my Taiwan network will be in one room, and the first beachhead conversation, with a YC company running a multi-agent workflow in production.
 
