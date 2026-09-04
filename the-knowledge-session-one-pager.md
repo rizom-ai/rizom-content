@@ -38,6 +38,6 @@ Whoever owns how the work flows: a director, a head of operations, a programme l
 
 ## The method
 
-Built on transactive memory systems — forty years of research in organisational psychology on how teams share knowledge, extended to teams that now include AI. The underlying platform is open source and runs on your own infrastructure.
+Built on transactive memory systems — forty years of research in organisational psychology on how teams share knowledge, extended to teams that now include AI.
 
 Jan Hein Hoogstad · Rizom · yeehaa@rizom.ai · rizom.ai
