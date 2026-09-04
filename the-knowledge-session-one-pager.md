@@ -23,7 +23,8 @@ The Knowledge Session makes that knowledge visible.
 
 - The playbook, yours to keep and act on.
 - A clear view of where the organisation depends on individuals.
-- If you go on to build — a shared memory system, or a context layer for an AI agent — the playbook is its specification, and the session fee counts toward that work.
+- No dependency on us. What you get is a document, not a system: nothing to install, nothing to license, and no next step you are obliged to take.
+- If you do go on to build — a shared memory system, or a context layer for an AI agent — the playbook is its specification, the session fee counts toward that work, and what gets built is open source and runs on your own infrastructure.
 
 ## Who it is for
 
