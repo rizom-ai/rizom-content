@@ -1,5 +1,5 @@
 ---
-visibility: restricted
+visibility: shared
 ---
 # Rizom — investor target profile
 
