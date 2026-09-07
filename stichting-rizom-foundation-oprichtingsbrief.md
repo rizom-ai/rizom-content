@@ -5,40 +5,59 @@ visibility: restricted
 
 Brief aan de notaris, versie 7 september 2026. Vervangt de versie van augustus.
 
+Geachte [naam notaris],
+
+Hierbij de uitgangspunten voor de oprichting van de stichting, in drie onderdelen: naam, doelstelling en financiering, met aan het slot de planning.
+
 ## 1. Naam
 
-- Statutaire naam: Stichting Rizom Foundation. Het woord "stichting" moet volgens art. 2:286 lid 4 sub a BW deel uitmaken van de statutaire naam, dus "Rizom Foundation" alleen kan niet in de akte. Door beide in de naam op te nemen komt de akte letterlijk overeen met de naam die we in Engelstalige contracten en subsidieaanvragen voeren — dan is geen aparte handelsnaamregistratie nodig en hoeft nergens een "handelend onder de naam"-voetnoot bij.
-- In dagelijks gebruik en in Engelstalige copy: the Rizom Foundation. Dat mag zonder meer, zolang het geen onjuiste indruk van de rechtsvorm geeft.
-- Wil je bij de KvK even checken of de naam vrij is? Het woordmerk "Rizom" wordt door Rizom B.V. gedeponeerd en later aan de stichting overgedragen — de depotdatum is wat telt, dus dat spoor loopt parallel. Drie klassen: 35 (consultancy), 41 (opleiding, workshops) en 42 (SaaS en certificeringsdiensten, beperkt tot kennismanagement). Klasse 9 (software als product) laten we bewust weg wegens een bestaand merk in die klasse. "Rizom Certified" volgt later als apart EU-certificeringsmerk op naam van de stichting. De houder van zo'n merk mag de gecertificeerde diensten zelf niet leveren, en dat is precies de rol van de stichting.
-- Eén ding dat ik nog moet bevestigen: de statutaire zetel. Voorstel is dezelfde gemeente als Rizom B.V., tenzij jij een reden ziet om dat anders te doen.
+De statutaire naam wordt Stichting Rizom Foundation. Het woord "stichting" moet op grond van art. 2:286 lid 4 sub a BW deel uitmaken van de naam; "Rizom Foundation" alleen is dus niet mogelijk. Door beide elementen op te nemen komt de statutaire naam overeen met de naam die in Engelstalige contracten en subsidieaanvragen wordt gevoerd, zodat geen afzonderlijke handelsnaam hoeft te worden ingeschreven. In het dagelijks gebruik en in Engelstalige teksten wordt "the Rizom Foundation" gehanteerd.
+
+Ik verzoek u na te gaan of de naam bij de Kamer van Koophandel beschikbaar is.
+
+Het woordmerk "Rizom" wordt door Rizom B.V. gedeponeerd in de klassen 35 (bedrijfsadvisering), 41 (opleiding en workshops) en 42 (software as a service en certificeringsdiensten, beperkt tot kennismanagement). Klasse 9 blijft vanwege een bestaand merk in die klasse buiten het depot. Het merk wordt na registratie aan de stichting overgedragen. Voor "Rizom Certified" wordt later een afzonderlijk EU-certificeringsmerk op naam van de stichting aangevraagd; de houder van een certificeringsmerk mag de gecertificeerde diensten niet zelf verrichten, wat aansluit bij de rol van de stichting.
+
+Voor de statutaire zetel stel ik de gemeente voor waar Rizom B.V. gevestigd is. Ik verneem graag of u daar bezwaren tegen ziet.
 
 ## 2. Doelstelling
 
-De kern: de stichting houdt en beheert de kern-IP en het merk van Rizom Brains als open commons. Concreet in de statuten:
+De stichting houdt en beheert de kern-IP en het merk van Rizom Brains als open commons. In de statuten wordt de doelstelling als volgt uitgewerkt:
 
-- het houden van het auteursrecht op de kernsoftware, de TMS-laag (de compositielaag) en het protocol (de lexicons), en van de merkrechten ("Rizom", "Rizom Brains", "Rizom Certified");
-- die software permanent beschikbaar houden onder een vrije/open-source licentie, zodat niemand hem kan afsluiten of privatiseren. De runtime staat sinds 29 juli onder AGPL-3.0-only; de SDK, de protocolcontracten en de thema's onder Apache-2.0, zodat partners er vrij op kunnen bouwen. De statuten moeten die tweedeling toelaten en niet alles op AGPL vastzetten; wat ze wél moeten vastleggen is dat de kern nooit onder een gesloten licentie kan worden gebracht;
-- het beheren van de methodologie, het trademark-beleid en het certificerings- en partnerregister;
-- onderzoek naar en publicatie over zelf-bezeten kennisinfrastructuur, en publieke programma's: certificeringstrainingen, partnerdagen, cohorten en pop-up-edities met een onderzoekspartner. Neem in de doelstelling ook op dat de stichting daarvoor ruimte in gebruik of in eigendom mag houden. Broedplaats-achtige regelingen staan alleen open voor stichtingen met een publiek doel, en dat wil ik niet later hoeven toevoegen;
-- het verlenen van een exclusieve, eeuwigdurende, onherroepelijke en sublicentieerbare commerciële licentie terug aan Rizom B.V. (de "licence-back"), die een wisseling van zeggenschap over de B.V. overleeft. Zonder deze licentie is de B.V. leeg; de overdracht van de IP gebeurt daarom nooit zonder de licentie.
+a. het houden van het auteursrecht op de kernsoftware, de TMS-laag (de compositielaag) en het protocol (de lexicons), en van de merkrechten "Rizom", "Rizom Brains" en "Rizom Certified";
 
-Zonder winstoogmerk; geen uitkeringen aan oprichters of bestuurders. Twee bepalingen die er verplicht in moeten:
+b. het duurzaam beschikbaar houden van die software onder een vrije/open-source licentie. De runtime is sinds 29 juli 2026 gelicentieerd onder AGPL-3.0-only; de SDK, de protocolcontracten en de thema's onder Apache-2.0, zodat derden daarop kunnen voortbouwen. De statuten dienen deze tweedeling toe te laten en geen enkele licentie voor te schrijven; wel dient te worden vastgelegd dat de kern nooit onder een gesloten licentie kan worden gebracht;
 
-- Onafhankelijke meerderheid in het bestuur, te allen tijde gegarandeerd. Bestuur van 3 tot 5 leden; ik neem het voorzitterschap, de twee andere zetels (secretaris, penningmeester) zijn onafhankelijk van de B.V.
-- Voorbehouden besluiten, die uitsluitend door de onafhankelijke leden worden genomen terwijl de voorzitter zich statutair onthoudt: wijziging of beëindiging van de licentie, elke overdracht of bezwaring van de IP en de merken, certificerings- en delistingbesluiten waarbij de B.V. of een lid belang heeft, geschillen over de commons-opdracht, en élke transactie tussen stichting en B.V. — inclusief door subsidie gefinancierde onderaanneming. De doorslaggevende stem van de voorzitter geldt alleen bij gewone besluiten en raakt deze materie nooit.
+c. het beheren van de methodologie, het merkbeleid en het certificerings- en partnerregister;
 
-Mijn voorstel: formuleer de doelstelling meteen ANBI-bestendig (algemeen nut, geen winstoogmerk, bestemming batig saldo bij ontbinding naar een gelijksoortig doel). De ANBI-aanvraag zelf doen we pas ná oprichting, maar de tekst moet er nu al op passen — anders moeten we later terug naar de notaris.
+d. onderzoek naar en publicatie over zelf-bezeten kennisinfrastructuur, en het organiseren van publieke programma's (certificeringstrainingen, partnerdagen, cohorten en pop-up-edities met een onderzoekspartner), met de bevoegdheid daartoe ruimte in gebruik of in eigendom te houden;
 
-## 3. Hoe de stichting aan geld komt
+e. het verlenen van een exclusieve, eeuwigdurende, onherroepelijke en sublicentieerbare commerciële licentie aan Rizom B.V. (de "licence-back"), die een wisseling van zeggenschap over de B.V. overleeft. De overdracht van de IP aan de stichting vindt niet plaats zonder deze licentie.
 
-Drie bronnen, in volgorde van gewicht:
+De stichting heeft geen winstoogmerk en doet geen uitkeringen aan oprichters of bestuurders. Twee bepalingen zijn essentieel:
 
-- Subsidies voor open infrastructuur en commons. Vanaf de akte is de stichting de aanvrager-of-record voor deze categorie, als aanvrager of als externe partner van een aanvrager. Commerciële instrumenten en de aanvragen die de B.V. al heeft lopen blijven bij de B.V. Investeringskapitaal gaat uitsluitend naar de B.V.; de stichting neemt geen investeerders.
-- Commons-afdracht. Van elke opdracht die onder het merk wordt geleverd gaat 25% naar de commons (de 60/15/25-verdeling: levering / acquisitie / commons). Dat geldt voor de B.V. én voor gecertificeerde partners; het ís de licentievergoeding voor de licence-back. Er is geen aparte licentievergoeding daarnaast.
-- Donaties van particulieren (richtbedragen €1.000 – €10.000), gekoppeld aan het onderzoeks- en essayprogramma.
+- Een onafhankelijke meerderheid in het bestuur, te allen tijde gewaarborgd. Het bestuur bestaat uit drie tot vijf leden. Ik neem het voorzitterschap op mij; de secretaris en de penningmeester zijn onafhankelijk van Rizom B.V.
 
-Bij oprichting is er nog geen kasstroom en geen personeel; bestuursleden krijgen geen vergoeding (de statuten laten dat wel toe, zodat het bestuur later zelf beleid kan vaststellen als de commons-stroom het draagt). De oprichtingskosten worden door Rizom B.V. gedragen.
+- Voorbehouden besluiten, die uitsluitend door de onafhankelijke bestuursleden worden genomen, waarbij de voorzitter zich statutair van stemming onthoudt: wijziging of beëindiging van de licentie; elke overdracht of bezwaring van de IP en de merken; certificerings- en delistingbesluiten waarbij Rizom B.V. of een bestuurslid belang heeft; geschillen over de commons-opdracht; en elke transactie tussen de stichting en Rizom B.V., met inbegrip van door subsidie gefinancierde onderaanneming. De doorslaggevende stem van de voorzitter geldt uitsluitend bij gewone besluiten.
 
-## Timing
+Ik verzoek u de doelstelling ANBI-bestendig te formuleren (algemeen nut, geen winstoogmerk, bestemming van het batig saldo bij ontbinding aan een gelijksoortig doel). De ANBI-aanvraag volgt na de oprichting; de statuten moeten daar nu al op zijn ingericht.
 
-De oorspronkelijke datum (vóór eind augustus) is niet gehaald. De akte moet passeren vóór de investeringsronde van de B.V. sluit: investeerders kopen een B.V. die onder licentie van de stichting werkt, en dat moet op dat moment waar zijn. De drie handelingen — akte van overdracht auteursrecht, merkoverdracht en de exclusieve licence-back — worden als één pakket uitgevoerd, nooit los van elkaar, en worden goedgekeurd door de onafhankelijke bestuursleden alleen. De DCO is vanaf dag één zo geformuleerd dat de overdracht van het auteursrecht geen toestemming van bijdragers vereist; het is één akte.
+## 3. Financiering
+
+De stichting heeft drie inkomstenbronnen, in volgorde van gewicht:
+
+a. Subsidies voor open infrastructuur en commons. Vanaf de oprichting is de stichting voor deze categorie de aanvrager, dan wel externe partner van een aanvrager. Commerciële instrumenten en de lopende aanvragen van Rizom B.V. blijven bij de B.V. Investeringskapitaal gaat uitsluitend naar Rizom B.V.; de stichting trekt geen investeerders aan.
+
+b. Commons-afdracht. Van elke opdracht die onder het merk wordt geleverd gaat 25% naar de stichting (verdeling 60/15/25: levering, acquisitie, commons). Dit geldt voor Rizom B.V. en voor gecertificeerde partners en vormt de vergoeding voor de licence-back; er is geen afzonderlijke licentievergoeding.
+
+c. Donaties van particulieren (richtbedragen € 1.000 tot € 10.000), verbonden aan het onderzoeks- en essayprogramma.
+
+Bij oprichting heeft de stichting geen kasstroom en geen personeel. Bestuursleden ontvangen geen vergoeding; de statuten laten een vergoeding wel toe, zodat het bestuur daarover later beleid kan vaststellen. De oprichtingskosten worden gedragen door Rizom B.V.
+
+## 4. Planning
+
+De akte dient te passeren vóór het sluiten van de investeringsronde van Rizom B.V. De drie rechtshandelingen — de akte van overdracht van het auteursrecht, de overdracht van de merken en de licence-back — worden als één geheel verleden, niet afzonderlijk, na goedkeuring door de onafhankelijke bestuursleden. De bijdragersverklaring (DCO) is vanaf het begin zo geformuleerd dat de overdracht van het auteursrecht geen toestemming van individuele bijdragers vereist.
+
+Met vriendelijke groet,
+
+Jan Hein Hoogstad
+Rizom B.V.
