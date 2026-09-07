@@ -1,0 +1,4 @@
+---
+title: Ecosystem-Based Organizational Design
+---
+Rizom presents organizational design as an ecosystem architecture practice focused on building diverse, resilient communities and organizations. Its model is organic, decentralized, and connected through shared knowledge rather than physical proximity. The organization draws on the rhizome metaphor to emphasize distributed growth, resource sharing, regeneration, adaptation, and development from multiple points. Rizom combines community membership, curated collective projects, and a core ownership group as interconnected layers of participation. Its broader purpose is to create environments where people can develop their strengths, collaborate around shared interests, and contribute to sustainable social and financial outcomes. This approach treats organizational health as an ongoing practice of cultivating relationships, capabilities, and opportunities.
