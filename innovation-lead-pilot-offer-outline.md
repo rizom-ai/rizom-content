@@ -1,60 +1,69 @@
 # Innovation Lead Pilot — Offer Outline
 
-*Drafted 2026-08-09. The reusable shape for any organisation that wants to open a new vertical with a Brain application and become a certified delivery partner. Pricing follows the published price bands; partner economics follow the certified partner model.*
+*Drafted 2026-08-09, redrafted 2026-09-07. The reusable shape for any organisation that wants to open a new vertical with a Brain application and become a certified delivery partner. Canonical text for the two-page PDF (rizom-innovation-lead-pilot.pdf). Pricing follows the published price bands in [[fundraising-strategy-and-decisions]]; partner economics follow [[certified-partner-model-decisions]]; the first step is the Knowledge Session as sold in [[close-kit-knowledge-session]].*
 
-## Who this is for
+# Your organisation forgets faster than it learns.
 
-An organisation with deep access to a professional field — an industry association, agency, publisher, or consultancy — that wants to (1) co-develop the first Brain application for that field and (2) become the certified partner who sells and delivers it there. We call this role the **Innovation Lead**: a partner from day one, a customer at most once.
+*Build its Brain with us in six months — and become the certified partner who delivers Brains to organisations like yours.*
 
-The best-fit verticals share one trait: **knowledge that leaves faster than it accumulates** — young professional fields, high fluctuation, fast-moving practice. That is where organisational memory breaks, and where a Brain shows its value fastest.
+A Brain is shared memory for a team of people and AI. It captures knowledge where the work already happens — the chat where a decision lands, the email thread, the handover conversation — so the memory stays current without anyone maintaining a knowledge base. Ask it a question and it answers with the organisation's own context. People come and go; the memory stays.
 
-## The engagement — six months, three phases
+This pilot is for an organisation — an association, agency, publisher or consultancy — that wants two things: a Brain built for its own work, and the certified right to sell and deliver Brains to organisations like it. We call that role the **Innovation Lead**: a partner from day one, a customer at most once.
 
-- **Month 1 — Diagnosis.** A Knowledge Session: individual interviews with 6–10 people from the target field (the "fragility test": what does this person know that nobody else does, and what breaks when they leave?), a half-day workshop, and a playbook mapping the expertise, trust boundaries and coordination patterns of the domain. This becomes the specification for the application. The Innovation Lead brings the concept, interviewees and domain knowledge; Rizom brings method, facilitation and synthesis.
-- **Months 2–4 — Co-development.** The Brain and its agent are built in short iterative cycles (roughly bi-weekly). A working version exists early — from about month two the partner is testing a live system, not reviewing mock-ups. The partner gives feedback, real content and domain corrections; Rizom does all engineering.
-- **Months 5–6 — Hardening and handover.** Validation with a real test user, documentation, deployment setup, and training the partner's team to operate and demonstrate the system independently.
+It works fastest where knowledge leaves faster than it accumulates: high turnover, fast-moving practice, young teams. Every departure takes a piece of the organisation's memory with it. That is where a Brain proves itself in weeks, not years.
 
-## The result
+## Six months, three phases
 
-A working, self-contained application: an organisational Brain with an acting agent for the chosen field — it captures knowledge, answers questions with the organisation's own context, and stays current as people come and go.
+- **Month 1 — Diagnosis.** The Knowledge Session: one-to-one interviews with six to ten people in your organisation (the fragility test: what does this person know that nobody else does, and what breaks when they leave?), a half-day workshop, and a playbook mapping its expertise, trust boundaries and coordination patterns. The playbook is the specification. You bring the concept, the interviewees and the domain; we bring the method, the facilitation and the synthesis.
+- **Months 2–4 — Co-development.** We build the Brain and its agent in short cycles, roughly bi-weekly. A working version exists early: from about month two you are testing a live system, not reviewing mock-ups. You give feedback, real content and domain corrections; we do all the engineering.
+- **Months 5–6 — Hardening and handover.** Validation with a real test user, documentation, deployment setup, and training your team to operate and demonstrate the system without us.
 
-- The platform is **open source (AGPL)** and self-hostable; all content lives as plain, portable markdown. The deployment and every byte in it belong to whoever runs it — no lock-in by design.
-- Handover includes deployment documentation, an operations guide, and the phase-one playbook.
-- Deployment works like wordpress.org, not wordpress.com: open-source software installed and run on own infrastructure at no licence cost. Handover training covers standing up an instance for a customer independently.
+## What you bring
 
-## What the Innovation Lead provides
+- The use case and access to your organisation: interviewees, sample content.
+- Time, shaped by phase. Month 1 is the substantial ask — two to three days in total for the interviews and the workshop. From month 2: one fixed weekly touchpoint of 60–90 minutes plus light asynchronous feedback, two to four hours a week.
+- A test user. A fictional end customer is enough to build against for the first months; one real test user in the final two months — not necessarily paying — turns the pilot into a sellable reference.
+- No infrastructure. The pilot instance runs on Rizom infrastructure, included in the fee, and is handed over at the end.
 
-- The use-case concept and domain access (interviewees, sample content).
-- Availability, phase-shaped: month 1 is the substantial ask — roughly 2–3 days total for interviews and workshop. From month 2: one fixed weekly touchpoint of 60–90 minutes plus light asynchronous feedback (2–4 hours per week).
-- A fictional end customer suffices to build against for the first months; **one real test user in the final two months** (not necessarily paying) turns the pilot into a sellable reference.
-- No infrastructure during development — the pilot instance runs on Rizom infrastructure, included in the fee, handed over at the end.
+## What you have after six months
 
-## Costs — and who pays
+A working, self-contained application: a Brain with an agent, built for your organisation. It captures knowledge, answers with the organisation's own context, and stays current as people come and go.
 
-Role first: the Innovation Lead is a **partner**, not a customer. In steady state, end customers pay for engagements, and every engagement splits three ways: **60% to whoever delivers, 15% to whoever brought the client, 25% to the commons** that funds the open platform. Partners pay no entry fee and no licence fee — the 25% commons share *is* the licence. Certification happens by co-delivering one real, paid engagement, and the candidate is **paid on that engagement, not charged for it**. The pilot can start on either side of that line:
+- The platform is open source (AGPL) and self-hostable; every piece of content is plain, portable markdown. The deployment and every byte in it belong to whoever runs it — no lock-in by design.
+- It runs the way open-source software should: installed on your infrastructure or a customer's, at no licence cost. Handover training covers standing up an instance for a customer yourselves.
+- Handover includes deployment documentation, an operations guide and the phase-one playbook.
 
-**Path A — start now, partner as launch client.**
-- **EUR 15,000 fixed** for the six months — the published early-adopter band for a pilot build (standard EUR 35,000). The early-adopter rate is exchanged for co-delivery and public reference-case rights. The engagement doubles as the certification apprenticeship, and the first-mover position in the vertical belongs to the partner.
-- Invoicing staged: EUR 5,000 at signing (the Knowledge Session, a standalone go/no-go step), remainder in milestone tranches.
+## Two ways to start — and who pays
 
-**Path B — bring the first client, start when they sign.**
-- The end customer pays the pilot build at the **standard price of EUR 35,000**. The early-adopter rate rewards co-delivery and reference rights — in Path B those come from the partner, not the client. The partner co-delivers as its certification apprenticeship and earns from the first invoice: the 15% acquisition share (EUR 5,250) plus a delivery share for the work it carries. It costs the partner nothing but time.
-- Because the split is percentages, pricing stays flexible without anyone being quietly squeezed: if a strategic first client needs a softer entry, every share scales down with the price.
+Every Rizom engagement splits three ways: **60% to whoever delivers, 15% to whoever brought the client, 25% to the commons** that funds the open platform. Partners pay no entry fee and no licence fee — the commons share *is* the licence. And certification is not an exam: you earn it by co-delivering one real, paid engagement, and you are paid on that engagement, not charged for it. This pilot is that engagement. It can start from either side of the line.
 
-**The early-adopter rule (decided 2026-08-09): the discount is consideration-based, not time-based.** It is earned by what the counterparty renders — co-delivery, reference rights, first-mover risk — not by the calendar. This protects the standard band the moment partners start bringing deals.
+**Path A — you are the launch client.** EUR 15,000 fixed for the six months; the standard price is EUR 35,000. The difference is earned, not timed: you co-deliver, you stand as the public reference case, you carry the first-mover risk. Invoicing is staged — EUR 5,000 at signing for the Knowledge Session, which stands on its own and gives both sides a go/no-go, then milestone tranches across the build.
 
-In both paths: the result is freely usable afterwards — no licence fees, ever. An optional retainer (EUR 4,000/month early-adopter, EUR 7,000 standard) covers managed hosting, upgrades and support; cancellable, since the exported system can always be self-hosted.
+**Path B — your first client is the launch client.** They pay the standard EUR 35,000. You co-deliver, which certifies you, and you earn from the first invoice: the 15% acquisition share (EUR 5,250) plus your part of the 60% delivery share. That part is allocated by role — typically you run the diagnosis and the domain work, we run the engineering — and fixed in the engagement agreement, so you know your number before anyone signs. It costs you nothing but time. And because the split is percentages, a softer price for a strategic first client scales every share down together; nobody is squeezed quietly.
+
+In both paths the result is yours to use, free of licence fees, for good. If you would rather not run it, a retainer — EUR 4,000/month early-adopter, EUR 7,000 standard — covers hosting, upgrades and support. Monthly and cancellable, because the exported system can always be self-hosted.
 
 ## How the Innovation Lead earns
 
-After the pilot, the Innovation Lead is a certified channel and delivery partner. Rizom scales through certified partners, not payroll — and certification happens exactly one way: co-delivering a real engagement. The pilot is that apprenticeship, on either path.
+After the pilot you are a certified partner: you sell and deliver Brain engagements under the Rizom name and methodology, at the published price bands. Source and deliver a deal and you keep 75%. Two builds and two retainers a year at standard pricing is roughly EUR 240,000 through your hands — three quarters of it yours, where you also operate the hosting. You keep your firm, your clients and everything you build. Leaving the network costs you only the name.
 
-A certified partner sells and delivers Brain engagements under the Rizom name and methodology at the published bands. Sourcing and delivering a deal keeps 75%. At standard pricing, two builds and two retainers a year generate roughly EUR 240,000 in engagement revenue, of which the partner keeps three quarters. The partner keeps its own firm, clients and everything it builds — leaving the network costs only the name.
+The head start is the point. Everything built for your organisation in the pilot — its knowledge model, agent behaviours, templates — becomes the toolkit you deploy for the next organisation like yours, with a reference case that carries your name. The plugin layer is Apache-licensed, so what you build on top is yours to sell. There is no royalty on modules; the advantage is being first and fastest in the market you opened.
 
-On reusable building blocks: everything domain-specific developed in the pilot (knowledge model, agent behaviours, templates) becomes the toolkit the partner deploys for the next customers in that vertical, with the reference case carrying their name. The plugin layer is Apache-licensed so partners can build and commercially exploit extensions. There is no passive royalty on modules — participation means being first and fastest in the vertical the partner opened, with the margin structure above.
+## Where it stands
+
+Brains are running in pilots across innovation networks, sustainability, and art and academia. The platform is live and open source. The first partner certifications run on real, paid engagements.
+
+## Start with the Knowledge Session
+
+Three weeks, EUR 5,000 fixed. It stands on its own — a map of who in your organisation knows what, and what breaks when they leave — and counts in full toward the pilot. Bring the concept and six to ten people who know the work.
+
+Jan Hein Hoogstad · Rizom · yeehaa@rizom.ai · rizom.ai
+
+---
 
 ## Open items when tailoring to a prospect
 
 - Confirm which path to lead with (A closes faster; B is the steady-state model).
 - Sequence against other live apprenticeships — each co-delivery draws on the same Rizom delivery capacity.
-- The month-1 interview access is the gating prerequisite; verify the prospect can actually produce 6–10 interviewees from the target field.
+- The month-1 interview access is the gating prerequisite; verify the prospect can actually produce six to ten interviewees from its own organisation.
+- Propose a session date in the cover email; the date is the close.
