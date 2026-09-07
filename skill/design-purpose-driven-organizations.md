@@ -2,17 +2,18 @@
 name: Design Purpose-Driven Organizations
 description: >-
   Design ecosystem-based organizations with clear missions, distributed
-  ownership, and structures that support collaboration and autonomy.
+  ownership, and collaborative team structures.
 tags:
   - organization
   - architecture
   - agency
-  - identity
+  - community
+  - governance
 examples:
+  - Design an ecosystem-based organization for a mission-driven platform.
+  - Compare distributed ownership models for a growing collective.
   - >-
-    How could we design an organization around an ecosystem rather than a
-    hierarchy?
-  - What distributed ownership model would best support our mission?
-  - Help us clarify the roles and relationships in a purpose-driven collective.
+    Create a team structure that supports collaboration across autonomous
+    groups.
 ---
 
