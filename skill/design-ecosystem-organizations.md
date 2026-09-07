@@ -1,8 +1,8 @@
 ---
 name: Design Ecosystem Organizations
 description: >-
-  Design organizational structures that coordinate communities, teams, partners,
-  and distributed ownership around a shared mission.
+  Design organization structures that coordinate communities, teams, partners,
+  and distributed ownership around shared missions.
 tags:
   - organization
   - architecture
@@ -13,10 +13,10 @@ examples:
     How could we design an ecosystem-based organization with distributed
     ownership?
   - >-
-    Compare cooperative, networked, and platform organizational models for our
-    initiative.
+    Create an organizational model connecting a core team, community, and
+    partner network.
   - >-
-    Create a governance structure connecting a core team with independent
-    partners.
+    What governance structure would support collaboration without centralizing
+    all decision-making?
 ---
 
