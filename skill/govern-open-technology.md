@@ -1,18 +1,18 @@
 ---
 name: Govern Open Technology
 description: >-
-  Develop governance approaches for open-source and self-hosted software that
-  balance autonomy, sustainability, contribution, and accountability.
+  Develop governance practices for open-source and self-hosted software that
+  balance community participation, stewardship, and reliability.
 tags:
   - architecture
   - ai-systems
+  - organization
   - governance
-  - open-source
 examples:
-  - Create a governance model for a self-hosted open-source platform.
+  - Draft governance principles for a self-hosted open-source platform.
+  - Design a contributor and maintainer model for a community software project.
   - >-
-    How should an open-source AI project make decisions and manage
-    contributions?
-  - 'Compare foundation-led, community-led, and company-led software governance.'
+    Compare centralized and distributed governance for an open technology
+    ecosystem.
 ---
 
