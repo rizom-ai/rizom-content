@@ -3,7 +3,7 @@ visibility: shared
 ---
 # Rizom — Investor Longlist v2
 
-7 September 2026. Profile: [[rizom-investor-target-profile]]. Consolidated index: 36 organisations (12 A, 18 B, 6 H), plus 8 individual research leads. None contacted or qualified for Rizom's actual terms. Historical structural evidence is not current cheque/mandate fit; no exact 25% commons-allocation precedent established.
+7 September 2026. Profile: [[rizom-investor-target-profile]]. Consolidated index: 37 organisations (12 A, 18 B, 7 H), plus 8 individual research leads. None contacted or qualified for Rizom's actual terms. Historical structural evidence is not current cheque/mandate fit; no exact 25% commons-allocation precedent established.
 
 Full details and original sources for the initial 28: [[rizom-investor-longlist]]. Full evidence, sources, new institutional records and individual leads: [[rizom-investor-precedents-and-leads]]. These linked notes are preserved, not overwritten. Current detailed local exports: investor-longlist.csv/.md and investor-angels.csv; analysis: investor-precedents.md.
 
@@ -43,7 +43,7 @@ Full details and original sources for the initial 28: [[rizom-investor-longlist]
 29. Neo — NEW; Bluesky 2023 seed lead. Current personnel, programme/direct-fund terms and cheque unknown.
 30. Protocol Labs / PL Capital — NEW; Bluesky 2023 seed participant; actual current investment entity, cheque and any token conditions require checking.
 
-## H — Hold / referral (6)
+## H — Hold / referral (7)
 
 31. firstminute capital — Element 2019 and Tana 2025 evidence strengthened; remains H because published GBP 1m–3m ticket exceeds this EUR 500k round.
 32. Point Nine — published USD 1m–10m per company; initial-versus-lifetime unclear.
@@ -51,6 +51,7 @@ Full details and original sources for the initial 28: [[rizom-investor-longlist]
 34. Open Core Ventures — company-building/open-core structure requires qualification; Catalyst sponsorship is not this equity round.
 35. Dawn Capital — NEW; Element 2019 Series A evidence; no current pre-seed/ticket fit established.
 36. Arches Capital — HOLD pending structural exception. Benelux pre-seed B2B software; EUR 250k–1m; often first investor/lead. Current official team: Frank Appeldoorn, Founder/Managing Partner; Lotte van Ditshuizen, Partner Fund I. Currently linked standard term sheet (filename June 2024): page 1 equity only, no SAFE/convertible; page 4 requires all company-related IP owned by company before closing. Independent foundation-owned core IP needs an explicit exception; acceptance of commons obligations and milestone tranches unverified. Any switch to priced equity requires a separate founder decision; current EUR 500k proposal unchanged. Template is not a bespoke offer or proof exceptions are impossible. Portfolio overlap to screen: Konekti, Learned, Cruit, Selection Lab. Sources: https://arches.capital/ ; https://arches.capital/about-us/ ; https://arches.capital/portfolio/ ; https://arches.capital/wp-content/uploads/2025/07/Standaard-Term-Sheet-Arches-Capital-incl.-comments-v2024June-1.pdf .
+37. Ground State Ventures / formerly QDNL Participations — HOLD / referral-only: specialist quantum computing, sensing, communications and infrastructure fund, not a demonstrated fit for Rizom's non-quantum coordination software. Official current team confirms Ton van 't Noordende as General Partner. Global earliest-stage investor; rebrand announced 28 April 2026, with USD 88m raised approaching final close (not verified completed final close). Recent deployment: led Arq's USD 1.4m TOTAL pre-seed round on 16 July 2026; individual cheque range unknown. AI/software portfolio labels remain quantum-context, not a generalist mandate. Personal angel activity, referral willingness/access, instrument policy and foundation/commons acceptance unverified. Do not count QDNL separately or reframe Rizom as quantum. Public route hello@gsv.vc. Sources: https://gsv.vc/ ; https://gsv.vc/blog/we-ve-changed-our-name-qdnl-participations-is-now-ground-state-ventures/ ; https://gsv.vc/blog/arq-pre-seed-announcement/ .
 
 ## Separate individual research leads (8)
 
