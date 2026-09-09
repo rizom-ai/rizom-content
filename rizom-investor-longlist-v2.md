@@ -53,6 +53,22 @@ Full details and original sources for the initial 28: [[rizom-investor-longlist]
 36. Arches Capital — HOLD pending structural exception. Benelux pre-seed B2B software; EUR 250k–1m; often first investor/lead. Current official team: Frank Appeldoorn, Founder/Managing Partner; Lotte van Ditshuizen, Partner Fund I. Currently linked standard term sheet (filename June 2024): page 1 equity only, no SAFE/convertible; page 4 requires all company-related IP owned by company before closing. Independent foundation-owned core IP needs an explicit exception; acceptance of commons obligations and milestone tranches unverified. Any switch to priced equity requires a separate founder decision; current EUR 500k proposal unchanged. Template is not a bespoke offer or proof exceptions are impossible. Portfolio overlap to screen: Konekti, Learned, Cruit, Selection Lab. Sources: https://arches.capital/ ; https://arches.capital/about-us/ ; https://arches.capital/portfolio/ ; https://arches.capital/wp-content/uploads/2025/07/Standaard-Term-Sheet-Arches-Capital-incl.-comments-v2024June-1.pdf .
 37. Ground State Ventures / formerly QDNL Participations — HOLD / referral-only: specialist quantum computing, sensing, communications and infrastructure fund, not a demonstrated fit for Rizom's non-quantum coordination software. Official current team confirms Ton van 't Noordende as General Partner. Global earliest-stage investor; rebrand announced 28 April 2026, with USD 88m raised approaching final close (not verified completed final close). Recent deployment: led Arq's USD 1.4m TOTAL pre-seed round on 16 July 2026; individual cheque range unknown. AI/software portfolio labels remain quantum-context, not a generalist mandate. Personal angel activity, referral willingness/access, instrument policy and foundation/commons acceptance unverified. Do not count QDNL separately or reframe Rizom as quantum. Public route hello@gsv.vc. Sources: https://gsv.vc/ ; https://gsv.vc/blog/we-ve-changed-our-name-qdnl-participations-is-now-ground-state-ventures/ ; https://gsv.vc/blog/arq-pre-seed-announcement/ .
 
+## Secondary-source candidates — not yet researched (10)
+
+Added 2026-09-09 from a saved LinkedIn post by Friso Schmid (Startup Fountain), which lists 54 European funds it says are actively investing in AI and describes them as investors who stated their criteria directly to Startup Fountain. That is the poster's claim, drawn from a closed community list, and none of it is verified here. **These are names to research, not qualified candidates.** For every one of them, cheque size, stage, lead or follow role, geographic mandate, pre-revenue appetite, and acceptance of independent foundation-owned IP and the commons obligations are all unchecked. No outreach.
+
+Already covered elsewhere in this note and deliberately not repeated: Curiosity VC (B), Peak (A), UNIIQ / InnovationQuarter (B). LUMO Labs is tracked separately on the yeehaa rover as a TTT-AI eligibility question, because that vehicle is reserved for AI spin-offs from Dutch knowledge institutions and eligibility is unresolved.
+
+Grouped as the post itself grouped them:
+
+- Software side: **Newion** · **Volta Ventures**
+- Writing bigger cheques: **Fortino Capital** · **TIN Capital** · **Holland Capital**
+- Seed upward: **Keen Venture Partners**
+- Named for technical depth: **Slimmer AI**
+- Regional public money, described as slower moving but often first in: **NV NOM** (Noord-Nederland) · **Oost NL** · **ROM InWest** (Noord-Holland)
+
+The post additionally claims more than 30 angels who do not appear on any public list. It does not name them; they are visible only inside the Startup Fountain community, which is now closed to non-members. Do not count them as leads.
+
 ## Separate individual research leads (8)
 
 Heather Meeker; Joe Beda; Bob Young; Amjad Masad; Amir Shevat; Brad Fitzpatrick; Katelyn Donnelly; Lars Rasmussen.
