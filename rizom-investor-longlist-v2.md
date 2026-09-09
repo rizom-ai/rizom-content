@@ -3,7 +3,7 @@ visibility: shared
 ---
 # Rizom — Investor Longlist v2
 
-7 September 2026. Profile: [[rizom-investor-target-profile]]. Consolidated index: 37 organisations (12 A, 18 B, 7 H), plus 8 individual research leads. None contacted or qualified for Rizom's actual terms. Historical structural evidence is not current cheque/mandate fit; no exact 25% commons-allocation precedent established.
+7 September 2026. Profile: [[rizom-investor-target-profile]]. Consolidated index: 37 researched organisations (12 A, 18 B, 7 H), plus 8 individual research leads, plus 10 secondary-source names added 2026-09-09 that have had no research at all and are counted separately. None contacted or qualified for Rizom's actual terms. Historical structural evidence is not current cheque/mandate fit; no exact 25% commons-allocation precedent established.
 
 Full details and original sources for the initial 28: [[rizom-investor-longlist]]. Full evidence, sources, new institutional records and individual leads: [[rizom-investor-precedents-and-leads]]. These linked notes are preserved, not overwritten. Current detailed local exports: investor-longlist.csv/.md and investor-angels.csv; analysis: investor-precedents.md.
 
