@@ -1,8 +1,8 @@
 ---
 name: Govern Open Technology Ecosystems
 description: >-
-  Design governance approaches for open-source and self-hosted software
-  communities, products, and partner networks.
+  Design governance, contribution, and operating models for open-source and
+  self-hosted software ecosystems.
 tags:
   - architecture
   - organization
@@ -11,7 +11,8 @@ tags:
 examples:
   - Create a governance model for a self-hosted open-source platform.
   - >-
-    How can we coordinate decision-making across contributors, partners, and
-    users?
+    How should contributors, maintainers, and partner organizations share
+    decision rights?
+  - Design a sustainable operating model for an open-source AI project.
 ---
 
