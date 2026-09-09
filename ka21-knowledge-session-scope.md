@@ -1,5 +1,5 @@
 ---
-visibility: restricted
+visibility: shared
 ---
 # KA21 — Knowledge Session Scope
 
