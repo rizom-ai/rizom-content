@@ -2,19 +2,43 @@
 routeId: brain
 sectionId: run
 ---
-# Run
 
-## Cap
-03 · See it run
+# You, Team, Network
 
-## Cap Note
-— your server, your model, nothing hidden
+## Label
+You, team, network
 
-## Headline
-Self-hosted means *legible*
+## Items
 
-## Intro
-The dashboard shows exactly what your brain knows and how it's running: the corpus by type, the model behind it (swap it anytime), uptime, and the machine faces it exposes — MCP, A2A, ATProto, RSS. One binary, your infrastructure.
+### Item 1
 
-## Note
-Widgets register from plugins, tabs derive from widget groups — *install a capability and its instruments appear here by themselves.*
+#### Title
+You
+
+#### Tag
+Available now
+
+#### Text
+A brain for your own practice. Ground it in your knowledge and equip it for the work you do.
+
+### Item 2
+
+#### Title
+Team
+
+#### Tag
+The team bundle
+
+#### Text
+A brain owned by a team. Colleagues contribute to its shared knowledge under the access rules you set.
+
+### Item 3
+
+#### Title
+Network
+
+#### Tag
+Emerging
+
+#### Text
+Independently owned brains exchange selected knowledge without turning everyone’s memory into one shared archive.

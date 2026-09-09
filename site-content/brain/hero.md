@@ -2,36 +2,91 @@
 routeId: brain
 sectionId: hero
 ---
+
 # Hero
 
-## Eyebrow
-The product
-
-## Provenance
-open source · self-hosted · Apache-2.0
+## Cap
+The tools
 
 ## Headline
-Build the agent that *represents you*
+Build the agent that *represents you.*
 
-## Standfirst
-You already wrote the answers — in notes, drafts, and half-finished essays. A brain turns that corpus into an agent that answers for you, publishes in your voice, and takes your seat in the network. Its life with you, in four chapters — with the actual screens.
+## Body
+
+- An agent grounded in what you know, equipped for your work, and able to work with other independently owned brains. Shape its role, choose its capabilities, and keep control of what you build.
+
+## Provenance
+· available now
 
 ## Primary Cta
 ### Label
-Get Your Brain →
+Start a brain ↓
 
 ### Href
-#quickstart
+\#quickstart
 
 ## Secondary Cta
 ### Label
-View on GitHub
+See what it can do
 
 ### Href
-https://github.com/rizom-ai
+\#answers
 
-## Chips
-- bun add -g @rizom/brain
-- runs on your server
-- model-agnostic
-- markdown corpus
+## Command
+bun add -g @rizom/brain
+
+## Footnote
+your server · your choice of model · markdown underneath
+
+## Chat
+### Title
+Ask Rizom anything.
+
+### Input Hint
+What do you know about…
+
+### Notice
+Public chat is coming soon. Questions can’t be submitted yet.
+
+### Topics Label
+Topics
+
+### Topics
+
+- open-source governance
+- partner-delivered services
+- why work is play
+
+## Navigation
+
+### Navigatio 1
+
+#### Label
+Answers
+
+#### Href
+\#answers
+
+### Navigatio 2
+
+#### Label
+Capabilities
+
+#### Href
+\#capabilities
+
+### Navigatio 3
+
+#### Label
+Collective
+
+#### Href
+\#collective
+
+### Navigatio 4
+
+#### Label
+Stays yours
+
+#### Href
+\#yours

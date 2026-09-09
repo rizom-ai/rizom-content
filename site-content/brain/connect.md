@@ -2,23 +2,43 @@
 routeId: brain
 sectionId: connect
 ---
-# Connect
+
+# Collective
 
 ## Cap
-04 · Connect
-
-## Cap Note
-— the part you saw on the homepage
+03 · Collective
 
 ## Headline
-Then it takes your seat *in the network*
+Different knowledge. *Shared work.*
 
-## Intro
-Publish an agent card and your brain becomes a light on the map: discoverable by peers, vouched into teams, matched to work by what you actually know — not by your job title. The map on the front page is this network, live.
+## Body
 
-## Cta
-### Label
-See the live map →
+- Your collaborators’ brains bring knowledge yours doesn’t have. Use their contributions to develop shared work, while each person or team keeps their own agent and knowledge.
+- Agent-to-agent calls make that exchange possible. Public profiles help you find relevant knowledge; access policies govern what a brain shares.
 
-### Href
-/
+## Aside
+### Text
+People choose the work and review contributions. A connection is a starting point, not a finished collaboration.
+
+### Links
+
+#### Link 1
+
+##### Label
+Explore the network ↗
+
+##### Href
+/network
+
+## Capture
+### Kind
+network
+
+### Alt
+Rizom’s saved-agent map: eight agents positioned by semantic distance, not demonstrated collaboration.
+
+### Caption
+Public network snapshot · 8 September 2026. Semantic proximity, not a record of collaborative work.
+
+### Open Label
+Open full-size network snapshot in a new tab
