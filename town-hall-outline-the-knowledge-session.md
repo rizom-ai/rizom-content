@@ -46,8 +46,8 @@ Triggers to listen for: a key person resigning, a reorg or merger, rapid hiring,
 ## 3. Run it on Rizom (20 min)
 
 Rules up front:
-- One person at a time. No cross-talk until everyone has answered.
-- Answers go into the shared doc as they come, three columns: expertise / trust / coordination.
+- One person at a time. Everyone else only listens. No cross-talk until everyone has answered.
+- People talk, I type. Nobody else writes. I put each answer into the shared doc as it comes, under one of three columns: expertise / trust / coordination.
 - I answer last.
 
 The two questions, to each person in turn:
@@ -55,7 +55,7 @@ The two questions, to each person in turn:
 2. What breaks if you're gone tomorrow?
 
 After the round:
-- Point at the thinnest spots on the map. Don't fix them now.
+- Read the doc back to the room. Point at the thinnest spots on the map. Don't fix them now.
 - Name what we just made: our own fragility test, and the first draft of the playbook template.
 
 ## 4. The thinking (5 min)
