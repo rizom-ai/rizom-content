@@ -1,16 +1,16 @@
 ---
 name: Form High-Performing Teams
 description: >-
-  Analyze capabilities and design algorithmic or collaborative approaches to
-  forming teams that match people, roles, and outcomes.
+  Analyze capabilities and design team structures that match people, roles, and
+  missions effectively.
 tags:
+  - organization
   - analysis
   - agents
-  - organization
-  - best-practices
+  - agency
 examples:
-  - How can we algorithmically assemble teams for a complex project?
-  - Design a capability-matching process for a distributed team.
-  - What principles should guide outcome-based team formation?
+  - Design an algorithm for forming teams around complementary skills.
+  - How can we match people to roles in an outcome-based organization?
+  - Create a team formation process for a distributed collective.
 ---
 
