@@ -6,15 +6,13 @@ description: >-
 tags:
   - knowledge-base
   - retrieval
+  - agents
   - content
-  - architecture
 examples:
-  - Design a knowledge architecture for a distributed organization.
+  - How can we build a knowledge system for a distributed team?
   - >-
-    Create a tagging and retrieval strategy for an AI-powered organizational
-    brain.
-  - >-
-    Define how teams and AI agents should contribute knowledge without
-    duplicating work.
+    Design a retrieval structure for organizational knowledge shared by humans
+    and AI agents.
+  - What practices help partners contribute knowledge without creating silos?
 ---
 

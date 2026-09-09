@@ -1,16 +1,18 @@
 ---
 name: Govern Open Technology Communities
 description: >-
-  Develop governance practices for open-source and self-hosted software
-  projects, including participation, stewardship, and decision-making.
+  Create governance approaches for open-source and self-hosted software that
+  balance autonomy, sustainability, contribution, and accountability.
 tags:
   - organization
-  - ai-systems
   - architecture
+  - community
   - best-practices
 examples:
-  - Write governance guidelines for a self-hosted open-source platform.
-  - Design contribution and stewardship rules for a community software project.
-  - 'Explain how to balance core maintainers, users, and external partners.'
+  - How should we govern a self-hosted open-source platform?
+  - >-
+    What contributor and ownership model can support a growing software
+    ecosystem?
+  - Help us design a sustainable governance process for an open-source project.
 ---
 
