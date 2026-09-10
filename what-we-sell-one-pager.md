@@ -23,4 +23,6 @@ Every organisation runs on knowledge that lives in people rather than in systems
 
 **No lock-in at any step.** We sell the work, not the software. The platform is open source (AGPL) and self-hostable, and every piece of content is plain, portable markdown. Memory this important belongs to the organisation that creates it: the workshop and the audit leave you with a document, the build leaves you with a system you can run yourself, and the retainer is cancellable because the exported system can always be self-hosted. You stay because it works, not because you are stuck.
 
-**The foundation underneath.** The approach is built on transactive memory systems — four decades of organisational psychology on why some teams consistently outperform equally talented ones, extended by Rizom to teams that now include AI. The science, and why it matters now, is one more page: see the companion pager "Living Memory."
+**Start with the audit.** Three weeks, EUR 5,000 fixed, and it credits in full toward a build. Bring six to ten names who know the work.
+
+**The foundation underneath.** Built on transactive memory systems — four decades of organisational psychology on how teams share knowledge, extended by Rizom to teams that now include AI.
