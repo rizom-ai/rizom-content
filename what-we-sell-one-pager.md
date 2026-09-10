@@ -13,7 +13,7 @@ Every organisation runs on knowledge that lives in people rather than in systems
 
 **What we sell.** Five products. Each stands on its own, and each one's result is the next one's starting point.
 
-- **See it — Team Workshop · €1,500 half-day in-house (up to 15 people), €750 online (90 minutes).** Your team leaves the room agreeing on who does what, who decides what, and what the AI is for, usually the first time anyone has seen it written down. Half a day together, on site or online. If the picture shows gaps, the audit is the next step.
+- **See it — Team Workshop · €1,500 half-day in-house (up to 15 people), €750 online (90 minutes).** Your team leaves the room agreeing on who does what, who decides what, and what the AI is for, usually the first time anyone has seen it written down. Half a day together, online or on site, travel at cost. If the picture shows gaps, the audit is the next step.
 - **Audit it — Knowledge Audit · €5,000 fixed, three weeks.** You know, in writing, which people your organisation cannot afford to lose, what each of them carries, and where your AI tools are working without the context they need. Then what to do about it: three to five changes to roles, rituals and tooling, ranked by cost and impact. Six to ten interviews, a half-day mapping workshop, and a playbook that is yours to keep and credits in full toward a build.
 - **Build it — Build · €15,000 fixed as launch client (standard €35,000).** Your team asks the Brain before they ask the one person who knows, and the answer is there when that person is away. Shared memory for people and AI, captured from where work already happens so nobody maintains it, in daily use by one team: open source, on your infrastructure or hosted by us, and yours to run without us. The launch-client price is earned, not timed: you co-deliver, stand as the public reference case, and carry the first-mover risk.
 - **Run it — Retainer · €4,000/month as launch client (standard €7,000).** The memory stays current as people come and go, and a Living Memory Score, derived from the work itself, shows whether it is actually being used. Covers one Brain for one team: hosting, upgrades, keeping it current, and a monthly review with you of what the memory holds and where it is thin. New capabilities or a second team are a build, quoted separately. Monthly, cancellable.
@@ -23,6 +23,6 @@ Every organisation runs on knowledge that lives in people rather than in systems
 
 **Before you say yes.** Interviews are one to one, and nobody is quoted by name. The audit is of the organisation's memory, not its staff: nobody passes or fails. If it finds no dependency worth fixing, that is the finding, and the playbook is still yours to keep.
 
-**Start with the audit.** Three weeks, EUR 5,000 fixed, and it credits in full toward a build. Bring six to ten names who know the work.
+**Start with the audit.** Three weeks, EUR 5,000 fixed, and it credits in full toward a build. Bring six to ten names who know the work. Online anywhere, or on site with travel and stay at cost. yeehaa@rizom.ai · rizom.ai
 
 **Why Rizom.** Rizom runs on what it sells: rizom.ai is itself a Brain, and the platform is open source on GitHub. The method is transactive memory systems, four decades of research on how teams share knowledge, extended to teams that now include AI.
