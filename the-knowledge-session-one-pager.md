@@ -23,7 +23,7 @@ At the end of week three you know, in writing, which people your organisation ca
 
 - The playbook, yours to keep and act on.
 - An independent finding on where the organisation depends on individuals. It audits the organisation's memory, not its staff: nobody passes or fails.
-- No dependency on us. What you get is a document, not a system: nothing to install, nothing to license, and no next step you are obliged to take.
+- Interviews are one to one, and nobody is quoted by name. If the audit finds no dependency worth fixing, that is the finding, and the playbook is still yours to keep.
 - If you do go on to build — a shared memory system, or a context layer for an AI agent — the playbook is its specification, the audit fee counts toward that work, and what gets built is open source and runs on your own infrastructure.
 
 ## Who it is for
