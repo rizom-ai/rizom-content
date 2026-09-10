@@ -2,17 +2,17 @@
 name: Design Mission-Driven Organizations
 description: >-
   Design ecosystem-based organizations with distributed ownership, clear roles,
-  and mission-aligned operating principles.
+  and structures that align collective work with mission.
 tags:
   - organization
   - agency
   - architecture
-  - best-practices
+  - identity
 examples:
   - >-
-    How could we structure a mission-driven organization with distributed
-    ownership?
-  - Design an ecosystem model for a cooperative network of independent teams.
-  - What organizational principles support community-led growth?
+    Design an ecosystem-based organizational structure for a mission-driven
+    collective.
+  - Compare distributed ownership models for a growing cooperative.
+  - Help us define roles and decision rights across a decentralized team.
 ---
 

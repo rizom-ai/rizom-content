@@ -1,18 +1,18 @@
 ---
 name: Govern Open Technology Ecosystems
 description: >-
-  Design governance models for open-source, self-hosted, and partner-delivered
-  technology ecosystems.
+  Design governance, sustainability, and partner models for open-source,
+  self-hosted, and distributed technology ecosystems.
 tags:
   - architecture
   - ai-systems
   - organization
-  - best-practices
+  - agents
 examples:
-  - Create a governance framework for a self-hosted open-source platform.
+  - Create a governance model for a self-hosted open-source platform.
+  - Design a partner-delivered services model around an open-source product.
   - >-
-    How should an open-source project make decisions across contributors and
-    partners?
-  - Design a scalable partner-delivery model for an AI product.
+    How should an AI ecosystem balance community control, commercial services,
+    and technical stewardship?
 ---
 

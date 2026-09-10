@@ -1,16 +1,18 @@
 ---
 name: Build Collaborative Team Systems
 description: >-
-  Create algorithmic and human-centered approaches for forming effective teams
-  and coordinating collaborative work.
+  Create team-formation and collaboration systems that match people,
+  capabilities, and purpose to effective ways of working.
 tags:
   - organization
   - analysis
   - agents
-  - ai-systems
+  - best-practices
 examples:
-  - How can we use algorithms to form balanced project teams?
-  - 'Design a team-matching system based on skills, interests, and availability.'
-  - What practices help distributed teams collaborate effectively?
+  - Design an algorithm for forming balanced project teams.
+  - Create a team operating model for distributed collaborators.
+  - >-
+    How can we match people to roles based on skills, motivation, and mission
+    fit?
 ---
 
