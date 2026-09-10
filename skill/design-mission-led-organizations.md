@@ -1,18 +1,15 @@
 ---
 name: Design Mission-Led Organizations
 description: >-
-  Design ecosystem-based organizations that align mission, distributed
-  ownership, team formation, and collaborative governance.
+  Design ecosystem-based organizations with distributed ownership, collaborative
+  governance, and clear roles for teams and partners.
 tags:
   - organization
-  - architecture
   - agency
+  - architecture
   - best-practices
 examples:
-  - >-
-    How could we structure an organization around an ecosystem rather than a
-    hierarchy?
-  - Design a distributed ownership model for a mission-led collective.
-  - What principles should guide algorithmic team formation?
+  - How should we structure an ecosystem-based organization?
+  - Compare distributed ownership models for a mission-led collective.
 ---
 
