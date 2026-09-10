@@ -34,10 +34,9 @@ You are the right reader if one of these is true. Someone who carries a lot is l
 
 - **Price:** EUR 5,000, fixed. The audit stands on its own.
 - **Time:** three weeks. From you: six to ten names, and half a day.
-- **Where:** on site in Europe or Asia; online anywhere.
+- **Where:** online anywhere. On site in Europe or Asia, travel and stay at cost.
+- **Contact:** yeehaa@rizom.ai · rizom.ai
 
 ## Why Rizom
 
 Rizom runs on what it sells: rizom.ai is itself a Brain, and the platform is open source on GitHub. The method is transactive memory systems, forty years of research on how teams share knowledge, extended to teams that now include AI.
-
-Jan Hein Hoogstad · Rizom · yeehaa@rizom.ai · rizom.ai
