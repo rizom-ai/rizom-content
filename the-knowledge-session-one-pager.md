@@ -11,7 +11,7 @@ visibility: shared
 
 Every organisation runs on knowledge that lives in people rather than in systems: who knows what, whose judgment settles which questions, how information actually moves. It is rarely written down, because it always worked. It stops working when a key person leaves, a team grows fast, or an AI tool is asked to do a job nobody ever specified.
 
-The Knowledge Audit makes that knowledge visible, and puts the finding in writing.
+At the end of week three you know, in writing, which people your organisation cannot afford to lose, what each of them carries, where your AI tools are working without the context they need, and what to do about it.
 
 ## How it runs
 
