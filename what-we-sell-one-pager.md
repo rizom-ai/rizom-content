@@ -25,4 +25,4 @@ Every organisation runs on knowledge that lives in people rather than in systems
 
 **Start with the audit.** Three weeks, EUR 5,000 fixed, and it credits in full toward a build. Bring six to ten names who know the work.
 
-**The foundation underneath.** Built on transactive memory systems — four decades of organisational psychology on how teams share knowledge, extended by Rizom to teams that now include AI.
+**Why Rizom.** Rizom runs on what it sells: rizom.ai is itself a Brain, and the platform is open source on GitHub. The method is transactive memory systems, four decades of research on how teams share knowledge, extended to teams that now include AI.
