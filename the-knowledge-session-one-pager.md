@@ -34,7 +34,7 @@ You are the right reader if one of these is true. Someone who carries a lot is l
 
 - **Price:** EUR 5,000, fixed. The audit stands on its own.
 - **Time:** three weeks. From you: six to ten names, and half a day.
-- **Where:** online anywhere. On site in Europe or Asia, travel and stay at cost.
+- **Where:** online anywhere, or on site with travel and stay at cost.
 - **Contact:** yeehaa@rizom.ai · rizom.ai
 
 ## Why Rizom
