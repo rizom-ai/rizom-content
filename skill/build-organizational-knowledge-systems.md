@@ -1,17 +1,16 @@
 ---
 name: Build Organizational Knowledge Systems
 description: >-
-  Design knowledge architectures that capture, organize, and retrieve collective
-  intelligence across teams, platforms, and research initiatives.
+  Design systems that capture, organize, retrieve, and share collective
+  knowledge across teams and communities.
 tags:
   - knowledge-base
   - retrieval
   - content
-  - architecture
+  - organization
 examples:
-  - Design a knowledge system for a distributed collective.
-  - >-
-    How should we organize research, practice, and community knowledge for
-    retrieval?
+  - Design a knowledge architecture for a distributed collective.
+  - How can we make organizational knowledge easier to discover and reuse?
+  - Create a taxonomy and workflow for maintaining a shared knowledge base.
 ---
 

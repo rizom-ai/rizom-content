@@ -1,15 +1,18 @@
 ---
 name: Govern Open Technology Ecosystems
 description: >-
-  Develop governance practices for open-source and self-hosted software while
-  coordinating scalable partner-delivered services.
+  Establish governance practices for open-source, self-hosted, and AI-enabled
+  technology ecosystems.
 tags:
-  - architecture
   - ai-systems
-  - organization
+  - architecture
   - best-practices
+  - open-source-governance
 examples:
-  - Create a governance model for a self-hosted open-source platform.
-  - How can partners deliver services without weakening community control?
+  - Draft governance principles for a self-hosted open-source platform.
+  - >-
+    How should an AI ecosystem balance community contributions and core team
+    control?
+  - Create a decision-making framework for managing open-source infrastructure.
 ---
 
