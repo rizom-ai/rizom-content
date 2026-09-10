@@ -17,7 +17,7 @@ At the end of week three you know, in writing, which people your organisation ca
 
 1. **Interviews.** Six to ten conversations, one to one, 45 minutes each. The question for each person: what do you know that nobody else does, and what goes wrong if you are not here tomorrow.
 2. **Workshop.** Half a day with the team, on site or online. Together we draw the map: who knows what, whose judgment counts where, how information moves.
-3. **Report.** The map as it is today, across three dimensions — expertise, trust, coordination — with three to five interventions, ranked by cost and impact.
+3. **Report.** Who carries what, whose judgment settles which questions, how information moves, and which of your AI tools are working without the context they need. Three to five changes to roles, rituals and tooling, ranked by cost and impact. We walk you through it before it lands in your inbox.
 
 ## What you get
 
