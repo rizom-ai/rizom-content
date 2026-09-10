@@ -28,7 +28,7 @@ At the end of week three you know, in writing, which people your organisation ca
 
 ## Who it is for
 
-Whoever owns how the work flows: a director, a head of operations, a programme lead. Institutions — universities, libraries, museums, public bodies — and companies where a small team carries a lot of knowledge, or where an AI agent has been introduced and does not yet work reliably.
+You are the right reader if one of these is true. Someone who carries a lot is leaving, or has just left. The team has grown faster than its habits. An AI tool was given a job and nobody can say why it gets it wrong. You own how the work flows: a director, a head of operations, a programme lead, in an institution or a company where a small team carries a lot of knowledge.
 
 ## Practical
 
