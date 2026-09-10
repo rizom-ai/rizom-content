@@ -1,16 +1,16 @@
 ---
 name: Form High-Performance Teams
 description: >-
-  Analyze capabilities and working styles to form adaptive teams aligned with
-  outcomes, missions, and changing needs.
+  Design algorithmic and collaborative approaches to forming teams around
+  capabilities, goals, roles, and working relationships.
 tags:
-  - analysis
   - organization
+  - analysis
   - agency
-  - best-practices
+  - teams
 examples:
-  - How can we form teams algorithmically around complementary skills?
-  - Design an outcome-based team formation process.
-  - What factors should determine who collaborates on a project?
+  - Create a framework for matching people to project teams algorithmically.
+  - Design a team formation process for a distributed collective.
+  - Analyze which skills and working styles are needed for a new venture.
 ---
 
