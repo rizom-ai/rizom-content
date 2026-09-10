@@ -21,8 +21,6 @@ Every organisation runs on knowledge that lives in people rather than in systems
 
 **Who this is for.** You are the right reader if one of these is true. Someone who carries a lot is leaving, or has just left. The team has grown faster than its habits. An AI tool was given a job and nobody can say why it gets it wrong. You own how the work flows: a director, a head of operations, a programme lead. Current pilots run in innovation networks, sustainability, and art & academia.
 
-**Before you say yes.** Interviews are one to one, and nobody is quoted by name. The audit is of the organisation's memory, not its staff: nobody passes or fails. If it finds no dependency worth fixing, that is the finding, and the playbook is still yours to keep.
+**Before you say yes.** Interviews are one to one, and nobody is quoted by name. The audit is of the organisation's memory, not its staff: nobody passes or fails. If it finds no dependency worth fixing, that is the finding, and the playbook is still yours to keep. And we run on what we sell: rizom.ai is itself a Brain, open source on GitHub.
 
 **Start with the audit.** Three weeks, EUR 5,000 fixed, and it credits in full toward a build. Bring six to ten names who know the work. Online anywhere, or on site with travel and stay at cost. yeehaa@rizom.ai · rizom.ai
-
-**Why Rizom.** Rizom runs on what it sells: rizom.ai is itself a Brain, and the platform is open source on GitHub. The method is transactive memory systems, four decades of research on how teams share knowledge, extended to teams that now include AI.
