@@ -36,8 +36,8 @@ You are the right reader if one of these is true. Someone who carries a lot is l
 - **Time:** three weeks. From you: six to ten names, and half a day.
 - **Where:** on site in Europe or Asia; online anywhere.
 
-## The method
+## Why Rizom
 
-Built on transactive memory systems — forty years of research in organisational psychology on how teams share knowledge, extended to teams that now include AI.
+Rizom runs on what it sells: rizom.ai is itself a Brain, and the platform is open source on GitHub. The method is transactive memory systems, forty years of research on how teams share knowledge, extended to teams that now include AI.
 
 Jan Hein Hoogstad · Rizom · yeehaa@rizom.ai · rizom.ai
