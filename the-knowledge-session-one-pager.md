@@ -3,7 +3,7 @@ visibility: shared
 ---
 # The Knowledge Audit — One-Pager
 
-*Buyer-facing. Canonical text for the one-page PDF (rendered in the Rizom brand template; local at ~/Documents/network-outreach/session-one-pager.pdf). Product definition follows [[tms-services-plan]]; price follows [[fundraising-strategy-and-decisions]]; place in the suite follows [[what-we-sell-one-pager]]. Drafted 2026-09-03 as the Knowledge Session; reframed as an audit 2026-09-09.*
+*Buyer-facing. Canonical text for the one-page PDF (rendered in the Rizom brand template; local at ~/Documents/network-outreach/knowledge-audit-one-pager.pdf). Product definition follows [[tms-services-plan]]; price follows [[fundraising-strategy-and-decisions]]; place in the suite follows [[what-we-sell-one-pager]]. Drafted 2026-09-03 as the Knowledge Session; reframed as an audit 2026-09-09.*
 
 # AI didn't break your knowledge system. It exposed that you never had one.
 
