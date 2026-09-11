@@ -3,7 +3,7 @@ visibility: shared
 ---
 # KA21 — Knowledge Session Scope
 
-Scope document for the €5,000 first phase with KA21 GmbH, drafted 2026-09-09. Sent to KA21 as the basis on which they commission the phase and from which they write the version the school sees. Follows [[ka21-reply-draft-knowledge-session-scope]] (2026-09-08) and the second reply of 2026-09-09. Track: Path A of [[innovation-lead-pilot-offer-outline]]. Session product per [[the-knowledge-session-one-pager]]; pricing per [[fundraising-strategy-and-decisions]]; partner economics per [[certified-partner-model-decisions]]. Terms fixed here that are not in the offer outline: the exploratory conversation precedes commissioning; the go/no-go on the build is mutual; KA21's ownership of sector-specific artefacts is non-exclusive on the sector; the commons share is the licence; Rizom joins online, on site by agreement with travel at cost. Local editable copy: ~/Documents/ka21-knowledge-session-scope.md
+Scope document for the €5,000 first phase with KA21 GmbH, drafted 2026-09-09, revised 2026-09-11 after partner review (playbook as deliverable, co-delivery clause on the split, €15,000 arithmetic made explicit). Sent to KA21 as the basis on which they commission the phase and from which they write the version the school sees. Follows [[ka21-reply-draft-knowledge-session-scope]] (2026-09-08) and the second reply of 2026-09-09. Track: Path A of [[innovation-lead-pilot-offer-outline]]. Session product per [[the-knowledge-session-one-pager]]; pricing per [[fundraising-strategy-and-decisions]]; partner economics per [[certified-partner-model-decisions]]. Terms fixed here that are not in the offer outline: the exploratory conversation precedes commissioning; the go/no-go on the build is mutual; KA21's ownership of sector-specific artefacts is non-exclusive on the sector; the commons share is the licence; Rizom joins online, on site by agreement with travel at cost. Local editable copy: ~/Documents/ka21-knowledge-session-scope.md
 
 # Knowledge Session — Scope of the First Phase
 
@@ -45,7 +45,7 @@ If the school is not the right case, what was prepared carries to the next lead 
 
 The playbook: the map of where its knowledge sits and who it depends on, as it is today, with three to five interventions ranked by cost and impact. It is the school's to keep and act on, with or without any software. Nothing to install, nothing to license, nothing owed afterwards.
 
-The playbook is the product. Organisations commission the Knowledge Session for it on its own; the school receives it at no cost.
+The playbook is the deliverable. Organisations commission the Knowledge Session for it on its own; here KA21 commissions it and the school pays nothing.
 
 ## What KA21 provides
 
@@ -66,7 +66,7 @@ The playbook is the product. Organisations commission the Knowledge Session for 
 
 **Rizom's.** The method: how the interviews are run, how the workshop is built, how the playbook is structured, and the research it rests on. KA21 learns it by doing it, and as a certified partner uses it under the Rizom name. What stays with Rizom is the name and the certification. The platform is open source and held by nobody; Rizom stewards it.
 
-**KA21's.** Everything sector-specific the work produces: the qualification guide for education, and—if a build follows—the knowledge model, agent behaviours and templates. These are Apache-licensed and KA21's to sell and deploy. There is no licence fee or royalty on the toolkit itself; engagements KA21 sells under the Rizom name carry the standard split—60% to whoever delivers, 15% to whoever brought the customer, 25% to the commons that funds the platform—and that commons share is the licence. The advantage is being first in the market KA21 opened, with the reference case carrying its name; it is not an exclusive on the sector. KA21's own experience, firm and customer relationships are untouched.
+**KA21's.** Everything sector-specific the work produces: the qualification guide for education, and—if a build follows—the knowledge model, agent behaviours and templates. These are Apache-licensed and KA21's to sell and deploy. There is no licence fee or royalty on the toolkit itself; engagements KA21 sells under the Rizom name carry the standard split—60% to whoever delivers, 15% to whoever brought the customer, 25% to the commons that funds the platform—and that commons share is the licence. On engagements delivered together, the delivery share is divided by role and agreed before the work starts. The advantage is being first in the market KA21 opened, with the reference case carrying its name; it is not an exclusive on the sector. KA21's own experience, firm and customer relationships are untouched.
 
 **The school's.** All of its content: what people say in the interviews, the playbook, and every byte of any system later deployed for it—plain, portable markdown on a deployment the school owns. What KA21 carries to its next engagement is the structure of the work, not the school's knowledge. Nothing specific to the school leaves the school without its agreement.
 
@@ -78,7 +78,7 @@ None, on either side, at any step.
 - The phase does not commit KA21 or Rizom to a build, and does not commit the school to anything.
 - The school can stop after the conversation or after the session; so can KA21, and so can Rizom.
 
-The €5,000 stands on its own. If KA21 goes on to commission a build, it counts in full toward it.
+The €5,000 stands on its own. If KA21 goes on to commission the build, that is a further €10,000; session and build together are the €15,000 pilot.
 
 ## Afterwards
 
