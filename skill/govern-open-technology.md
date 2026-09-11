@@ -1,21 +1,17 @@
 ---
 name: Govern Open Technology
 description: >-
-  Design governance, contribution, and sustainability practices for open-source
+  Establish governance, contribution, and sustainability models for open-source
   and self-hosted software ecosystems.
 tags:
   - architecture
   - organization
+  - best-practices
   - ai-systems
-  - community
-  - governance
 examples:
-  - Create a governance model for a self-hosted open-source platform.
+  - Draft a governance model for a self-hosted open-source platform.
   - >-
-    How should an open-source AI project manage contributions and
-    decision-making?
-  - >-
-    Design a sustainable partner model for delivering services around open
-    software.
+    How should contributors make decisions and share ownership in this software
+    ecosystem?
 ---
 
