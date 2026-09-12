@@ -2,42 +2,41 @@
 routeId: brain
 sectionId: your-data
 ---
-# Your Data
+
+# Stays Yours
 
 ## Cap
-Your data, your rules
+04 · Stays yours
+
+## Headline
+Own the agent. *Not rent it.*
+
+## Body
+
+- Keep your knowledge in portable files. Run and extend the software yourself. Choose your providers—and change them without starting your knowledge base over.
 
 ## Items
 
 ### Item 1
 
-#### Marker
-M
-
 #### Title
-Markdown, not databases
+Files you can take with you.
 
 #### Text
-Every entity lives as a markdown file with frontmatter. Version-controlled with git. Readable without the brain running.
+Your notes and other text records are portable markdown with frontmatter. Version them with git; read them without the brain running.
 
 ### Item 2
 
-#### Marker
-S
-
 #### Title
-Self-hosted, open source
+Your server, your model.
 
 #### Text
-Deploy to your own server with one command, or run locally. Apache-2.0. No vendor lock-in, no fine print.
+Run the brain on your own server and choose its AI provider. Cloud models still process requests with that provider.
 
 ### Item 3
 
-#### Marker
-A
-
 #### Title
-AI model agnostic
+A commons, not a cage.
 
 #### Text
-Not tied to any single provider. Swap models, combine them, or bring your own.
+The runtime uses AGPL-3.0; SDK and contract packages use Apache-2.0. You can inspect, modify and contribute to the software.

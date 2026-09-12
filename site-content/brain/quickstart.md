@@ -2,75 +2,150 @@
 routeId: brain
 sectionId: quickstart
 ---
-# Quickstart
+
+# Quick Start
 
 ## Cap
 Quick start
 
-## Cap Note
-— one package, three commands
+## Headline
+Start with *your own material.*
 
-## Lines
+## Body
 
-### Line 1
+- Install Bun, then bring a folder of your own notes. The first useful question does not need a tidy archive.
 
-#### Kind
-comment
+## Code
+### Title
+terminal
 
-#### Text
+### Note
+@rizom/brain
+
+### Lines
+
+#### Line 1
+
+##### Text
 \# install
 
-### Line 2
+##### Indent
+0
 
-#### Kind
-command
-
-#### Text
-bun add -g @rizom/brain
-
-### Line 3
-
-#### Kind
+##### Kind
 comment
 
-#### Text
+#### Line 2
+
+##### Text
+$ bun add -g @rizom/brain
+
+##### Indent
+0
+
+##### Kind
+code
+
+#### Line 3
+
+##### Text
 \# create
 
-### Line 4
+##### Indent
+0
 
-#### Kind
-command
-
-#### Text
-brain init mybrain
-
-### Line 5
-
-#### Kind
+##### Kind
 comment
 
-#### Text
+#### Line 4
+
+##### Text
+$ brain init mybrain --recipe personal
+
+##### Indent
+0
+
+##### Kind
+code
+
+#### Line 5
+
+##### Text
+$ cd mybrain
+
+##### Indent
+0
+
+##### Kind
+code
+
+#### Line 6
+
+##### Text
+$ cp .env.example .env   # set AI_API_KEY
+
+##### Indent
+0
+
+##### Kind
+code
+
+#### Line 7
+
+##### Text
 \# run
 
-### Line 6
+##### Indent
+0
 
-#### Kind
-command
+##### Kind
+comment
+
+#### Line 8
+
+##### Text
+$ brain start
+
+##### Indent
+0
+
+##### Kind
+code
+
+## Options
+
+### Option 1
+
+#### Cap
+Run it yourself
+
+#### Title
+Read the setup guide.
 
 #### Text
-cd mybrain && brain start
+Configuration, providers, deployment to your own server, and how to connect Claude Desktop or Cursor over MCP.
 
-### Line 7
+#### Cta
+##### Label
+Open the docs ↗
 
-#### Kind
-ok
+##### Href
+https://docs.rizom.ai/
+
+### Option 2
+
+#### Cap
+Start with a session
+
+#### Title
+Map what your team knows first.
 
 #### Text
-✓ running in under a minute
+Map what your team knows and where context is missing, before deciding how a brain should fit.
 
-## Checks
+#### Cta
+##### Label
+Book a knowledge session ↗
 
-- Website and CMS on the shared web host
-- MCP server for assistants and tools
-- A2A discovery endpoint for agent-to-agent use
-- Plain-text content you can inspect and version with git
+##### Href
+/work

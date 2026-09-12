@@ -2,21 +2,32 @@
 routeId: brain
 sectionId: capture
 ---
-# Capture
+
+# Answers
 
 ## Cap
-01 · Capture
-
-## Cap Note
-— your corpus is the fuel; markdown is the format
+01 · Answers
 
 ## Headline
-Start with what's already *on your disk*
+Ask it *what you know.*
 
-## Intro
-Notes, essays, decisions, links — markdown files with frontmatter. Drop them in a folder or point the brain at your git repo and it reads, indexes, and embeds the lot. From then on, every save — in the studio or in your own editor — is a commit it learns from.
+## Body
 
-## Checks
-- Plain files — readable without the brain running
-- Draft → review → publish, tracked per entity
-- Your editor or the studio, both first-class
+- Ask it to find relevant material, explain an idea or develop a draft. Keep source references close so you can check its answer.
+- Use its own chat, or connect Claude Desktop, Cursor and any other MCP client. One brain behind all of them.
+
+## Aside
+### Text
+One brain for your knowledge, connected to the tools you already use.
+
+### Links
+
+## Capture
+### Kind
+chat
+
+### Alt
+Studio chat: a question about why a pilot started with one team, answered with three named sources.
+
+### Open Label
+Open full-size Studio example in a new tab
