@@ -18,7 +18,7 @@ Ask it *what you know.*
 
 ## Aside
 ### Text
-AI can still be wrong. The sources are there so you can check.
+One brain for your knowledge, connected to the tools you already use.
 
 ### Links
 
@@ -28,9 +28,6 @@ chat
 
 ### Alt
 Studio chat: a question about why a pilot started with one team, answered with three named sources.
-
-### Caption
-Studio interface with illustrative conversation content, not a recorded agent run.
 
 ### Open Label
 Open full-size Studio example in a new tab

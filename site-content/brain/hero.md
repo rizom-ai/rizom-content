@@ -32,12 +32,6 @@ See what it can do
 ### Href
 \#answers
 
-## Command
-bun add -g @rizom/brain
-
-## Footnote
-your server · your choice of model · markdown underneath
-
 ## Chat
 ### Title
 Ask Rizom anything.

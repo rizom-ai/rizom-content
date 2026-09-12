@@ -29,16 +29,3 @@ Explore the network ↗
 
 ##### Href
 /network
-
-## Capture
-### Kind
-network
-
-### Alt
-Rizom’s saved-agent map: eight agents positioned by semantic distance, not demonstrated collaboration.
-
-### Caption
-Public network snapshot · 8 September 2026. Semantic proximity, not a record of collaborative work.
-
-### Open Label
-Open full-size network snapshot in a new tab
