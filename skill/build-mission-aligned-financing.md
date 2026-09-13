@@ -1,18 +1,19 @@
 ---
 name: Build Mission-Aligned Financing
 description: >-
-  Create financing strategies and financial models that connect organizational
-  drivers, mission, and sustainable growth.
+  Create financing strategies and financial models that connect funding
+  decisions to mission, drivers, and sustainable growth.
 tags:
   - analysis
   - organization
-  - strategy
   - funding
+  - strategy
+  - best-practices
 examples:
-  - Build a driver-based financial model for a mission-led venture.
+  - Build a driver-based financial model for an AI startup.
+  - Identify open-source funding programs aligned with our mission.
   - >-
-    What funding options are available for an AI startup building open-source
-    infrastructure?
-  - Design a financing strategy that preserves community ownership.
+    Design a financing strategy that balances growth, ownership, and community
+    benefit.
 ---
 
