@@ -1,20 +1,16 @@
 ---
 name: Scale Partner-Led Services
 description: >-
-  Develop repeatable service models, governance practices, and operating systems
-  that enable partners to deliver consistent value at scale.
+  Design repeatable partner-delivered service models that extend capacity while
+  preserving quality, alignment, and shared value.
 tags:
   - organization
+  - agency
   - architecture
   - best-practices
-  - agency
 examples:
-  - >-
-    Design a partner-delivered service model that can scale without a large
-    central team.
-  - What governance is needed for a network of independent delivery partners?
-  - >-
-    Create a playbook for maintaining quality across a distributed service
-    ecosystem.
+  - Create a partner-delivered service model for our growing team.
+  - How can we scale delivery through aligned external partners?
+  - Design quality and governance standards for a distributed service network.
 ---
 
