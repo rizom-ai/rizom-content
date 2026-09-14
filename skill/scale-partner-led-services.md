@@ -1,18 +1,16 @@
 ---
 name: Scale Partner-Led Services
 description: >-
-  Develop scalable service models that use partners, shared capabilities, and
-  repeatable practices to expand impact without proportional internal growth.
+  Design scalable service models that extend a team’s capabilities through
+  partners, reusable methods, and clearly defined delivery systems.
 tags:
   - organization
   - agency
   - best-practices
-  - analysis
+  - architecture
 examples:
-  - How can we scale a service through a network of delivery partners?
-  - Design a partner enablement model for a small core team.
-  - >-
-    What operating practices make partner-delivered services consistent and
-    sustainable?
+  - How can a small team scale its services through trusted partners?
+  - Design a partner-delivered service model for organizational transformation.
+  - Create standards and workflows for consistent delivery across partner teams.
 ---
 
