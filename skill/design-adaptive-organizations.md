@@ -1,18 +1,18 @@
 ---
 name: Design Adaptive Organizations
 description: >-
-  Design ecosystem-based organizations with distributed ownership, algorithmic
-  team formation, and mission-aligned operating principles.
+  Design ecosystem-based organizations, distributed ownership structures, and
+  algorithmic approaches to forming effective teams.
 tags:
   - organization
   - agency
-  - identity
+  - architecture
   - best-practices
 examples:
-  - Design an organizational model for a distributed collective.
   - >-
-    How could algorithmic team formation support an ecosystem-based
-    organization?
-  - Compare different distributed ownership models for our team.
+    How could we design an ecosystem-based organization with distributed
+    ownership?
+  - What principles should guide algorithmic team formation?
+  - Compare different models for structuring autonomous teams.
 ---
 
