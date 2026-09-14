@@ -1,16 +1,16 @@
 ---
 name: Build Sustainable Financing Strategies
 description: >-
-  Create mission-aligned financial strategies using driver-based models and
-  funding pathways for startups, open-source projects, and communities.
+  Create financing and financial models that connect organizational drivers,
+  funding sources, and long-term mission outcomes.
 tags:
   - analysis
   - organization
-  - finance
-  - funding
+  - agency
+  - best-practices
 examples:
-  - Build a driver-based financial model for a mission-driven startup.
-  - What funding programs support AI and open-source projects?
-  - Design a financing strategy that balances growth with community ownership.
+  - Build a driver-based financial model for our organization.
+  - Which mission-aligned financing options fit an open-source startup?
+  - 'Help us evaluate grants, investment, and revenue-based funding.'
 ---
 
