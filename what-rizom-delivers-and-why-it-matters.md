@@ -9,13 +9,13 @@ Rizom exists to make that system visible, and to keep it alive.
 
 ## What Rizom is
 
-Rizom is a collective that builds open knowledge infrastructure and works with organisations on the knowledge that lives in their people. It has three parts.
+Rizom works with organisations on the knowledge that lives in their people. It has two parts.
 
 **A method.** Interviews with the people who carry the knowledge, a facilitated session in which the team draws its own map of who knows what and whose judgment counts, and a written playbook of what to change. The method is grounded in transactive memory systems: forty years of research on how teams share knowledge without everyone needing to know everything.
 
 **A platform.** Rizom Brains: shared memory for a team and its AI tools, captured from where work already happens, so nobody has to maintain it. Open source, and run on the organisation's own infrastructure or hosted for them. The organisation owns it and can run it without Rizom.
 
-**A network.** The professionals who deliver the method are members of the collective, not employees. Partners are certified to deliver it under the Rizom name, on their own clients, with the method and platform held as a commons that all of them draw on and feed back into.
+The work is done by people, with the organisation, in the room. It is delivered by Rizom and by partners certified in the method, so it does not depend on one person. Rizom runs on what it describes: rizom.ai is itself a Brain, and the platform is open source on GitHub. Pilots are running in an innovation network, in sustainability and in art and academia.
 
 ## What an organisation gets
 
@@ -24,10 +24,6 @@ A shared picture of its own knowledge system: which people it cannot afford to l
 Everything it gets, it owns. The playbook is its document. The platform is open source on its own servers. Nothing depends on Rizom staying in the room.
 
 The work comes in steps an organisation can take one at a time: a workshop, an audit, a build, a retainer. Each stands on its own and each one's result is the next one's starting point.
-
-## How Rizom delivers
-
-Rizom is not a consultancy with a payroll and not a software vendor with a licence. Engagements are delivered by members of the collective, compensated per engagement from the fee. Partners who have been certified deliver the method on their own clients and remit a share to the commons, which funds the platform. Rizom runs on what it describes: rizom.ai is itself a Brain, and the platform is open source on GitHub. Pilots are running in an innovation network, in sustainability and in art and academia, and the first partner certifications run on real, paid engagements.
 
 ## Why this leads to innovation
 
