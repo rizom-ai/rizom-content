@@ -1,6 +1,3 @@
----
-visibility: restricted
----
 # What Rizom delivers, and why it matters
 
 Every organisation runs on a system nobody manages: who knows what, whose judgment settles which questions, how knowledge actually moves between people. It never appears on an org chart, but it decides whether work flows or stalls. Nobody writes it down, because it always worked.
