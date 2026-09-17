@@ -32,25 +32,6 @@ See what it can do
 ### Href
 \#answers
 
-## Chat
-### Title
-Ask Rizom anything.
-
-### Input Hint
-What do you know about…
-
-### Notice
-Public chat is coming soon. Questions can’t be submitted yet.
-
-### Topics Label
-Topics
-
-### Topics
-
-- open-source governance
-- partner-delivered services
-- why work is play
-
 ## Navigation
 
 ### Navigatio 1
