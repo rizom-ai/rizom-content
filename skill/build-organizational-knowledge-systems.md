@@ -1,19 +1,18 @@
 ---
 name: Build Organizational Knowledge Systems
 description: >-
-  Create systems that capture, organize, retrieve, and share knowledge across
-  teams, communities, and AI-supported workflows.
+  Organize collective knowledge into accessible systems that support retrieval,
+  coordination, institutional memory, and better decisions.
 tags:
   - knowledge-base
   - retrieval
   - content
-  - agents
-  - ai-systems
+  - organization
 examples:
-  - How can we organize our collective knowledge for easy retrieval?
-  - Design a knowledge system that supports both people and AI agents.
+  - Design a knowledge architecture for a distributed collective.
   - >-
-    What should a user-facing capability menu include for an organizational
-    brain?
+    How should we structure organizational knowledge so partners can find and
+    reuse it?
+  - Create a tagging and retrieval system for shared practices and research.
 ---
 
